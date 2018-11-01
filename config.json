@@ -1,0 +1,16 @@
+{
+    "title": "Project",
+    "baseURL": "https:\/\/stage-hub-bedbathandbeyond.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "defaultContentLanguage": "none",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758166",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "stage-hub-bedbathandbeyond.com"
+    }
+}
