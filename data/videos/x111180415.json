@@ -1,0 +1,117 @@
+{
+    "title": "waterpik",
+    "description": "",
+    "referenceId": "4253",
+    "date_created": "1502924573",
+    "date_modified": "1516738169",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180415",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "waterpik",
+    "category": "",
+    "duration": "48",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "48",
+            "width": 420,
+            "height": 280
+        },
+        "mediaDuration": "48",
+        "prettyDuration": "00:00:48",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180415\/a04c6\/thumb-4253-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180415\/a04c6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180415\/a04c6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180415\/cc\/vtt\/en_1516738165.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180415\/a04c6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 420,
+                "height": 280
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180415\/a04c6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 420,
+                "height": 280
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180415\/a04c6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 420,
+                "height": 280
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180415\/a04c6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 420,
+                "height": 280
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180415\/a04c6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ]
+    },
+    "transcripts": "The Waterpik ultra cordless has an advanced ergonomic handle design to fit a young person\u009ds hand and a dual pressure control system that easily adjusts to the desired cleaning level.\r\n\r\nBut most importantly there is a new orthodontic tip especially designed to clean around braces, in addition to implants, crowns and other dental work.\r\n\r\nThe ultra cordless is also great for any patient that wants the convenience of a portable dental water jet. It\u009ds streamlined, has an easy to fill reservoir, is rechargeable, easy to store and great for travel.\r\n\r\nThe ultra cordless comes with four tips including the orthodontic tip, a standard jet tip, a pickpocket tip and a ton cleaner.",
+    "VV_VI": 1391,
+    "CVV_VI": 24,
+    "engagement_score": 3,
+    "conversion_score": 1,
+    "metrics_statistics": "{\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "12\/10\/2011",
+    "created_date": "6\/22\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 935.2733,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

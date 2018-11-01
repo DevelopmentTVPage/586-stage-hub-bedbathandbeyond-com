@@ -1,0 +1,117 @@
+{
+    "title": "Turvis Tumbler",
+    "description": "",
+    "referenceId": "4219",
+    "date_created": "1502924563",
+    "date_modified": "1516394343",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180409",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "turvis-tumbler",
+    "category": "",
+    "duration": "82",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "82",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "82",
+        "prettyDuration": "00:01:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180409\/0cb28\/thumb-4219-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180409\/0cb28\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180409\/0cb28\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180409\/cc\/vtt\/en_1516394335.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180409\/0cb28\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180409\/0cb28\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180409\/0cb28\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180409\/0cb28\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180409\/0cb28\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Tervis Tumbler Clear Tumblers (Set of 4)\r\n\r\nThis fun summer drinkware is ideal for picnics, parties, backyard barbecues and everyday use. Insulated tumblers keep hot drinks hot  Tervis Tumblersand cold drinks cold, and reduce condensation. Made of virgin polycarbonate. Dishwasher safe. Lifetime guarantee.\r\n\r\nA lifetime guarantee.  What does it mean?  At Tervis Tumbler, we believe it\u0092s not just about durability.  It\u0092s about enhancing the way you live.\r\n\r\nFor 60 years, our tumblers have been part of the active American lifestyle.  Whether playing in the game or watching the game, giving a concert or sitting in the audience, a Tervis Tumbler is the perfect drinkware for any occasion.\r\n\r\nTervis Tumblers are never too hot to hold.  They practically eliminate condensation from your icy cold beverages, and prevent moisture rings on your furniture.\r\n\r\nWhat\u0092s the secret?  The Tervis Tumbler classic design creates an insulated barrier that maintains the temperature of your beverage, so hot drinks stay hotter and cold drinks stay colder.  And our durable construction makes it virtually indestructible.  It\u0092s safe for the dishwasher, the freezer, and the kids.\r\n\r\nThe Tervis Tumbler unconditional lifetime guarantee means you can always count on using your high quality, classically designed drinkware for generations.  At Tervis Tumbler, we believe all good things should last a lifetime.\r\n\r\nTervis Tumbler: what a tumbler should be.",
+    "VV_VI": 135,
+    "CVV_VI": 10,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "dvd",
+    "modified_date": "8\/30\/2012",
+    "created_date": "6\/19\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1377.0292,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

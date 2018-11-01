@@ -1,0 +1,121 @@
+{
+    "title": "Space Bag",
+    "description": "",
+    "referenceId": "3914",
+    "date_created": "1502924512",
+    "date_modified": "1516394229",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180381",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "space-bag",
+    "category": "",
+    "duration": "135",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "135",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "135",
+        "prettyDuration": "00:02:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180381\/06f63\/thumb-3914-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180381\/06f63\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180381\/06f63\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180381\/cc\/vtt\/en_1516394219.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180381\/06f63\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180381\/06f63\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180381\/06f63\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180381\/06f63\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180381\/06f63\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Just when you think you have enough space, you think grow. It gets cramped, cluttered, and out of control. But now, there's a smart solution for storing too much stuff in not enough space.\r\n\r\nSpace Bag? Vacuum Seal Storage Packs. There's a whole line of Space Bags to suit every need in your home, including our original flat bags and the amazing Cube. It's like fitting four storage bins in one bag, giving you the power to control the clutter.\r\n\r\nHere's how it works: just pack your items, seal the airtight zipper, intake any vacuum with a hose, and vacuum out the air. Everything stays compressed and protected.\r\n\r\nEach Space Bag is made with four layers of protection guaranteed to lockout dirt, bugs, and moisture. So when you open them, everything comes out as fresh and clean as the day you put it in. Plus, you can use them over and over again. And sending your kids back to school is a snap with Space Bag Storage Packs. They make it easier to pack and arrange your student's belongings.\r\n\r\nWith the new vacuum seal Space-Saver Tote from Space Bag, I can easily store all this bedding in one single tote. Here's how they work: unfold the tote and open up the built-in vacuum seal bag. Then, pack your bedding, pillows, and bulky items inside. Seal the airtight zipper, then simply vacuum out the air through the patented one-way valve. Space Bag Totes feature rigid sides, so they stack neatly, and a see-through window for easy organizing.\r\n\r\nWhen you travel, be sure use Space Bag Rollup Travel Bags. They help you make more room in your luggage, and come in both suitcase and carry-on sizes. You don't need a vacuum with a rollup travel bag, just squeeze out the air. You'll pack more in less space, and organizing and finding things is a snap, so you save time going through security.\r\n\r\nIf you have too much stuff and not enough space, get the smart solution: Space Bag Storage Packs.",
+    "VV_VI": 212,
+    "CVV_VI": 14,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "dvd",
+    "modified_date": "12\/9\/2013",
+    "created_date": "5\/26\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2451.5317,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

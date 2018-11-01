@@ -1,0 +1,118 @@
+{
+    "title": "Crispy Corners Brownie Pan",
+    "description": "",
+    "referenceId": "47345",
+    "date_created": "1502525344",
+    "date_modified": "1517250032",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110005335",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "crispy-corners-brownie-pan",
+    "category": "",
+    "duration": "87",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "87",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "87",
+        "prettyDuration": "00:01:27",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110005335\/0102f\/thumb-ce56ab74a8d604634dc613dd06679a81-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110005335\/0102f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110005335\/0102f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110005335\/cc\/vtt\/en_1517250027.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005335\/0102f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005335\/0102f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005335\/0102f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005335\/0102f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005335\/0102f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi. My name is Emily from Bed Bath and Beyond, and I'm here to tell you about the Crispy Corners Brownie Pan. This pan bakes 12 - 2\" square brownies all the same size and height, and each brownie has four crispy edges. The pan is non-stick and dishwasher safe so cleanup is a breeze. The Crispy Corner Brownie Pan is so simple to use. All you need to do is pour it, bake it, flip it, and pull them apart. Simply pour in your brownie batter and use a spatula to distribute evenly and bake. When your brownies are cool place a flat surface, like a cutting board, on top of the pan, flip it over, and tap the pan to release the brownies. Now, take your platter and place it on top of the brownies and flip it over so your brownies are right side up.\n\nNow, comes the best part. It's time to eat. There's no need to cut your brownies. Simply serve your crispy corner brownies to friends and family and watch them be pulled apart. The Crispy Corners Brownie Pan is available online and at a Bed Bath and Beyond store near you.",
+    "VV_VI": 1,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "4\/23\/2013",
+    "created_date": "8\/17\/2012",
+    "tvp_profiles": [
+        "18",
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 16.729622,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

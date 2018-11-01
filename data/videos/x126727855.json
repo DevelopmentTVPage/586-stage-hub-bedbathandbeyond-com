@@ -1,0 +1,119 @@
+{
+    "title": "Gund Flappy the Elephant",
+    "description": "",
+    "referenceId": "bd8935bf0cdb3306d8ce88eba9161ac0",
+    "date_created": "1509384232",
+    "date_modified": "1524496960",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "baby_and_kids",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": null,
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "126727855",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Gund-FlappyElephant-46992574-mp4",
+    "category": "",
+    "duration": "38",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "38",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "38",
+        "prettyDuration": "00:00:38",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/126727855\/b7bd2\/thumb-bd8935bf0cdb3306d8ce88eba9161ac0-00001.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/126727855\/b7bd2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/126727855\/b7bd2\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/126727855\/cc\/vtt\/en_1509662921.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/126727855\/b7bd2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/126727855\/b7bd2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/126727855\/b7bd2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/126727855\/b7bd2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/126727855\/b7bd2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Hello Baby, let's sing together! Do your ears hang low? Do they wobble to and fro? I love singing with you.\n\nPeek-a-boo is most fun with you! Heh heh heh, Peek-a-boo, I found you! Where'd you go? Hi cutie pie!\n\nDo you ears...hang...low? That was fun!",
+    "VV_VI": 3238,
+    "CVV_VI": 41,
+    "engagement_score": 6,
+    "conversion_score": 5,
+    "metrics_statistics": "{\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "Requested that TVPage generate SRT file for CC.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "10\/30\/17",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 393.3456,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

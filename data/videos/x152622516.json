@@ -1,0 +1,123 @@
+{
+    "title": "4moms\u00ae Breeze Classic Playard",
+    "description": "",
+    "referenceId": "784294ead3995ab9172d81bfcba60129",
+    "date_created": "1520268401",
+    "date_modified": "1520955658",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "gear_and_travel",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "custom_video",
+    "user_id": "0",
+    "id": "152622516",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "4momsFTW-Final-Captions-1-mp4",
+    "category": "",
+    "duration": "54",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "54",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/511\/240\/688670523-76518246.JPG",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/152622516\/b1698\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/152622516\/b1698\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/152622516\/cc\/vtt\/en_1520955649.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152622516\/b1698\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152622516\/b1698\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152622516\/b1698\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152622516\/b1698\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152622516\/b1698\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 1085,
+    "CVV_VI": 23,
+    "engagement_score": 1,
+    "conversion_score": 2,
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-06-03"
+        }
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Meagen Westphalen",
+    "modified_date": "03\/09\/2018",
+    "created_date": "03\/09\/2018",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

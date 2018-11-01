@@ -1,0 +1,119 @@
+{
+    "title": "Astonish 8.82 oz. Cooktop Cleaner and Sponge Set",
+    "description": "",
+    "referenceId": "55f06483d70e284c3fe1075c19e369e5",
+    "date_created": "1523974927",
+    "date_modified": "1524498719",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "storage_and_cleaning",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "160477541",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Astonish-CooktopCleanerSpongeSet-63637632",
+    "category": "",
+    "duration": "153",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "153",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "153",
+        "prettyDuration": "00:02:33",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/160477541\/69ba7\/thumb-55f06483d70e284c3fe1075c19e369e5-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/160477541\/69ba7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/160477541\/69ba7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/160477541\/cc\/vtt\/en_1524498710.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/160477541\/69ba7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/160477541\/69ba7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/160477541\/69ba7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/160477541\/69ba7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/160477541\/69ba7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Astonish Specialist Hob & Cooktop Cleaner & Sponge. The amazing cleaner that removes everyday burnt on food, grease and cooking spills from hobs and cooktops with ease. \nThe Specialist Hob & Cooktop Cleaner is a powerful cleaner and degreaser for those tiresome cleaning jobs. \nTime to get a bit of help from Astonish. The cleaner comes with an applicator specially designed for delicate hob and cooktop surfaces\nDampen the applicator side of the sponge with warm water and take some paste. \nRub the surface your cleaning with a circular motion to lift the grease and residue. It\u2019s that easy.\nNow rinse the applicator and reapply to any area. \nFinally, using the sponge side of the applicator with warm water, wipe clean and prepare to be amazed. \nA sparkling grease free surface.\nAstonish Specialist Hob & Cooktop Cleaner can be used for all types of enamel, ceramic or halogen hobs.\nIt has no harsh chemicals so you can put away those rubber gloves and it contains essence of lemon and ginger so smells great too.\nThe paste contains a highly effective abrasive for targeted cleaning power. So safe yet so powerful. \nAstonish Specialist Hob & Cooktop Cleaner both cleans and protects cutting through heavy grease and burnt on food with ease. As it cleans it leaves a protect coating to shield the surface of your hob from damage from further spills.\nTried, tested and approved by the Good Housekeeping institute. We\u2019re also proud to say that like all our products it\u2019s not tested on animals and contains no animal ingredients\nNo smears, no streaks a perfect shine every time. \nAstonish\u2019s range of specialist cleaners are made in Britain and sold in over 40 countries around the world. For over 40 years we\u2019ve been helping you to help yourself to a clean and spotless kitchen. Astonish Specialist Hob and Cooktop Cleaner and Sponge. Astonish, the pinnacle of cleaning.",
+    "VV_VI": 41,
+    "CVV_VI": 2,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript for reference.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "4\/17\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

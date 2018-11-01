@@ -1,0 +1,117 @@
+{
+    "title": "The Sharper Image Super Grill",
+    "description": "",
+    "referenceId": "19340",
+    "date_created": "1502923840",
+    "date_modified": "1516394638",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180086",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "the-sharper-image-super-grill",
+    "category": "",
+    "duration": "75",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "75",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "75",
+        "prettyDuration": "00:01:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180086\/5e805\/thumb-19340-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180086\/5e805\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180086\/5e805\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180086\/cc\/vtt\/en_1516394625.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180086\/5e805\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180086\/5e805\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180086\/5e805\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180086\/5e805\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180086\/5e805\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Does a busy schedule have your family eating fast food and frozen dinners? Now, you can make healthy, delicious meals in minutes with the Stainless Steel Super Grill from The Sharper Image. The Sharper Image Supper Grill is five appliances in one. It's a two-sided closed grill, a double wide open grill, a restaurant style panini press, a griddle, even a waffle maker! Make perfect paninis in a minute, blueberry waffles in two, even thick juicy stakes in just five minutes time. The cool touch handle with floating hinge adjusts to even the largest cuts of meat, to grill steaks and chops. Make eggs, bacon, and hash browns, tasty juicy burgers, even delicious chicken and vegetables, all in under ten minutes! And Sharper Image means quality, with its stainless steel construction, five large interchangeable nonstick plates, and easy to use temperature controls. The Sharper Image Supper Grill has 1,500 Watts of power, and cooks food from both the top and the bottom, so it's done in half the time. It's ingenious design drains out the grease, so you sear in the flavor and cut out the fat. And the Super Grill's plates are removable, so clean up is a breeze. The Sharper Image Super Grill even comes with these twenty five recipe cards, so you can make hearty breakfasts, healthy lunches, delicious dinners, and deserts in no time.",
+    "VV_VI": 13,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/5\/2011",
+    "created_date": "4\/22\/2011",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2071.3713,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

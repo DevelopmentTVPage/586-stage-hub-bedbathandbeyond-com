@@ -1,0 +1,114 @@
+{
+    "title": "Comforts of Home",
+    "description": "",
+    "referenceId": "26b2c3311a8ee2b866c3794b31aa8a46",
+    "date_created": "1504592667",
+    "date_modified": "1504592802",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "116031864",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "media-16-mp4",
+    "category": "",
+    "duration": "102",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "102",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "102",
+        "prettyDuration": "00:01:42",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/116031864\/0fe38\/thumb-26b2c3311a8ee2b866c3794b31aa8a46-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116031864\/0fe38\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116031864\/0fe38\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116031864\/0fe38\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116031864\/0fe38\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116031864\/0fe38\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/116031864\/0fe38\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/116031864\/0fe38\/media.m3u8"
+    },
+    "transcripts": "Living away from home is an exciting time, but you're probably gonna find that your dorm room could use a few comforts of home. Start with a mattress protector. It'll shield your mattress from all sorts of gross stuff like dust, dust mites, and allergens. For extra comfort and softness, top your mattress with a foam topper or fiber bed. Get cuddly with a down comforter inside a duvet cover and add a fleece throw. Don't forget a squishy new pillow. Leave the old one at home for when you visit. Add extra seating with beanbags and folding chairs. A back rest turns your bed into a lounge chair. Opt out of the small, hard wooden chair that they give you and get yourself a padded desk chair. Bring some photos of your high school friends and family to stick on your desk or hang on the wall. Avoid overhead fluorescents. Start with a floor lamp and a desk lamp so you have ambient lighting for the room and task lighting for your work space. Add a serious boost of comfort and style with a rug under your feet and bypass the cold linoleum and industrial carpeting. Having a fan to move the air around and cool you off when it's hot is a huge comfort booster. Brew up a cup of joe and share pods with your new friends. And you might just want your old teddy bear to get you through those tough moments at your new school. College is a great opportunity to be on your own, but that doesn't mean you can't enjoy the comforts of home. Get the thing you need for college at Bed Bath & Beyond. Shop at your nearest store or online.",
+    "VV_VI": 2,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "felipe.deleon",
+    "modified_date": "7\/3\/2013",
+    "created_date": "",
+    "tvp_profiles": [
+        "18",
+        "31"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 204.74263,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

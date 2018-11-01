@@ -1,0 +1,117 @@
+{
+    "title": "Breville Rice Cooker",
+    "description": "",
+    "referenceId": "3297",
+    "date_created": "1502924264",
+    "date_modified": "1516655102",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180278",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "breville-rice-cooker",
+    "category": "",
+    "duration": "28",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "28",
+            "width": 592,
+            "height": 332
+        },
+        "mediaDuration": "28",
+        "prettyDuration": "00:00:28",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/480355428-01320180.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180278\/85ebf\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180278\/85ebf\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180278\/cc\/vtt\/en_1516655097.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180278\/85ebf\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 592,
+                "height": 332
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180278\/85ebf\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 592,
+                "height": 332
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180278\/85ebf\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 592,
+                "height": 332
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180278\/85ebf\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 592,
+                "height": 332
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180278\/85ebf\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Adele Schober: This is the Breville Gourmet Rice Duo. It actually cooks 10 cups of uncooked white rice in it, and it'll shut itself off, so you don't have to worry about it.\r\n\r\nThe other great thing, it's got these stackable steamers, so you can cook your vegetables, and your fish or poultry at the same time as cooking your rice. And, of course, it's got the nonstick bowl, so it's so easy to clean.\r\n\r\nAnother innovation by Breville.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "9\/11\/2012",
+    "created_date": "3\/4\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 708.1316,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

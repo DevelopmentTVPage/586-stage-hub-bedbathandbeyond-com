@@ -1,0 +1,111 @@
+{
+    "title": "Waterpik PowerSpray+ PowerPulse 6-Spray Showerhead in Brushed Nickel",
+    "description": "Boasting soothing PowerPulse Massage technology, the Waterpik PowerSpray+ PowerPulse Showerhead brings a refreshing spa-like shower experience to your home. The easy-to-install showerhead features 6 high-performance spray modes.",
+    "referenceId": "37241e9b4ab08b157b806603e21e9a53",
+    "date_created": "1526994900",
+    "date_modified": "1527018554",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "bath",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "163987549",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "73950234382",
+    "category": "",
+    "duration": "28",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "28",
+            "width": 1440,
+            "height": 1072
+        },
+        "mediaDuration": "28",
+        "prettyDuration": "00:00:28",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/163987549\/f3d9f\/thumb-37241e9b4ab08b157b806603e21e9a53-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/163987549\/f3d9f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/163987549\/f3d9f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163987549\/f3d9f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1440,
+                "height": 1072
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163987549\/f3d9f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 968,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163987549\/f3d9f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 644,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163987549\/f3d9f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 484,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163987549\/f3d9f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 238
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "No Words",
+    "uploader": "Robert Podolak",
+    "modified_date": "",
+    "created_date": "5\/22\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "Waterpik Sherlock Nation",
+    "tvp_enhanced_transcript": ""
+}

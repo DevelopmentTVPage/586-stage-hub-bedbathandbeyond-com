@@ -1,0 +1,117 @@
+{
+    "title": "London Luxury",
+    "description": "",
+    "referenceId": "4218",
+    "date_created": "1502924561",
+    "date_modified": "1516652995",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180408",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "london-luxury",
+    "category": "",
+    "duration": "82",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "82",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "82",
+        "prettyDuration": "00:01:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180408\/ea9d2\/thumb-4218-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180408\/ea9d2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180408\/ea9d2\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180408\/cc\/vtt\/en_1516652989.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180408\/ea9d2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180408\/ea9d2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180408\/ea9d2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180408\/ea9d2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180408\/ea9d2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Skin Glow\u0099 Pillow with Cupron\u00ae Copper Technology\r\n\r\nThese pillows will help you get your beauty sleep in every sense. The copper oxide plated fibers are designed to restore the skin and the Skin Glow Pillow with Cupron Copper Technologycupron-infused fabric is designed to eliminate bacteria, fungus and microbes, reducing the appearance of wrinkles and fine lines while you sleep. 85% cotton\/15% cupron polyester. 300 thread count. Machine wash.\r\n\r\nEach year, Americans spend millions of dollars on beauty products that promise to make them look younger. While most discover that expensive skin creams and surgery don\u0092t payoff, one company\u0092s new breakthrough in the fight against visible signs of aging is giving you the power to turn back the clock while you sleep.\r\n\r\nWhile researching the properties of natural copper, scientists noticed that copper embedded fabric reduced the appearance of wrinkles, crow\u0092s feet, and fine lines. As a natural and non-sensitizing element required by the human body, copper\u0092s properties are clinically proven to penetrate the skin and result in a healthier appearance.\r\n\r\nLondon Luxury, a manufacturer of beneficial bedding products partnered with Cupron\u00ae, the scientists behind this copper technology to create Skin Glow\u0099, a line of bedding products that renew the appearance of your skin.\r\n\r\nSkin Glow products such as pillows, comforters, pillow covers, and eye masks provide a gentle and natural solution for dramatic restoration of the skin\u0092s youthful look.\r\n\r\nEncapsulated in these fibers is pure, natural copper oxide. And what they do is when they\u0092re exposed to water, perspiration of your face is enough, they will release copper ions.\r\n\r\nWhen used in direct contact with the skin, products made with copper-infused fibers are clinically proven to smooth the appearance of wrinkles and fine lines.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "dvd",
+    "modified_date": "8\/30\/2012",
+    "created_date": "6\/19\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1633.0065,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

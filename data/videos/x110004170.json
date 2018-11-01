@@ -1,0 +1,117 @@
+{
+    "title": "Tassimo Suprema Single-Serve Beverage Maker",
+    "description": "",
+    "referenceId": "35198",
+    "date_created": "1502524973",
+    "date_modified": "1516736678",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110004170",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "tassimo-suprema-single-serve-beverage-maker",
+    "category": "",
+    "duration": "64",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "64",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "64",
+        "prettyDuration": "00:01:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004170\/2a0cb\/thumb-a63f7e438dd654b4fc990418582bee8a-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004170\/2a0cb\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004170\/2a0cb\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110004170\/cc\/vtt\/en_1516736675.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004170\/2a0cb\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004170\/2a0cb\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004170\/2a0cb\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004170\/2a0cb\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004170\/2a0cb\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "I'm guessing you like coffee, cappuccino, espresso, latte, chi tea latte, maybe the occasional hot chocolate. I guess you like a little variety. Well, you've come to the right place because the Tassimo Brewer makes each of these the way they were meant to be brewed. Other brewers use the same temperature, water volume and brew time for all of their beverages. And everyone should know a coffee is not a latte. The Tassimo Brewer is different. Tassimo reads the exact brewing instructions for each brand and beverage from a barcode, you know, those little black and white lines a scanner reads. The barcode on each T disc tells Tassimo the exact temperature, water volume brew time that's ideal for that beverage. Tassimo brews your favorite coffeehouse style beverages, each the way it was meant to be brewed. Making even the fanciest specialty beverages with Tassimo is simple. It even froths the milk with just a touch of the button. Yum. What else can I tell you? Scan these details to find out what makes Tassimo a better brewer, kind of like the way Tassimo scans barcodes to make better coffee. Tassimo, the barcode brews it better.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/31\/2012",
+    "created_date": "10\/28\/2011",
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 336.5288,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

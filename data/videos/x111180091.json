@@ -1,0 +1,117 @@
+{
+    "title": "The Shaper Image Super Wave Oven",
+    "description": "",
+    "referenceId": "19531",
+    "date_created": "1502923848",
+    "date_modified": "1516655932",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180091",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "the-shaper-image-super-wave-oven",
+    "category": "",
+    "duration": "83",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "83",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "83",
+        "prettyDuration": "00:01:23",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180091\/b7eb6\/thumb-19531-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180091\/b7eb6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180091\/b7eb6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180091\/cc\/vtt\/en_1516655924.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180091\/b7eb6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180091\/b7eb6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180091\/b7eb6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180091\/b7eb6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180091\/b7eb6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Do you hate spending hours in the kitchen cooking,and does forgetting to defrost mean waiting forever to eat? Then you need the Super Wave Oven from the Sharper Image.\r\n\r\nThe Sharper Image Super Wave Oven saves time like a microwave, but cooks like a conventional oven, making delicious, low-fat meals in a fraction of the time, and you'll never have to defrost again.\r\n\r\nThe Super Wave Oven broils, bakes, barbecues, roasts, grills, steams, dehydrates and fries to make mouth-watering pork chops, succulent salmon, barbecued ribs, grilled steaks, even a whole turkey, all from frozen with virtually no clean up.\r\n\r\nThe secret of The Sharper Image Super Wave Oven is the powerful Tri-Cooking System. First, the halogen heating element sears food, sealing in its natural juices. Next,the infrared light waves cook food from the inside out. Finally, the convection fan quickly rotates the air to cook food three times faster than conventional cooking, for healthy, delicious meals with less fat and fewer calories. It takes food from the freezer to the table in just minutes and makes fried chicken without all of the extra fat and grease. It even dehydrates and makes delicious desserts.",
+    "VV_VI": 11,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-05-01\"}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/5\/2011",
+    "created_date": "1\/11\/2011",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1537.4115,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

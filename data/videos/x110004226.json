@@ -1,0 +1,119 @@
+{
+    "title": "BabyBjorn Travel Crib",
+    "description": "",
+    "referenceId": "42405",
+    "date_created": "1502525088",
+    "date_modified": "1516646536",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110004226",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "babybjorn-travel-crib",
+    "category": "",
+    "duration": "137",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "137",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "137",
+        "prettyDuration": "00:02:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004226\/66d1c\/thumb-fbba5dc431a72574e3b00180d145fcb8-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004226\/66d1c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004226\/66d1c\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004226\/66d1c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004226\/66d1c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004226\/66d1c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004226\/66d1c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004226\/66d1c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110004226\/cc\/vtt\/en_1516646536.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "The BabyBjorn Travel Crib Light 2 is the perfect crib for traveling with your baby. Weighing just 11 pounds, less than half of other portable cribs, the BabyBjorn Travel Crib Light 2 sets up easily in one simple movement. The sturdy mattress and wide, stable base keeps the travel crib firm on the floor, making it safe, snug and cozy for your child. Excellent for newborns and children up to age three, the net fabric side panels make it easy for you to keep an eye on your baby. Each of the four legs snap into position. The angled design takes up minimal space while still providing plenty of sleeping room. The insulated hypoallergenic mattress keeps your baby warm and comfortable, and the breathable waterproof mattress cover is easy to remove and machine wash in case of nighttime accidents.\r\n\r\nThe Travel Crib Light 2 fabric also unzips and removes completely for machine washing. Like all BabyBjorn products, our fabrics are guaranteed free from harmful chemicals and allergens. The Travel Crib Light 2 is just as easy to take down as it is to set up. Simply turn the crib upside down and, pulling up gently, release each leg one at a time. Fold the legs diagonally inside the frame and press the two shorter sides of the frame together. Now, just place the crib in the carrying case between the folded mattress, zip up the travel bag, and you're ready to go. The BabyBjorn Travel Crib Light 2, you'll enjoy years of safe, comfortable sleeping when on the go.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "2\/3\/2012",
+    "created_date": "2\/3\/2012",
+    "tvp_profiles": [
+        "15",
+        "22",
+        "32"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 6.300652,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

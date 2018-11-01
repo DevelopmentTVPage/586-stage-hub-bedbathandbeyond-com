@@ -1,0 +1,121 @@
+{
+    "title": "VORNADO Energy Smart\u2122 Versa-Flow\u2122 Tower Circulators With Brushless DC Motor",
+    "description": "Vornado's new Energy Smart\u2122 Tower Circulators brings air-circulating technology to the next level with Versa-Flow adjustable airflow plus an Energy Smart DC motor. Versa-Flow allows you to create a wide span of airflow, a direct line of airflow and everything in between. The constant airflow (over 100\u2019) eliminates the need for oscillation because the high volume of air continuously moves throughout the room. The brushless DC motor is up to 80% more energy-efficient and pairs with 99 variable speeds for precise control. The NGT42DC has touch-capacitive controls, a 1\u201312-hour auto-off timer, easy-to-clean air inlet grill, remote control and Vornado\u2019s industry-leading 10-year satisfaction guarantee.",
+    "referenceId": "5c3005bed6b22fa8232a891111510976",
+    "date_created": "1515776428",
+    "date_modified": "1516411463",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "137390619",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "VORNADO-Energy-Smart-Versa-Flow-Tower-Circulators-With-Brushless-DC-Motor-mp4",
+    "category": "",
+    "duration": "84",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "84",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "84",
+        "prettyDuration": "00:01:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390619\/21066\/thumb-5c3005bed6b22fa8232a891111510976-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390619\/21066\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390619\/21066\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390619\/21066\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390619\/21066\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390619\/21066\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390619\/21066\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390619\/21066\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390619\/cc\/vtt\/en_1516411463.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "in 1945 Vornado created a new way to feel cool by circulating air throughout the whole room. Now vornado offers that same circulation using up to 80 percent less energy, it's called energy smart and what makes it remarkable is not only its efficiency but its delivery of even more powerful airflow than a traditional Vornado. It's smart because precise controls allow you to dial in the perfect airflow setting from soft silent flow to legendary power no more no less it's smart because it creates a powerful path of air that flows fast cool and constant. It's adjustable from a wide distributed air flow to a direct current of air and everything in between. This continuous current of air ensures that everyone in the room is comfortable no matter where they are unlike oscillating fans that are only cooling one part of the room at a time. It's smart because it's backed by a 10-year satisfaction guarantee while it continues to keep everyone comfortable 10 lessor fans may have already hit the landfill. More efficient more powerful more effective than a typical fan plus a 10 year guarantee now that's smart. It's energy smart from vornado.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": "",
+    "tvp_profiles": [
+        "2"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 231.28299,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

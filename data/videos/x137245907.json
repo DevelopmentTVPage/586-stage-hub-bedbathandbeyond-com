@@ -1,0 +1,127 @@
+{
+    "title": "Little Luxury Vitality Replacement Water Filter",
+    "description": "",
+    "referenceId": "82782f58effa995da67f9f87a4ef1ab4",
+    "date_created": "1515593524",
+    "date_modified": "1516035628",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "other",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "137245907",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "LittleLuxuryWaterCooler-61058675-61058682-mp4",
+    "category": "",
+    "duration": "142",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "142",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "142",
+        "prettyDuration": "00:02:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137245907\/38f8d\/thumb-82782f58effa995da67f9f87a4ef1ab4-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137245907\/38f8d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137245907\/38f8d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137245907\/38f8d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137245907\/38f8d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137245907\/38f8d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137245907\/38f8d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137245907\/38f8d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137245907\/cc\/vtt\/en_1516035628.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "Welcome and Congratulations on your new Little Luxury! The only Mini Water Cooler that both filters and cools. Our filters purify the water by removing all harmful pesticides, heavy metals and contaminants while retaining the valuable minerals of the water.\nLittle Luxury is made from food-grade quality materials and uses almost 70% less energy than the traditional cooler. It silently cools water to about 45 degrees Fahrenheit in around 30 minutes.\nThis video will show you how to assemble, use and take care of your new Little Luxury!\nFirst, remove all the items from the packaging. You will have a water cooler, a BPA-free water bottle with removeable cap, a filter, a detachable splash-tray and your user manual.\nFor the first time only, we recommend that you remove the filter and rinse it for about 30 seconds, gently shaking it out. This removes any carbon residue.\nNext, remove the top cover of the cooler and wipe the base clean. Then replace the cover and insert the filter into the cooler.\nNext, remove the cap from the water bottle and fill it with water from the sink. Or, if you\u2019re using our outdoor series, you can use water from a river or stream. Then, replace the cap. You will notice that the bottle cap has a spill-free mechanism which allows you to easily install without spilling. However, we still recommend holding down the cap during installation for extra safety. Carefully place the inverted bottle onto the cooler. You will notice bottles forming as the water travels through the filter into the cooler.\nThe first time you fill up an empty cooler, the water level in the bottle will drop. Once you refill the bottle and place it onto a full cooler, the water level will stay the same.\nNext, insert the splash-tray at the bottom of the cooler. \nThen, simply plug in your Little Luxury, switch it on, and in 30 minutes you\u2019ll have ice-cold filtered healthy drinking water.\nIf you need to transport or store your Little Luxury, release the water by removing the rubber plug from underneath the base.\nWe hope you enjoy your new Little Luxury and all the convenience of ice-cold filtered water anytime!",
+    "VV_VI": 173,
+    "CVV_VI": 3,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-06-06"
+        }
+    },
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript for reference.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "1\/10\/18",
+    "tvp_profiles": [
+        "18",
+        "9",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 3591.667,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

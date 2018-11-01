@@ -1,0 +1,115 @@
+{
+    "title": "Jeep Cherokee Ride-On Push Car",
+    "description": "Play time is adventure time with the Jeep Cherokee Ride-On Push Car. Featuring all the classic designs of the iconic Jeep, this push car has interactive steering and realistic engine and horn sounds. Great for building motor skills through play.",
+    "referenceId": "cd0ad9cf6c335e0fdb300ff7808588ec",
+    "date_created": "1528827642",
+    "date_modified": "1528828716",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "toys_and_learning",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "164838153",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "5182416-vid",
+    "category": "",
+    "duration": "110",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "110",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "110",
+        "prettyDuration": "00:01:50",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/164838153\/69cd7\/thumb-cd0ad9cf6c335e0fdb300ff7808588ec-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/164838153\/69cd7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/164838153\/69cd7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164838153\/69cd7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164838153\/69cd7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164838153\/69cd7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164838153\/69cd7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164838153\/69cd7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 8,
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "delete": "",
+    "notes": "no spoken words",
+    "uploader": "Franz Aquino",
+    "modified_date": "",
+    "created_date": "06\/12\/2018",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "University of Bedfordshire Sid PB Teen Agenda Cultural Harry Ramsden's Identikit Dogman Heel Chestnut Tree House Intronis SMAG Arts Mid Hudson Romagnoli Ovation Canadian Education Association Verlag Moderne Industrie Simpson Strong Tie Kinetic Nathan Marcom Simmons Bedding Company",
+    "tvp_enhanced_transcript": ""
+}

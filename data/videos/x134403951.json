@@ -1,0 +1,115 @@
+{
+    "title": "4moms breeze Playard",
+    "description": "",
+    "referenceId": "4de903637dde25d58db006a9ba0f9580",
+    "date_created": "1513804150",
+    "date_modified": "1520634250",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "baby_and_kids",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "buy_buy_baby",
+    "mod_request": "done",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "134403951",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "17-10-23-breezewow-email-mpg",
+    "category": "",
+    "duration": "35",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "35",
+            "width": 720,
+            "height": 404
+        },
+        "mediaDuration": "35",
+        "prettyDuration": "00:00:35",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1268\/700\/304676394-021268702.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/134403951\/7b1ba\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/134403951\/7b1ba\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/134403951\/7b1ba\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 404
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/134403951\/7b1ba\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 404
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/134403951\/7b1ba\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 404
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/134403951\/7b1ba\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/134403951\/7b1ba\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 2260,
+    "CVV_VI": 45,
+    "engagement_score": 2,
+    "conversion_score": 3,
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-06-15"
+        }
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Julie McLaughlin",
+    "modified_date": "Julie McLaughlin",
+    "created_date": "2\/1\/2018",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 20.518946,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

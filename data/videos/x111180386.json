@@ -1,0 +1,117 @@
+{
+    "title": "Moshi v4a",
+    "description": "",
+    "referenceId": "4037",
+    "date_created": "1502924519",
+    "date_modified": "1516899922",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180386",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "moshi-v4a",
+    "category": "",
+    "duration": "250",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "250",
+            "width": 800,
+            "height": 600
+        },
+        "mediaDuration": "250",
+        "prettyDuration": "00:04:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180386\/8e147\/thumb-4037-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180386\/8e147\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180386\/8e147\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180386\/cc\/vtt\/en_1516899918.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180386\/8e147\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 800,
+                "height": 600
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180386\/8e147\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 800,
+                "height": 600
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180386\/8e147\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180386\/8e147\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180386\/8e147\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Moshi\u00ae Interactive Voice Response Alarm Clock\r\n\r\nAlarm clock is voice or touch activated. Clock responds to voice commands such as \"Time\", \"Set Time\", \"Alarm\", \"Temperature\" and  Moshi IVR Clockso much more. It offers three alarm sounds and three sleep sounds. Clock is AC powered with battery backup. Three AAA batteries are needed for backup; not included. One-year limited warranty.\r\n\r\nMoshi Interactive Voice Responsive Alarm Clock\r\n\r\nThe Moshi IVR Alarm clock is the first fully functional voice responsive alarm clock that can set both time and alarm by voice. Initiate commands by saying \u0093Hello Moshi\u0094 and clock will respond, \u0093Command Please\u0094. Say one of 12 Voice Activated Commands and clock will carry out instructions.\r\n\r\nThe Moshi IVR Alarm Clock is for anyone looking for the added convenience of interacting with their clock. With the Moshi IVR Alarm Clock, you can ask for the time while getting ready in the bathroom, set the alarm or turn off the alarm without moving from the comfort of bed, and know the current temperature all the way from the closet. Simply put, the Moshi IVR Alarm Clock is a timesaver for a busy lifestyle.\r\n\r\nThe World Blind Union officially endorses the Moshi IVR Alarm Clock because of its ease of use through verbal commands, which have benefited the blind community.\r\n\r\n\r\nVoice Activated Commands\r\nTime\t \tTells you the current time\r\nSet Time\t \tSet time by voice\r\nAlarm\t \tTells you time alarm is set\r\nSet Alarm\t \tSet alarm by voice\r\nAlarm Sound\t \tChoose 1 of 3 available alarms\r\nTurn off the Alarm\t \tTurns off alarm; gives current time, date, & temperature\r\nSleep Sound\t \tChoose 1 of 3 available sleep sounds\r\nPlay Sleep Sound\t \tPlays 5 minutes of sleep sound (3 minutes for Travel size)\r\nToday\u0092s Date\t \tTells you today\u0092s date\r\nTemperature\t \tTells you current temperature\r\nNight Light\t \tTurns on night light\r\nHelp\t \tOffers a help menu of assistance\r\n\r\n\r\nFeatures\r\nSnooze Function\t \t9 Minutes. Touch the screen when alarm sounds to activate snooze\r\n\r\nSpecifications\r\nClassic\r\nDimensions: 7.5\u0094 x 3.25\u0094 x 4.5\u0094\r\nPower: AC\/DC (3 AAA batteries, not included)",
+    "VV_VI": 2,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-03-02\"}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "6\/4\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1710.6154,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

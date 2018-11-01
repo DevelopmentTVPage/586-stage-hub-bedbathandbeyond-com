@@ -1,0 +1,1234 @@
+{
+    "pageNumber": 78,
+    "data": [
+        {
+            "id": "123065532",
+            "title": "Lenox: Federal Platinum",
+            "date_created": "1507834795",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ZhRRguiiPsY\/maxresdefault.jpg",
+                "uploadDate": 1507834795,
+                "videoId": "ZhRRguiiPsY",
+                "title": "Lenox: Federal Platinum",
+                "description": "",
+                "author": "LenoxUSA",
+                "mediaDuration": 28,
+                "prettyDuration": "00:00:28",
+                "views": "1",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/lenox-federal-platinum\/114661406-123065532"
+        },
+        {
+            "id": "123065529",
+            "title": "Lenox: French Perle Groove",
+            "date_created": "1507834795",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/1L8j8Re53H8\/maxresdefault.jpg",
+                "uploadDate": 1507834795,
+                "videoId": "1L8j8Re53H8",
+                "title": "Lenox: French Perle Groove",
+                "description": "",
+                "author": "LenoxUSA",
+                "mediaDuration": 33,
+                "prettyDuration": "00:00:33",
+                "views": "3",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/lenox-french-perle-groove\/114661406-123065529"
+        },
+        {
+            "id": "123065533",
+            "title": "Lenox: Opal Innocence Carved",
+            "date_created": "1507834795",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/taYM3BdbWCQ\/hqdefault.jpg",
+                "uploadDate": 1507834795,
+                "videoId": "taYM3BdbWCQ",
+                "title": "Lenox: Opal Innocence Carved",
+                "description": "",
+                "author": "LenoxUSA",
+                "mediaDuration": 35,
+                "prettyDuration": "00:00:35",
+                "views": "2",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/lenox-opal-innocence-carved\/114661406-123065533"
+        },
+        {
+            "id": "123065527",
+            "title": "Lenox Home Decor",
+            "date_created": "1507835349",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/pCTBD3nmGMg\/maxresdefault.jpg",
+                "uploadDate": 1507835349,
+                "videoId": "pCTBD3nmGMg",
+                "title": "Home Decor",
+                "description": "",
+                "author": "LenoxUSA",
+                "mediaDuration": 35,
+                "prettyDuration": "00:00:35",
+                "views": "0",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/home-decor\/114661406-123065527"
+        },
+        {
+            "id": "123065528",
+            "title": "Lenox: Chirp Dinnerware Collection",
+            "date_created": "1507835349",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/C175XW7WdkA\/hqdefault.jpg",
+                "uploadDate": 1507835349,
+                "videoId": "C175XW7WdkA",
+                "title": "Lenox: Chirp",
+                "description": "",
+                "author": "LenoxUSA",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "views": "0",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/lenox-chirp\/114661406-123065528"
+        },
+        {
+            "id": "132422497",
+            "title": "Chef and Sommelier Krysta Drinkware",
+            "date_created": "1512570569",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "87",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "87",
+                "prettyDuration": "00:01:27",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/132422497\/1eeee\/thumb-e163d8a35b1e0240c5fc062d96e0119c-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/132422497\/1eeee\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/132422497\/1eeee\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/132422497\/cc\/vtt\/en_1516756131.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132422497\/1eeee\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132422497\/1eeee\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132422497\/1eeee\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132422497\/1eeee\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132422497\/1eeee\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/chefsommelier-glassware-mp4\/114661406-132422497"
+        },
+        {
+            "id": "132375700",
+            "title": "Abbyson Living Cary Leather Theater Recliner",
+            "date_created": "1512505515",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "73",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "73",
+                "prettyDuration": "00:01:13",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/132375700\/ccade\/thumb-4fa864b175fae846a3e923814a721bf8-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/132375700\/ccade\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/132375700\/ccade\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/132375700\/cc\/vtt\/en_1516756215.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375700\/ccade\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375700\/ccade\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375700\/ccade\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375700\/ccade\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375700\/ccade\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/al-caryleathertheaterrecliner-62712910-mp4\/114661406-132375700"
+        },
+        {
+            "id": "132375688",
+            "title": "Bright Starts Having a Ball Spin and Giggle Puppy",
+            "date_created": "1512503461",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "33",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "33",
+                "prettyDuration": "00:00:33",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/132375688\/1cb2d\/thumb-08b260b32a816d41c53b28e783e6dc7b-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/132375688\/1cb2d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/132375688\/1cb2d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/132375688\/cc\/vtt\/en_1516756281.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375688\/1cb2d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375688\/1cb2d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375688\/1cb2d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375688\/1cb2d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375688\/1cb2d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/brightstarts-spingigglepuppy-44321963-mp4\/114661406-132375688"
+        },
+        {
+            "id": "132375576",
+            "title": "Kohler Kitchen Sink Utility Rack",
+            "date_created": "1512488536",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "34",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "34",
+                "prettyDuration": "00:00:34",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/132375576\/d52e4\/thumb-8e6cc28bd5e9f9eca56ead674369c1fd-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/132375576\/d52e4\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/132375576\/d52e4\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/132375576\/cc\/vtt\/en_1516751973.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375576\/d52e4\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375576\/d52e4\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375576\/d52e4\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375576\/d52e4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375576\/d52e4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/62123303-62123280-utilityrack-mp4\/114661406-132375576"
+        },
+        {
+            "id": "132375577",
+            "title": "Kohler Disinfecting Wipes Dispenser",
+            "date_created": "1512488562",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "29",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "29",
+                "prettyDuration": "00:00:29",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/132375577\/0edf1\/thumb-1ff5d1f81d0fc6315fae5fbf6008b14a-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/132375577\/0edf1\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/132375577\/0edf1\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/132375577\/cc\/vtt\/en_1516751914.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375577\/0edf1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375577\/0edf1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375577\/0edf1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375577\/0edf1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375577\/0edf1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/62163828-wipesdspnsr-mp4\/114661406-132375577"
+        },
+        {
+            "id": "132375575",
+            "title": "Kohler Lift Dish Drying Rack",
+            "date_created": "1512488505",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "48",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "48",
+                "prettyDuration": "00:00:48",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/132375575\/2a8e6\/thumb-3940ba741256ca9a9d31f2aca54cf907-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/132375575\/2a8e6\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/132375575\/2a8e6\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/132375575\/cc\/vtt\/en_1516756319.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375575\/2a8e6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375575\/2a8e6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375575\/2a8e6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375575\/2a8e6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375575\/2a8e6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/62123211-62123297-liftdishrack-mp4\/114661406-132375575"
+        },
+        {
+            "id": "132375541",
+            "title": "SHEEX Performance Cooling Mattress - Revolutionary",
+            "date_created": "1512485376",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "12",
+                    "width": 900,
+                    "height": 900
+                },
+                "mediaDuration": "12",
+                "prettyDuration": "00:00:12",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/132375541\/58008\/thumb-f587d9489d4308e5e2d94da3655dea12-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/132375541\/58008\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/132375541\/58008\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375541\/58008\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 900,
+                        "height": 900
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375541\/58008\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375541\/58008\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375541\/58008\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375541\/58008\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/sheex-mattressrevolvess-mp4\/114661406-132375541"
+        },
+        {
+            "id": "132375540",
+            "title": "SHEEX Performance Cooling Mattress - Cooling Technology",
+            "date_created": "1512485371",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "14",
+                    "width": 900,
+                    "height": 900
+                },
+                "mediaDuration": "14",
+                "prettyDuration": "00:00:14",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/132375540\/ac82a\/thumb-8ac82172a8200ddbeb6f948200bcf1ff-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/132375540\/ac82a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/132375540\/ac82a\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375540\/ac82a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 900,
+                        "height": 900
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375540\/ac82a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375540\/ac82a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375540\/ac82a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132375540\/ac82a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/sheex-mattressairflow2-mp4\/114661406-132375540"
+        },
+        {
+            "id": "132348317",
+            "title": "Abbyson Living Penelope Nursery Swivel Glider Recliner",
+            "date_created": "1512413123",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "40",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "40",
+                "prettyDuration": "00:00:40",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/132348317\/aa188\/thumb-c9d42ef300ec54123e70bb3a349f91bf-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/132348317\/aa188\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/132348317\/aa188\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/132348317\/cc\/vtt\/en_1516756395.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348317\/aa188\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348317\/aa188\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348317\/aa188\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348317\/aa188\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348317\/aa188\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/al-penelopenurseryswivelgliderrecliner-44545611-mp4\/114661406-132348317"
+        },
+        {
+            "id": "132348316",
+            "title": "Abbyson Living Ashlyn Nursery Swivel Glider Recliner",
+            "date_created": "1512413089",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "42",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "42",
+                "prettyDuration": "00:00:42",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/132348316\/68516\/thumb-92c73c9defc856103e2a97155983067a-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/132348316\/68516\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/132348316\/68516\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/132348316\/cc\/vtt\/en_1516755174.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348316\/68516\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348316\/68516\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348316\/68516\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348316\/68516\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348316\/68516\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/al-ashlynnurseryswivelgliderrecliner-44545598-mp4\/114661406-132348316"
+        },
+        {
+            "id": "132348290",
+            "title": "Fridababy SmileFrida Toddler Toothbrush",
+            "date_created": "1512408717",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "58",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "58",
+                "prettyDuration": "00:00:58",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/132348290\/14f72\/thumb-1e231f0dde87c0a74e49989684189b2c-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/132348290\/14f72\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/132348290\/14f72\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/132348290\/cc\/vtt\/en_1512409093.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348290\/14f72\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348290\/14f72\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348290\/14f72\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348290\/14f72\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348290\/14f72\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/smilefrida-61259317-mp4\/114661406-132348290"
+        },
+        {
+            "id": "130145604",
+            "title": "ED Holiday Collection Video",
+            "date_created": "1511195893",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "16",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "16",
+                "prettyDuration": "00:00:16",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/130145604\/bd180\/thumb-e9652aa1650544775d553d7c9f464f64-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/130145604\/bd180\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/130145604\/bd180\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/130145604\/cc\/vtt\/en_1512408154.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/130145604\/bd180\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/130145604\/bd180\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/130145604\/bd180\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/130145604\/bd180\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/130145604\/bd180\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/ed-holiday-collection-video-mp4\/114661406-130145604"
+        },
+        {
+            "id": "132348264",
+            "title": "Get Creative with a Gift Card",
+            "date_created": "1512398973",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Here's an idea to upgrade the gifting of a gift card.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "42",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "42",
+                "prettyDuration": "00:00:42",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1920\/1077\/482180241-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/132348264\/2ffdc\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/132348264\/2ffdc\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/132348264\/cc\/vtt\/en_1516754932.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348264\/2ffdc\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348264\/2ffdc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348264\/2ffdc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348264\/2ffdc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348264\/2ffdc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/animalswhite-mp4\/114661406-132348264"
+        },
+        {
+            "id": "132348266",
+            "title": "Wrap an Odd-Shaped Gift: Fitness",
+            "date_created": "1512399082",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Have a fantastic gift, but it's a bit cumbersome to wrap? Here is a suggestion on how to present those odd-shaped presents.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "33",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "33",
+                "prettyDuration": "00:00:33",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1920\/1077\/100082190-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/132348266\/b68f4\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/132348266\/b68f4\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/132348266\/cc\/vtt\/en_1516390789.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348266\/b68f4\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348266\/b68f4\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348266\/b68f4\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348266\/b68f4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348266\/b68f4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/fitboardwhitebackground-mp4\/114661406-132348266"
+        },
+        {
+            "id": "132348265",
+            "title": "Use the Present as the Packaging",
+            "date_created": "1512399034",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Here's a unique gift wrapping idea on how to use part of the present as the gift wrap.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "41",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "41",
+                "prettyDuration": "00:00:41",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1920\/1077\/141749447-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/132348265\/d7d40\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/132348265\/d7d40\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348265\/d7d40\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348265\/d7d40\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348265\/d7d40\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348265\/d7d40\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132348265\/d7d40\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/132348265\/cc\/vtt\/en_1516752039.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/blanketwhite-mp4\/114661406-132348265"
+        }
+    ]
+}

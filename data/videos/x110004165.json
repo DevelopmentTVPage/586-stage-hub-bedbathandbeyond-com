@@ -1,0 +1,117 @@
+{
+    "title": "Cotton Candy Maker",
+    "description": "",
+    "referenceId": "34748",
+    "date_created": "1502524964",
+    "date_modified": "1516647725",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110004165",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "cotton-candy-maker",
+    "category": "",
+    "duration": "85",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "85",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "85",
+        "prettyDuration": "00:01:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004165\/572f0\/thumb-a03f1d3b8480f068c5e7a2eae4f9f4fe-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004165\/572f0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004165\/572f0\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110004165\/cc\/vtt\/en_1516647720.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004165\/572f0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004165\/572f0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004165\/572f0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004165\/572f0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004165\/572f0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hello, my name is Matt from Bed Bath & Beyond, and I am here to tell you about the Cotton Candy Maker. Your favorite hard and sugar-free candies can now be transformed into fluffy and delicious cotton candy as easy as 1-2-3. It includes two reusable plastic cones to hold the cotton candy and a clear rim guard. First, allow the Cotton Candy Maker to run for at least three to five minutes before adding hard candy. Next, turn the machine on, and place no more than two pieces of hard candy and one scoop of flavored sugar into the extractor head. Then, turn it back on, and when you see the cotton candy web begin, collect the cotton candy on the cone by holding the cone vertically. Rotate the cone with your fingers while you circle the bowl. If you like sweets, you will love this machine. It is the perfect activity to do with the kids and the whole family. It is also a great entertaining piece for parties and holidays. The Cotton Candy Maker is available online and at a Bed Bath & Beyond store near you.",
+    "VV_VI": 32,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "2\/27\/2014",
+    "created_date": "10\/24\/2011",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 155.54245,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

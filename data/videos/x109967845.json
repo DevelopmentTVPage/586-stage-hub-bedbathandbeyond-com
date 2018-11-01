@@ -1,0 +1,123 @@
+{
+    "title": "Jupiter Jack Hands Free Cell Phone Device",
+    "description": "",
+    "referenceId": "11871",
+    "date_created": "1502518525",
+    "date_modified": "1516298570",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "109967845",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "jupiter-jack-hands-free-cell-phone-device",
+    "category": "",
+    "duration": "65",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "65",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "65",
+        "prettyDuration": "00:01:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109967845\/6b7b7\/thumb-43f073c9cb9858f9c2dbf13e27b1e7db-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109967845\/6b7b7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109967845\/6b7b7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109967845\/cc\/vtt\/en_1516298561.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967845\/6b7b7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967845\/6b7b7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967845\/6b7b7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967845\/6b7b7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967845\/6b7b7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": "Are you guilty of driving while talking on your cell phone?\n\nHi. Anthony Sullivan here for the Jupiter Jack, the most convenient hands-free device for any cell phone, guaranteed. Watch this. All you do is plug it into any phone and mount it on the dash. Preset your radio to 99.3 FM and you're ready to go.\n\nJupiter Jack transmits quality sound through the speakers in your car. So instead of hearing music, you hear the other person. If you want more volume, just turn up the radio. No plugs. No wires and no hands.\n\nHey, it's Sully.\n\nCarla: Hey, Sully. It's Carla. I need you over at the studio for a production meeting.\n\nAnthony Sullivan: I'll be there in about 20 minutes.\n\nCarla: Okay.\n\nAnthony Sullivan: See you then.\n\nIn my car, the Jupiter Jack is the only system that I use because I can safely talk and drive at the same time. It's compact and portable and works with any phone in any car. Jupiter Jack transmits your conversation through the speakers of your car. Instead of hearing music, you hear the other person.\n\nIt's so easy. I just plug it into my phone and start talking and I feel so much safer because I don't have to hold my phone while I drive.\n\nTake yours home today.",
+    "VV_VI": 4,
+    "CVV_VI": 1,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-03"
+        }
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/25\/2010",
+    "tvp_profiles": [
+        "12",
+        "11",
+        "28"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 207.54703,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

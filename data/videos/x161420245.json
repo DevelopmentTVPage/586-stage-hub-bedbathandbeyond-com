@@ -1,0 +1,119 @@
+{
+    "title": "Graco TurboBooster TakeAlong Backless Booster",
+    "description": "",
+    "referenceId": "fa4bca1e1403e352b1ff905889c3f087",
+    "date_created": "1524082879",
+    "date_modified": "1524084362",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "car_seats",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "161420245",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Graco-TurboBoosterTakeAlongBacklessBooster-64649955",
+    "category": "",
+    "duration": "74",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "74",
+            "width": 720,
+            "height": 486
+        },
+        "mediaDuration": "74",
+        "prettyDuration": "00:01:14",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1920\/1080\/430730266-1524084152.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/161420245\/e96b5\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/161420245\/e96b5\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/161420245\/cc\/vtt\/en_1524084323.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/161420245\/e96b5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 486
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/161420245\/e96b5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 486
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/161420245\/e96b5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 712,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/161420245\/e96b5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 534,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/161420245\/e96b5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 216
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 776,
+    "CVV_VI": 8,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "Manually added SRT file for CC.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "4\/18\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

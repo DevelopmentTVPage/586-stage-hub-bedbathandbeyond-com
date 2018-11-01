@@ -1,0 +1,119 @@
+{
+    "title": "Sleep Philosophy Flexapedic 12-Inch Gel Memory Foam Mattress with Cooling Cover",
+    "description": "",
+    "referenceId": "f957bb68610dcf0cdfd426860d05a3c9",
+    "date_created": "1519923017",
+    "date_modified": "1520355237",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "bedding",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "152129319",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "SP-MemoryFoamMattress12in-mp4",
+    "category": "",
+    "duration": "54",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "54",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/152129319\/ba62b\/thumb-f957bb68610dcf0cdfd426860d05a3c9-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/152129319\/ba62b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/152129319\/ba62b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/152129319\/cc\/vtt\/en_1520355228.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152129319\/ba62b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152129319\/ba62b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152129319\/ba62b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152129319\/ba62b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152129319\/ba62b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Experience perfectly balanced sleep, with Sleep Philosophy\u2019s Flexapedic Gel memory foam mattress. Built with 3 different layers designed to give you the ultimate sleep experience, the top layer promotes air flow and is gel infused for comfort.\nThe middle layer acts like a shock absorber and alleviates pressure points. The base layer is specifically designed to prevent motion transfer, so you can move without interrupting your partner\u2019s sleep.\nCombined with knitted fabric on top that\u2019s always cool to the touch, you\u2019ll find yourself tossing and turning less, while sleeping longer. The bottom has a non-skid backing to ensure your mattress stays in place. And our memory foam is naturally resistant to allergens, dust mites, mold and bacteria.\nSleep Philosophy\u2019s Gel memory foam mattress will keep you cool and comfortable all year round!",
+    "VV_VI": 1356,
+    "CVV_VI": 14,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "3\/1\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

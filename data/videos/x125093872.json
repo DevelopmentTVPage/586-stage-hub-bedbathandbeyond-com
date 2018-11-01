@@ -1,0 +1,115 @@
+{
+    "id": "125093872",
+    "loginId": "1758166",
+    "user_id": "0",
+    "referenceId": "a97f4bf96582b1219b85fb371c81676c",
+    "entityType": "1",
+    "date_created": "1508870575",
+    "date_modified": "1509142010",
+    "title": "Air-O-Swiss Steam Humidifier",
+    "description": "",
+    "tags": "",
+    "status": "pending",
+    "visibility": "1",
+    "sortOrder": "1788",
+    "entityIdParent": "114661406",
+    "titleTextEncoded": "1010592106-1-mp4",
+    "category": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "159",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "159",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "159",
+        "prettyDuration": "00:02:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125093872\/54713\/thumb-a97f4bf96582b1219b85fb371c81676c-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/125093872\/54713\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/125093872\/54713\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125093872\/54713\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125093872\/54713\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125093872\/54713\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125093872\/54713\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125093872\/54713\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "video_type": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "VV_VI": 30,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "notes": "",
+    "uploader": "han.lee",
+    "modified_date": "3\/14\/2014",
+    "created_date": "3\/14\/2014",
+    "creator": null,
+    "video_classification1": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 108.631645,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

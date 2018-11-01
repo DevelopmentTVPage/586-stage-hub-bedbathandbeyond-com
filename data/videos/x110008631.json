@@ -1,0 +1,119 @@
+{
+    "title": "Milkbank DEX",
+    "description": "",
+    "referenceId": "5088",
+    "date_created": "1502525993",
+    "date_modified": "1516733977",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110008631",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "milkbank-dex",
+    "category": "",
+    "duration": "64",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "64",
+            "width": 640,
+            "height": 368
+        },
+        "mediaDuration": "64",
+        "prettyDuration": "00:01:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110008631\/8fbd0\/thumb-d170898e699e4540cebbd9bfbda9679d-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110008631\/8fbd0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110008631\/8fbd0\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110008631\/cc\/vtt\/en_1516733972.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008631\/8fbd0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 368
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008631\/8fbd0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 368
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008631\/8fbd0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 368
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008631\/8fbd0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 626,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008631\/8fbd0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 184
+            }
+        ]
+    },
+    "transcripts": "MilkBank Vacuum Storage System\r\n\r\nConserve your breastmilk in a safe, healthy way with the MilkBank Vacuum Storage System. This system has all the necessities that  MilkBank Vacuum Storage Systemwill help preserve and protect all the vital nutrients in the milk while remaining safe enough to use in both the refrigerator and freezer. No conversion between storage bottle and feeding bottle is needed because these bottles are safe enough for feeding with. Plus, these bottles are guaranteed leak-proof, saving you money in the future. The MilkBank system includes one vacuum pump, three vacuum storage caps, one 2.5-ounce storage\/feeding bottle, two 5-ounce storage\/feeding bottles, one outer insulating bottle with stage 1 nipple and dome. Dishwasher safe.\r\n\r\nMilk Bank's Triple Vented Feeding Bottle, lets baby drink in its own pace. With no issues from collapsing nipples or harmful bubbles in the milk. It's the first true anti-colic bottle that's easy to use and guaranteed leak free. Its clinically proven that babies drink and grow better when the milk is kept warm through the whole feeding. The thermos like space in Milk Bank's Insulated Feeding Bottle keeps the milk warm for most feedings. For longer feeds just add a little warm water. Milk Bank's Insulated Feeding Bottle, leak free, anti-colic and perfect for your new born baby.\r\n\r\nFor the healthiest choice in breast milk storage, Milk Bank's Storage System is the first to protect  nutrients and flavor by pumping out the air and creating a vacuum seal. Simple, easy and clinically proven the best way to store breast milk. Additionally, these storage bottles double as feeding bottles which means no more messy spills when transferring your milk from storage bag to feeding bottle.\r\n\r\nI used Milk Bank's Products everyday, I love 'em and I know you will too!",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "9\/4\/2009",
+    "tvp_profiles": [
+        "18",
+        "25",
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2305.7156,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

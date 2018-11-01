@@ -1,0 +1,119 @@
+{
+    "title": "Solo A Star Wars Story Official Teaser Trailer",
+    "description": "",
+    "referenceId": "f3c26335e46345456a89990aa0603914",
+    "date_created": "1519919261",
+    "date_modified": "1521210454",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "other",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "custom_video",
+    "user_id": "0",
+    "id": "152129301",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Solo-AStarWarsStory-OfficialTeaser-mp4",
+    "category": "",
+    "duration": "104",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "104",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "104",
+        "prettyDuration": "00:01:44",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/152129301\/de000\/thumb-f3c26335e46345456a89990aa0603914-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/152129301\/de000\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/152129301\/de000\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/152129301\/cc\/vtt\/en_1520269602.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152129301\/de000\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152129301\/de000\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152129301\/de000\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152129301\/de000\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152129301\/de000\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "00:00 \n[switches clicking] \n00:05 \nI've been running scams on the streets \n00:07 \nsince I was ten \n00:13 \nI was kicked out of the Flight Academy \n00:16 \nfor having a mind of my own \n00:22 \nI'm going to be a pilot... \n00:25 \nbest in the galaxy \n00:30 \nHey, kid \n00:32 \nI'm putting together a crew \n00:38 \nYou in? \n00:40 \nRoarrr \n00:42 \nThat's yes \n00:48 \nI might be the only person... \n00:51 \nwho knows... \n00:55 \nwhat you really are \n01:00 \nWhat's that? \n01:08 \nRoarrr \n01:10 \nGet ready! \n01:14 \nThought we were in trouble there for a second... but it's fine \n01:17 \nWe're fine. \n01:18 \n[screams]",
+    "VV_VI": 199,
+    "CVV_VI": 1,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "Video is for brand page. Requested SRT file from TVPage for CC. Added transcript.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "3\/1\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

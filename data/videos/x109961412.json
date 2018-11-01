@@ -1,0 +1,113 @@
+{
+    "id": "109961412",
+    "loginId": "1758166",
+    "user_id": "0",
+    "referenceId": "1045461634",
+    "entityType": "1",
+    "date_created": "1502517354",
+    "date_modified": "1510703050",
+    "title": "59268mayo kc spring bed mineral gunmetal final.mp4",
+    "description": "",
+    "tags": "",
+    "status": "pending",
+    "visibility": "0",
+    "sortOrder": "3912",
+    "entityIdParent": "114661406",
+    "titleTextEncoded": "59268mayo-kc-spring-bed-mineral-gunmetal-final-mp4",
+    "category": "",
+    "sourceId": null,
+    "VIDEO_LENGTH": null,
+    "duration": "83",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "83",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "83",
+        "prettyDuration": "00:01:23",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109961412\/c6988\/thumb-4c6ea5d71c921de47731df95b33e32a7-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109961412\/c6988\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109961412\/c6988\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961412\/c6988\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961412\/c6988\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961412\/c6988\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961412\/c6988\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109961412\/c6988\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "video_type": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "notes": "",
+    "uploader": "mickey",
+    "modified_date": "3\/18\/2014",
+    "created_date": "",
+    "creator": null,
+    "video_classification1": null,
+    "tvp_profiles": [
+        "18",
+        "9",
+        "11"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 22.99434,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,121 @@
+{
+    "id": "109988147",
+    "loginId": "1758166",
+    "user_id": "0",
+    "referenceId": "1658810146",
+    "entityType": "1",
+    "date_created": "1502522282",
+    "date_modified": "1516376959",
+    "title": "fridababy&reg; The Wind&reg; Gas &amp; Colic Relief",
+    "description": "",
+    "tags": "",
+    "status": "archived",
+    "visibility": "1",
+    "sortOrder": "3258",
+    "entityIdParent": "114661406",
+    "titleTextEncoded": "fridababy-the-wind-gas-colic-relief",
+    "category": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "69",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "69",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "69",
+        "prettyDuration": "00:01:09",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109988147\/711ce\/thumb-4d57643b1e42b288b01e27a313640258-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109988147\/711ce\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109988147\/711ce\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109988147\/cc\/vtt\/en_1504299524.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109988147\/711ce\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109988147\/711ce\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109988147\/711ce\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109988147\/711ce\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109988147\/711ce\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "video_type": "baby_and_kids",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "VV_VI": 394,
+    "CVV_VI": 5,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "notes": "Video has SRT file for CC. Archived this video to replace w\/newer content submitted by vendor 1\/19\/18",
+    "uploader": "Douglas.French",
+    "modified_date": "1\/19\/2018",
+    "created_date": "7\/24\/2017",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "tvp_profiles": [
+        "25",
+        "30",
+        "80"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 152.49484,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

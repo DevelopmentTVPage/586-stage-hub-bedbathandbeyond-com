@@ -1,0 +1,118 @@
+{
+    "title": "Rabbit Fliptop Cocktail Shaker",
+    "description": "",
+    "referenceId": "49181",
+    "date_created": "1502525898",
+    "date_modified": "1506966344",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110007592",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "rabbit-fliptop-cocktail-shaker",
+    "category": "",
+    "duration": "58",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "58",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "58",
+        "prettyDuration": "00:00:58",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1282\/716\/463138020-021282718.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110007592\/8b443\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110007592\/8b443\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110007592\/cc\/vtt\/en_1504225800.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007592\/8b443\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007592\/8b443\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007592\/8b443\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007592\/8b443\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007592\/8b443\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi, I'm Christine from Bed Bath and Beyond, and today I'm here to tell you about the Rabbit Flip-top Cocktail Shaker. Now you can make the perfect cocktail at home with this innovative stainless-steel shaker. Its flip-top design with the built-in strainer means you'll never have to fuss with a separate strainer and lid again. It has double-walled constructions so the outside of the shaker never gets cold. And it's dishwasher safe. To use, put your ingredients and ice into the shaker. Screw the top onto the shaker and flip the flip-top closed. Now shake your drink. There's no need to hold the flip-top closed. You can even shake with one hand. Then push the flip-top open and you're ready to pour your drink. The Rabbit Flip-top Cocktail Shaker is available online and at a Bed Bath and Beyond store near you.",
+    "VV_VI": 64,
+    "CVV_VI": 2,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "7\/30\/2013",
+    "created_date": "6\/18\/2012",
+    "tvp_profiles": [
+        "25",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 127.59347,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

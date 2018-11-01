@@ -1,0 +1,122 @@
+{
+    "title": "Zero Odor - Odor Elimination Spray",
+    "description": "",
+    "referenceId": "24456",
+    "date_created": "1502923975",
+    "date_modified": "1516738282",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180145",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "zero-odor-odor-elimination-spray",
+    "category": "",
+    "duration": "90",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "90",
+            "width": 720,
+            "height": 540
+        },
+        "mediaDuration": "90",
+        "prettyDuration": "00:01:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180145\/dd9bf\/thumb-24456-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180145\/dd9bf\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180145\/dd9bf\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180145\/cc\/vtt\/en_1516738207.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180145\/dd9bf\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180145\/dd9bf\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180145\/dd9bf\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180145\/dd9bf\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180145\/dd9bf\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Male Speaker: Life stinks.\r\n\r\nFemale Speaker: You can smell this over there.\r\n\r\nMale Speaker: Are you embarrassed by odor in your life?\r\n\r\nFemale Speaker: As soon as you walked in the door, you could smell the cat litter.\r\n\r\nMale Speaker: You need Zero Odor, a product that is such a breakthrough in molecular chemistry, it's been granted seven national and international patents. Zero Odor isn't an air freshener. It isn't a cover-up. Zero Odor is the odor eliminator. Zero Odor bonds with the molecules that cause odor and permanently changes them into non-odor molecules. So when Zero Odor simply touches the source of odor, the odor is gone and it won't come back. If your car smells like your dog, you need Zero Odor. If your house smells like your cat's litter box, you need Zero Odor. If your baby's room smells like dirty diapers, you need Zero Odor.\r\n\r\nFemale Speaker: This is full of diapers. I just put my whole head in there. That's amazing.\r\n\r\nMale Speaker: If you have a musty basement, if your kids play baseball, football or hockey -\r\n\r\nFemale Speaker: If I could do this, anybody that knows a hockey mom, and smell it, there's zero.\r\n\r\nMale Speaker: If you have smelly workout clothes or running shoes, if someone smokes in your house or even worse, in your car, then you definitely need Zero Odor. If you've ever been embarrassed by the way your bathroom smells, you know you need Zero Odor. In your kitchen, Zero Odor is like a miracle. Spray the garbage can, spray the microwave. Zero Odor will even zero out the worst lingering smells like burnt popcorn and yesterday's garlic. If you have an RV or a boat with a nasty-smelling bathroom, just spray with Zero Odor and prepare to be amazed.",
+    "VV_VI": 71,
+    "CVV_VI": 2,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/5\/2011",
+    "created_date": "3\/25\/2011",
+    "tvp_profiles": [
+        "9",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2091.204,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

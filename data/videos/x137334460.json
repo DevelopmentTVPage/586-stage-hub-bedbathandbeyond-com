@@ -1,0 +1,123 @@
+{
+    "title": "Playgro - High Chair Spinning Toy",
+    "description": "The High Chair Spinning Toy offers two fantastic toys in one! The suction base easily attaches to any surface, great for entertaining baby whilst dining in or out. The detachable rattle is the ideal shape for baby to spin and swing encouraging gross motor skills, or the click-clack beads and silky ribbons can be used for fine motor skill development.\nLearn More http:\/\/www.playgro.com",
+    "referenceId": "edefe353cca96d98c43fec3ddb93a7c2",
+    "date_created": "1515718469",
+    "date_modified": "1516037193",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "137334460",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Playgro-High-Chair-Spinning-Toy-mp4",
+    "category": "",
+    "duration": "58",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "58",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "58",
+        "prettyDuration": "00:00:58",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1280\/717\/562516419-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137334460\/1d3d2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137334460\/1d3d2\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334460\/1d3d2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334460\/1d3d2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334460\/1d3d2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334460\/1d3d2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334460\/1d3d2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137334460\/cc\/vtt\/en_1516037193.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "Introducing the play grow highchair spinning toy a fun way to keep your baby entertained while sitting in their high chair. A strong suction base securely holds the spinning toy in place allowing baby to spin hit push and pull all of the moving features. Baby will have plenty to see and do whilst waiting for their lunch the spinning swinging motion of the twirling rattle draws baby's attention and creates Click Clack and tinkles sounds to keep them listening lots of different textures and surfaces encourage baby to touch and feel the spinning toy detaches from the suction mount so baby can also enjoy playing when out of the highchair the play grow high chair spinning toy another reason why imagination grows with playgro.",
+    "VV_VI": 26,
+    "CVV_VI": 3,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": "",
+    "tvp_profiles": [
+        "2",
+        "31",
+        "16"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 14.183386,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,117 @@
+{
+    "title": "NinjaPrep",
+    "description": "",
+    "referenceId": "5880",
+    "date_created": "1502924767",
+    "date_modified": "1516737804",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180567",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "ninjaprep",
+    "category": "",
+    "duration": "121",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "121",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "121",
+        "prettyDuration": "00:02:01",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180567\/06cc4\/thumb-5880-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180567\/06cc4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180567\/06cc4\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180567\/cc\/vtt\/en_1516737781.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180567\/06cc4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180567\/06cc4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180567\/06cc4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180567\/06cc4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180567\/06cc4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Ninja Master Prep Blender and Food ProcessorNinja Master Prep Blender \r\n\r\nThe Ninja Master Prep features NinjaBlade\u0099 technology that has a unique processing power for uniform cutting and ice crushing action. In the hassle-free 48-ounce party pitcher, you can make everyone's favorite drinks: margaritas, daiquiris, smoothies, milkshakes, snow cones and more. There's even an interchangeable pulser that allows you to prep appetizers in the 2-cup processor. The ergonomic operation with one touch pulsing creates an easy to use, safe and kid-friendly product, and the built-in anti-spill feature provides no mess use. Dishwasher safe parts. Includes: 48-ounce pitcher, 2-cup processor, interchangeable pulser and storage lid for both pitcher and processor.\r\n\r\nIntroducing the Ninja Master Prep - a revolutionary new machine that will instantly unleash your culinary power and allow you to effortlessly prepare hundreds of delicious drinks, desserts and entrees like a master chef.\r\n\r\nThe powerful ninja instantly blasts solid ice into creamy snow for the most perfect frozen drinks you've ever tasted in seconds; fresh, delicious salsa just like that. Scrumptious meals, entrees and desserts in minutes. Make premium ice cream in 30 seconds. Even healthy, all natural baby food in an instant.\r\n\r\nBoost your energy level, improve your health, even lose weight with power packed whole fruit energy drinks, the smoothest smoothies and the creamiest non-fat frozen coffee drinks. healthy never tasted so good.\r\n\r\nHere's how it works. Ancient Asian metal working secrets for making the sharpest, strongest blades meet modern technology as multiple sharp, super hardened steel blades are driven by the powerful arm activated ninja power pod to perfectly chop, blend and process ingredients faster and more thoroughly than any other kitchen appliance.\r\n\r\nI made great, creamy margaritas and my guests did comment on how great they were.\r\nI learn new things every day that I can do with the Ninja and I'm enjoying cooking again.\r\nI couldn't ask for a better product. It does everything it says it's going to do and more.\r\nThe Ninja power pod moves easily from pitcher to mini prep and back again to quickly create a perfect snowstorm of fresh and delicious drinks, desserts, even complete meals that you, your friends and family will love.\r\n\r\nGo easily from counter top to table top. Both containers come with snap on storage lids so you can serve, seal and store in the same container. Everything is BPA free and dishwasher safe. Clean up is a snap.\r\n\r\nThe revolutionary Ninja Master Prep is the most versatile kitchen appliance ever created.",
+    "VV_VI": 5,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-05-01\"}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "11\/13\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 3129.319,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

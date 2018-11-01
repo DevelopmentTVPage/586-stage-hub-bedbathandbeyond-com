@@ -1,0 +1,1225 @@
+{
+    "pageNumber": 103,
+    "data": [
+        {
+            "id": "111179908",
+            "title": "Easy Fit&trade; Adjustable Bed Skirt",
+            "date_created": "1502923420",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "60",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/491986782-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179908\/2ff00\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179908\/2ff00\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179908\/2ff00\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179908\/2ff00\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179908\/2ff00\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179908\/2ff00\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179908\/2ff00\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111179908\/cc\/vtt\/en_1504804768.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/easy-fit-adjustable-bed-skirt\/114661406-111179908"
+        },
+        {
+            "id": "109979510",
+            "title": "Zojirushi VE Hybrid Water Boiler &amp; Warmer 2",
+            "date_created": "1502520429",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "73",
+                    "width": 480,
+                    "height": 270
+                },
+                "mediaDuration": "73",
+                "prettyDuration": "00:01:13",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109979510\/45926\/thumb-1586e0d06552a8bee58d7c8fcfeb9908-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109979510\/45926\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109979510\/45926\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109979510\/45926\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109979510\/45926\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109979510\/45926\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109979510\/45926\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109979510\/45926\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109979510\/cc\/vtt\/en_1509751311.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/zojirushi-ve-hybrid-water-boiler-warmer-2\/114661406-109979510"
+        },
+        {
+            "id": "109982841",
+            "title": "Citizen Men's Eco-Drive Perpetual Chrono A-T",
+            "date_created": "1502521385",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "102",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "102",
+                "prettyDuration": "00:01:42",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109982841\/79b49\/thumb-9a207078e58d885433b102aaa6181452-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109982841\/79b49\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109982841\/79b49\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982841\/79b49\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982841\/79b49\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982841\/79b49\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982841\/79b49\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982841\/79b49\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109982841\/cc\/vtt\/en_1504290154.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/citizen-men-s-eco-drive-perpetual-chrono-a-t\/114661406-109982841"
+        },
+        {
+            "id": "6468080",
+            "title": "Hamilton Beach The Scoop 2-Way Brewer at Bed Bath & Beyond",
+            "date_created": "1374156043",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "http:\/\/www.bedbathandbeyond.com\/store\/product\/hamilton-beach-reg-the-scoop-trade-2-way-brewer\/3245780? This full-featured coffee maker offers two ...",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/7WIDWn8UL1Y\/hqdefault.jpg",
+                "uploadDate": 1374156043,
+                "videoId": "7WIDWn8UL1Y",
+                "title": "Hamilton Beach The Scoop 2-Way Brewer at Bed Bath & Beyond",
+                "description": "http:\/\/www.bedbathandbeyond.com\/store\/product\/hamilton-beach-reg-the-scoop-trade-2-way-brewer\/3245780? This full-featured coffee maker offers two ...",
+                "author": "Bedbathandbeyond",
+                "mediaDuration": "48",
+                "prettyDuration": "00:00:48",
+                "views": "220",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/hamilton-beach-the-scoop-2-way-brewer-at-bed-bath-beyond\/114661406-6468080"
+        },
+        {
+            "id": "67184838",
+            "title": "Microplane\u00ae Herb and Salad Chopper",
+            "date_created": "1469665805",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Known for its innovative designs, Microplane\u2019s new Herb & Salad Chopper reenergizes and modernizes the traditional mezzaluna with a distinctively modern and smart design to make prepping salads and a full array of herbs, as well as other commonly used ingredients, faster, easier, and more convenient.",
+            "asset": {
+                "type": "youtube",
+                "author": "Microplane Kitchen",
+                "hdvFlag": 0,
+                "hookText": "Known for its innovative designs, Microplane\u2019s new Herb & Salad Chopper reenergizes and modernizes the traditional mezzaluna with a distinctively modern and smart design to make prepping salads and a full array of herbs, as well as other commonly used ingredients, faster, easier, and more convenient.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/KPl3G98AsWg\/hqdefault.jpg",
+                "videoId": "KPl3G98AsWg",
+                "mediaDuration": 57,
+                "prettyDuration": "00:00:57",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/microplane-herb-and-salad-chopper\/114661406-67184838"
+        },
+        {
+            "id": "109982860",
+            "title": "Egg-Tastic&trade; Ceramic Microwave Egg Cooker",
+            "date_created": "1502521451",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "74",
+                    "width": 1516,
+                    "height": 720
+                },
+                "mediaDuration": "74",
+                "prettyDuration": "00:01:14",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109982860\/535f0\/thumb-374e573b031640f23b4bc2b52b13b4f7-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109982860\/535f0\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109982860\/535f0\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982860\/535f0\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1516,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982860\/535f0\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 608
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982860\/535f0\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 406
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982860\/535f0\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 304
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982860\/535f0\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 152
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109982860\/cc\/vtt\/en_1504292447.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/egg-tastic-ceramic-microwave-egg-cooker\/114661406-109982860"
+        },
+        {
+            "id": "111180256",
+            "title": "Wooden Music Center from Innovative Technology",
+            "date_created": "1502924208",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "62",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "62",
+                "prettyDuration": "00:01:02",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180256\/a1431\/thumb-31477-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180256\/a1431\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180256\/a1431\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180256\/a1431\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180256\/a1431\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180256\/a1431\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180256\/a1431\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180256\/a1431\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111180256\/cc\/vtt\/en_1504807162.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/wooden-music-center-from-innovative-technology\/114661406-111180256"
+        },
+        {
+            "id": "109996854",
+            "title": "Real Simple Harper Comforter and Bedding Ensemble",
+            "date_created": "1502524078",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "64",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "64",
+                "prettyDuration": "00:01:04",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109996854\/f03c4\/thumb-989ef637bcc9427a370824f6473a7c8f-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109996854\/f03c4\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109996854\/f03c4\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109996854\/f03c4\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109996854\/f03c4\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109996854\/f03c4\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109996854\/f03c4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109996854\/f03c4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109996854\/cc\/vtt\/en_1504282496.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/real-simple-harper-comforter-and-bedding-ensemble\/114661406-109996854"
+        },
+        {
+            "id": "121442764",
+            "title": "QB54 Chair Football Game Set",
+            "date_created": "1507231877",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "73",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "73",
+                "prettyDuration": "00:01:13",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/121442764\/bd565\/thumb-611afd46159812da245733c9aabaee67-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/121442764\/bd565\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/121442764\/bd565\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/121442764\/bd565\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/121442764\/bd565\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/121442764\/bd565\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/121442764\/bd565\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/121442764\/bd565\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/qb54-subs-mp4\/114661406-121442764"
+        },
+        {
+            "id": "109995753",
+            "title": "Therapedic&reg; TruCool Bed Pillow",
+            "date_created": "1502523814",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "72",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "72",
+                "prettyDuration": "00:01:12",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109995753\/6e682\/thumb-c8ab99e5f9a28e8771f7c4449cdb9c9e-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109995753\/6e682\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109995753\/6e682\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995753\/6e682\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995753\/6e682\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995753\/6e682\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995753\/6e682\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995753\/6e682\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109995753\/cc\/vtt\/en_1504294010.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/therapedic-trucool-bed-pillow\/114661406-109995753"
+        },
+        {
+            "id": "110002066",
+            "title": "Hover Helmets",
+            "date_created": "1502524691",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "19",
+                    "width": 854,
+                    "height": 480
+                },
+                "mediaDuration": "19",
+                "prettyDuration": "00:00:19",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/109357819-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110002066\/3f103\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110002066\/3f103\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/110002066\/cc\/vtt\/en_1504214844.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110002066\/3f103\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110002066\/3f103\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110002066\/3f103\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110002066\/3f103\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110002066\/3f103\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/hover-helmets\/114661406-110002066"
+        },
+        {
+            "id": "109995830",
+            "title": "Sleep Safe&reg; Protector",
+            "date_created": "1502524005",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "98",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "98",
+                "prettyDuration": "00:01:38",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/718287755-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109995830\/8d83d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109995830\/8d83d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995830\/8d83d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995830\/8d83d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995830\/8d83d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995830\/8d83d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995830\/8d83d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109995830\/cc\/vtt\/en_1504285197.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/sleep-safe-protector\/114661406-109995830"
+        },
+        {
+            "id": "109990286",
+            "title": "Bakers Advantage Fillable Bakeware",
+            "date_created": "1502522619",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "106",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "106",
+                "prettyDuration": "00:01:46",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109990286\/ab26d\/thumb-bb4edb8123220179b6e3eb849f2c3d05-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109990286\/ab26d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109990286\/ab26d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109990286\/ab26d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109990286\/ab26d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109990286\/ab26d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109990286\/ab26d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109990286\/ab26d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109990286\/cc\/vtt\/en_1504288100.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/bakers-advantage-fillable-bakeware\/114661406-109990286"
+        },
+        {
+            "id": "109993557",
+            "title": "OXO SteeL Suction Sponge Holder",
+            "date_created": "1502523459",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "46",
+                    "width": 864,
+                    "height": 486
+                },
+                "mediaDuration": "46",
+                "prettyDuration": "00:00:46",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109993557\/a62b7\/thumb-3f940eaed3bc381e3969c47b637ed917-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109993557\/a62b7\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109993557\/a62b7\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109993557\/a62b7\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109993557\/a62b7\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109993557\/a62b7\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109993557\/a62b7\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109993557\/a62b7\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109993557\/cc\/vtt\/en_1504291394.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/oxo-steel-suction-sponge-holder\/114661406-109993557"
+        },
+        {
+            "id": "121442667",
+            "title": "Potato Express Microwave Potato Cooker",
+            "date_created": "1507222390",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "83",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "83",
+                "prettyDuration": "00:01:23",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/121442667\/88c51\/thumb-abaf89c805ed7d7da89b98528f6d2890-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/121442667\/88c51\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/121442667\/88c51\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/121442667\/88c51\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/121442667\/88c51\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/121442667\/88c51\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/121442667\/88c51\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/121442667\/88c51\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/potatoexpress-42160489-mp4\/114661406-121442667"
+        },
+        {
+            "id": "6287558",
+            "title": "OXO Chef's Mandoline Slicer",
+            "date_created": "1438387817",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Turn ten pounds of potatoes into French fries in a flash, with the user-friendly OXO Chef's Mandoline Slicer. It makes light work of slicing with absolute precision. A uniquely shaped ruffle blade joins straight, serrated and crinkle blades to slice thin cucumbers, thick onion rings and anything in between, with a turn of the soft dial. Thin and thick julienne blades make terrific French fries, carrot sticks and garnishes. The Mandoline's soft handle, positioned lower than the Mandoline runway, ensures a comfortable grip and keeps hands out of the way. Nonslip feet keep it stable, and the large food holder keeps food in place while protecting fingers. All blades are easily removable for cleaning, come with safety covers and can store on board. Legs fold compactly for storage.",
+            "asset": {
+                "type": "youtube",
+                "author": "OXO",
+                "hdvFlag": 0,
+                "hookText": "http:\/\/www.oxo.com\/p-896-steel-chefs-mandoline-slicer.aspx\n\nTurn ten pounds of potatoes into French fries in a flash, with the user-friendly OXO Chef's Mandoline Slicer. It makes light work of slicing with absolute precision. A uniquely shaped ruffle blade joins straight, serrated and crinkle blades to slice thin cucumbers, thick onion rings and anything in between, with a turn of the soft dial. Thin and thick julienne blades make terrific French fries, carrot sticks and garnishes. The Mandoline's soft handle, positioned lower than the Mandoline runway, ensures a comfortable grip and keeps hands out of the way. Nonslip feet keep it stable, and the large food holder keeps food in place while protecting fingers. All blades are easily removable for cleaning, come with safety covers and can store on board. Legs fold compactly for storage.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ArsE0C1-DRs\/hqdefault.jpg",
+                "videoId": "ArsE0C1-DRs",
+                "mediaDuration": "134",
+                "prettyDuration": "00:02:14"
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/oxo-chef-s-mandoline-slicer\/114661406-6287558"
+        },
+        {
+            "id": "66104676",
+            "title": "Ninja Mega Kitchen System (BL770): Product Overview",
+            "date_created": "1350418402",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Our largest, most powerful set - the Ninja Mega Kitchen System will replace your blender, food processor, juicer, dough maker and more!\n\nTo learn more about the Ninja Mega Kitchen System, visit http:\/\/www.ninjakitchen.com\/mega-kitchen-system\/",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/mAW9daRzWss\/hqdefault.jpg",
+                "uploadDate": 1350418402,
+                "videoId": "mAW9daRzWss",
+                "title": "Ninja Mega Kitchen System (BL770): Product Overview",
+                "description": "Our largest, most powerful set - the Ninja Mega Kitchen System will replace your blender, food processor, juicer, dough maker and more!\n\nTo learn more about the Ninja Mega Kitchen System, visit http:\/\/www.ninjakitchen.com\/mega-kitchen-system\/",
+                "author": "Ninja Kitchen",
+                "mediaDuration": 115,
+                "prettyDuration": "00:01:55",
+                "views": "62379",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/ninja-mega-kitchen-system-bl770-product-overview\/114661406-66104676"
+        },
+        {
+            "id": "109974343",
+            "title": "OXO Good Grips&reg; Wooden Reamer",
+            "date_created": "1502519938",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "41",
+                    "width": 864,
+                    "height": 486
+                },
+                "mediaDuration": "41",
+                "prettyDuration": "00:00:41",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109974343\/93cae\/thumb-93f74a53d1f1fee166bfd14f3c11cc0f-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109974343\/93cae\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109974343\/93cae\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974343\/93cae\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974343\/93cae\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974343\/93cae\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974343\/93cae\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974343\/93cae\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109974343\/cc\/vtt\/en_1504290232.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/oxo-good-grips-wooden-reamer\/114661406-109974343"
+        },
+        {
+            "id": "109973279",
+            "title": "Granite Mortar and Pestle",
+            "date_created": "1502519776",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "104",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "104",
+                "prettyDuration": "00:01:44",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973279\/012b9\/thumb-17e5d2e3924b51b6a3879893f0e59c9c-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109973279\/012b9\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973279\/012b9\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973279\/012b9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973279\/012b9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973279\/012b9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973279\/012b9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973279\/012b9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109973279\/cc\/vtt\/en_1504283919.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/granite-mortar-and-pestle\/114661406-109973279"
+        },
+        {
+            "id": "110002056",
+            "title": "Dreamfarm&reg; Garject Garlic Press",
+            "date_created": "1502524669",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "48",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "48",
+                "prettyDuration": "00:00:48",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110002056\/307cc\/thumb-ca56bd21096ae0b07abaa2037ec49c74-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110002056\/307cc\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110002056\/307cc\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110002056\/307cc\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110002056\/307cc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110002056\/307cc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110002056\/307cc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110002056\/307cc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/110002056\/cc\/vtt\/en_1504215037.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/dreamfarm-garject-garlic-press\/114661406-110002056"
+        }
+    ]
+}

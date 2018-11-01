@@ -1,0 +1,113 @@
+{
+    "id": "110010846",
+    "loginId": "1758166",
+    "user_id": "0",
+    "referenceId": "59799",
+    "entityType": "1",
+    "date_created": "1502526371",
+    "date_modified": "1510688401",
+    "title": "iLP Turntable Conversion System",
+    "description": "",
+    "tags": "",
+    "status": "pending",
+    "visibility": "1",
+    "sortOrder": "2414",
+    "entityIdParent": "114661406",
+    "titleTextEncoded": "ilp-turntable-conversion-system",
+    "category": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "49",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "49",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "49",
+        "prettyDuration": "00:00:49",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/134055786-01320180.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110010846\/bdecf\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110010846\/bdecf\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010846\/bdecf\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010846\/bdecf\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010846\/bdecf\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010846\/bdecf\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010846\/bdecf\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Do you have old vinyl records that you'd love to listen to on your IOS device? The Ion ILP makes transferring music from those old records a cinch. The built in connector allows you to dock your ipad one, new Ipad Iphone 4 or Iphone 4s or Ipod touch and upload your music from your records instantly. No computer needed, just download the free easy vinyl converter app to get started. The elegant black finish and modern design of this device make it a great addition to any home stereo system. Now, you can listen to all your old vinyl music anywhere. The Ion ILP is available online and at a Bed, Bath, and Beyond store near you.",
+    "video_type": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "VV_VI": 1,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "notes": "",
+    "uploader": "FTP",
+    "modified_date": "8\/7\/2012",
+    "created_date": "8\/7\/2012",
+    "creator": null,
+    "video_classification1": null,
+    "tvp_profiles": [
+        "21",
+        "22",
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 10.660419,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

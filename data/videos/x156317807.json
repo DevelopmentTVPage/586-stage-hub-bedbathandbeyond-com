@@ -1,0 +1,117 @@
+{
+    "id": "156317807",
+    "loginId": "1758166",
+    "user_id": "0",
+    "referenceId": "0a1c930bdfc96388778c6c2c7ce94252",
+    "entityType": "1",
+    "date_created": "1521742325",
+    "date_modified": "1522069274",
+    "title": "Bedside Sturdy Rail",
+    "description": "",
+    "tags": "",
+    "status": "pending",
+    "visibility": "1",
+    "sortOrder": "809",
+    "entityIdParent": "114661406",
+    "titleTextEncoded": "897564000955-mp4",
+    "category": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "62",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "62",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "62",
+        "prettyDuration": "00:01:02",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/156317807\/4cf05\/thumb-0a1c930bdfc96388778c6c2c7ce94252-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/156317807\/4cf05\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/156317807\/4cf05\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/156317807\/4cf05\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/156317807\/4cf05\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/156317807\/4cf05\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/156317807\/4cf05\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/156317807\/4cf05\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "video_type": "health_and_safety",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "VV_VI": 7,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-15"
+        }
+    },
+    "delete": "",
+    "Concept": "BBB_US_and_BBB_CA",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "notes": "no spoken word",
+    "uploader": "Katie Fitzgerald",
+    "modified_date": "",
+    "created_date": "03\/23\/2018",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

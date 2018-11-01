@@ -1,0 +1,111 @@
+{
+    "title": "Sunbeam Renu Tension Relieving Heating Pad in Brown",
+    "description": "Get the warmth you need with this Sunbeam Renu Tension Relieving Heating Pad. It boasts a 2 hour auto shut off and has 4 heat settings for comfort including a moist heat option to get penetrating heat to your neck and shoulders for relief.",
+    "referenceId": "1e6d11d0fed2645a82692c1be2de255e",
+    "date_created": "1526590342",
+    "date_modified": "1526590889",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "health_and_safety",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "163951117",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "63271409",
+    "category": "",
+    "duration": "29",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "29",
+            "width": 600,
+            "height": 338
+        },
+        "mediaDuration": "29",
+        "prettyDuration": "00:00:29",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1920\/1080\/186938444-1526590703.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/163951117\/13873\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/163951117\/13873\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163951117\/13873\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 600,
+                "height": 338
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163951117\/13873\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 600,
+                "height": 338
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163951117\/13873\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 600,
+                "height": 338
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163951117\/13873\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 600,
+                "height": 338
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163951117\/13873\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 160,
+    "CVV_VI": 1,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "no spoken words",
+    "uploader": "Franz Aquino",
+    "modified_date": "",
+    "created_date": "05\/17\/2018",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": ""
+}

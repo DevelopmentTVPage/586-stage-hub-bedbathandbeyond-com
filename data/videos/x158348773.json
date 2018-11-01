@@ -1,0 +1,113 @@
+{
+    "id": "158348773",
+    "loginId": "1758166",
+    "user_id": "0",
+    "referenceId": "6db01401b2f597ef7464e37c7311c8d7",
+    "entityType": "1",
+    "date_created": "1523021221",
+    "date_modified": "1523022108",
+    "title": "EVERYDAY STAND MIXER",
+    "description": "",
+    "tags": "",
+    "status": "pending",
+    "visibility": "1",
+    "sortOrder": "586",
+    "entityIdParent": "114661406",
+    "titleTextEncoded": "852079003099-856290005962-856290005108-856290005092-852079003426-854940007496-856290005979",
+    "category": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "25",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "25",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "25",
+        "prettyDuration": "00:00:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/158348773\/58dc0\/thumb-6db01401b2f597ef7464e37c7311c8d7-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/158348773\/58dc0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/158348773\/58dc0\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/158348773\/58dc0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/158348773\/58dc0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/158348773\/58dc0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/158348773\/58dc0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/158348773\/58dc0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "video_type": "Kitchen",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "VV_VI": 3,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "Concept": "BBB_US_and_BBB_CA",
+    "mod_request": null,
+    "cc_request": "n_a2",
+    "notes": "Has Captions",
+    "uploader": "Matthew Dalmeto",
+    "modified_date": "04\/06\/2018",
+    "created_date": "04\/06\/2018",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

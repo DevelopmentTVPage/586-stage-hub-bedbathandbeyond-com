@@ -1,0 +1,117 @@
+{
+    "title": "Bissell Versus Bare Floor Vacuum",
+    "description": "",
+    "referenceId": "11382",
+    "date_created": "1502923250",
+    "date_modified": "1517251110",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111179820",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "bissell-versus-bare-floor-vacuum",
+    "category": "",
+    "duration": "62",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "62",
+            "width": 960,
+            "height": 720
+        },
+        "mediaDuration": "62",
+        "prettyDuration": "00:01:02",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179820\/7c909\/thumb-11382-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179820\/7c909\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179820\/7c909\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179820\/cc\/vtt\/en_1517251105.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179820\/7c909\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179820\/7c909\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179820\/7c909\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179820\/7c909\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179820\/7c909\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "The Bissell Versus Bare Floor Vacuum is a quick and easy way to clean your bare floors and low pile area rugs. The patent pending V-shaped base has been designed for optimal cleaning performance. Versus' innovative V shape forces large debris into the center suction path while the arms capture finer particles. Dirt and debris have a tendency to get under edges of baseboard and in corners. But Versus' brushless arms allow for thorough, edge-to-edge cleaning along baseboards, in tight spaces, and in hard to reach corners. The head swivels to the right and left for easy maneuverability, and the V shape allows for easy cleaning around furniture legs, so you get a complete clean.\r\n\r\nWith a 12-amp motor, this unit has all the power of a traditional upright vacuum with the convenience of a compact, lightweight floor cleaner. The Bissell Versus, brushless, V-shaped technology for the most complete clean.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/4\/2010",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1556.6143,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

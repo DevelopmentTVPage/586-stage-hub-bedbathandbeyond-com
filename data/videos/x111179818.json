@@ -1,0 +1,119 @@
+{
+    "title": "Touch N Brush Toothpaste Dispenser",
+    "description": "",
+    "referenceId": "11358",
+    "date_created": "1502923244",
+    "date_modified": "1516985733",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111179818",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "touch-n-brush-toothpaste-dispenser",
+    "category": "",
+    "duration": "79",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "79",
+            "width": 960,
+            "height": 720
+        },
+        "mediaDuration": "79",
+        "prettyDuration": "00:01:19",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179818\/36749\/thumb-11358-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179818\/36749\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179818\/36749\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179818\/cc\/vtt\/en_1516985728.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179818\/36749\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179818\/36749\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179818\/36749\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179818\/36749\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179818\/36749\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "You squeeze. You roll. You press. Now, your bathroom looks a mess. And why is it impossible to get out the last drop of toothpaste? There's got to be a better way. Introducing Touch and Brush, the hands free toothpaste dispenser that works with just a touch. Touch and Brush works with virtually any size tube and secures easily onto any surface in seconds without any tools. Watch. Press on the air tight suction cups. Insert your favorite toothpaste, then pop on the cover. There's no electric or batteries to replace. It's that easy. Touch and Brush neatly dispenses the perfect amount of toothpaste in just one second every time, so now sticky bathroom sinks are a thing of the past. The secret is our patented technology. As the toothbrush gently pushes the pump arm, vacuum force pulls fresh toothpaste from the tube and dispenses it right on the brush. The best part is Touch and Brush uses every last bit of toothpaste, so there's no struggling for that last drop.\r\n\r\nThen when you're done, simply place in a new one, and you're ready to Touch and Brush again. Tired of the kids leaving behind a morning mess? No problem, because now it's easy and cool to brush before school. You can even apply toothpaste with just one hand. Amazing. Touch and Brush looks great with any bathroom d\u00e9cor. Touch and Brush, the hands free toothpaste dispenser that works with just a touch.",
+    "VV_VI": 6,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "12\/9\/2011",
+    "created_date": "5\/3\/2010",
+    "tvp_profiles": [
+        "18",
+        "9",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1602.5629,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

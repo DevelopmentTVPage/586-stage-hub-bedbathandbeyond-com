@@ -1,0 +1,117 @@
+{
+    "title": "Elmo Live Encore by Fisher Price",
+    "description": "",
+    "referenceId": "6055",
+    "date_created": "1502924798",
+    "date_modified": "1516738618",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180584",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "elmo-live-encore-by-fisher-price",
+    "category": "",
+    "duration": "106",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "106",
+            "width": 384,
+            "height": 288
+        },
+        "mediaDuration": "106",
+        "prettyDuration": "00:01:46",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180584\/f6dfe\/thumb-6055-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180584\/f6dfe\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180584\/f6dfe\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180584\/cc\/vtt\/en_1516738613.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180584\/f6dfe\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180584\/f6dfe\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180584\/f6dfe\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180584\/f6dfe\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 384,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180584\/f6dfe\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Elmo Live Encore by Fisher-Price\u00ae\r\n\r\nIf you loved Elmo Live, you'll want an encore! Elmo Live is now more life-like than ever! His mouth opens and closes, his head moves back and forth as he speaks, he waves his arms, sits and stands, crosses Elmo Live Encorehis legs - all the while telling stories, jokes, singing songs and playing games. Activate the magic with a tickle or a squeeze of Elmo's foot, tummy, back or nose. Elmo sings 3 classic songs from Sesame Street including the theme song, Sunny Days, Somebody Come and Play and Elmo's World. Elmo Encore features brand new content including all new jokes, a new story, more interactions and the same silly humor found in the original Elmo Live. Six AA batteries are included. Measures 15\" H x 11\" W x 15\" H. Recommended for children 18 months and up.",
+    "VV_VI": 4,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-03-17\"}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "12\/9\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 685.8443,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

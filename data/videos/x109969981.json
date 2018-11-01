@@ -1,0 +1,117 @@
+{
+    "title": "Chef's Planet&reg; Flavor Enhancer",
+    "description": "",
+    "referenceId": "1231431114",
+    "date_created": "1502518890",
+    "date_modified": "1516389552",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "109969981",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "chef-s-planet-flavor-enhancer",
+    "category": "",
+    "duration": "60",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "60",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/212326855-01320180.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109969981\/2d5f7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109969981\/2d5f7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109969981\/cc\/vtt\/en_1516389546.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969981\/2d5f7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969981\/2d5f7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969981\/2d5f7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969981\/2d5f7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969981\/2d5f7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "This ingenious gadget from Chef\u0092s Planet is called the Flavor Enhancer. It allows you to safely tenderize and flavorize all your favorite meats. Let me show you. It\u0092s uniquely engineered with stainless steel blades that pierce the meat to tenderize and three flavor needles to inject your desired marinade. There are two depth settings for different thicknesses of meat, lock for safety and room for up to three ounces of marinade. When you\u0092re finished using the Flavor Enhancer it comes apart for easy cleaning and its dishwasher safe. Now let\u0092s see this tool in action. Notice I have three of the most popular meats in front of me, poultry, beef, and pork. I\u0092ll use it on one at a time washing it in between. The Flavor Enhancer works wonderfully on even the toughest cuts. You can see the stainless steel blades tenderizing the meat and injecting just the right amount of flavor.",
+    "VV_VI": 53,
+    "CVV_VI": 3,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "douglas.french",
+    "modified_date": "3\/13\/2015",
+    "created_date": "3\/13\/2015",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1676.5354,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,117 @@
+{
+    "title": "EuroPro VX3",
+    "description": "",
+    "referenceId": "4862",
+    "date_created": "1502924625",
+    "date_modified": "1516737747",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180449",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "europro-vx3",
+    "category": "",
+    "duration": "136",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "136",
+            "width": 320,
+            "height": 240
+        },
+        "mediaDuration": "136",
+        "prettyDuration": "00:02:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180449\/c9a41\/thumb-4862-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180449\/c9a41\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180449\/c9a41\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180449\/cc\/vtt\/en_1516737744.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180449\/c9a41\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180449\/c9a41\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180449\/c9a41\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180449\/c9a41\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180449\/c9a41\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Still breaking your back cleaning your floors with that old dinosaur vac? Frustrated with that wimpy stick vac that only pushes dirt around? Using a broom and dustpan because nothing else works?\r\n\r\nThen you're ready for the Shark Cordless VX3 Floor cleaner. The easiest, most incredible way ever to clean all the floors in your home. It even picks up what your vacuum can't. It devours pasta, confetti, pet food, even things your vacuum can't like cooked food, nails, woodchips, gravel, and broken glass. It's a virtual sanitation department. It works on any surface, including vinyl, hardwood, tile, and carpet.\r\n\r\nThe secret is in the patented hyperspeed spinning brush roll that grabs every speck of dirt, and kinetically propels it directly into its waiting dirt tray. Its heavy duty, rechargeable power plant can clean an entire house full of carpets on a single charge.\r\n\r\nEven tough matted-in pet hair is no match for the deep down cleaning ability of the Shark VX3, yet it won't scratch even the shiniest hardwood floor. Its patented Wall Hugging\u0099 technology even grabs dirt right against the wall. And with a just a simple turn of the wrist, it easily maneuvers around anything.\r\n\r\nAt only four pounds, it's light enough for anyone to use. And it's so quiet, you can even use it while you're on the phone. And look at this. The remarkable BackSaver handle automatically bends so you don't have to, even to clean under the lowest furniture.\r\n\r\nI would recommend the Shark because it makes it very easy for you to maintain good body mechanics and great posture. With the Shark there is absolutely no need to own a vacuum cleaner.\r\n\r\nI don't want to drag out the big vacuum; I'm just using the Shark. The large capacity, no touch Dirt Tray, simply lifts up and out, and with the push of a button, the dirt's gone. You never touch it.\r\n\r\nThe Shark Cordless VX3. It even picks up what your vacuum can't. Even if you bought all of these products, you still wouldn't have the power, portability, or versatility of the new Shark Cordless VX3.\r\n\r\nDon't wait. Change the way you clean your floors forever.",
+    "VV_VI": 8,
+    "CVV_VI": 1,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "11\/27\/2013",
+    "created_date": "8\/26\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2396.749,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

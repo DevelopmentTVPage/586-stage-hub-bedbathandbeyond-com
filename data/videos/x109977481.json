@@ -1,0 +1,117 @@
+{
+    "title": "Puj&reg; Splash Newborn Bath Set",
+    "description": "",
+    "referenceId": "1417891632",
+    "date_created": "1502520369",
+    "date_modified": "1516727757",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "109977481",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "puj-splash-newborn-bath-set",
+    "category": "",
+    "duration": "76",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "76",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "76",
+        "prettyDuration": "00:01:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109977481\/c79c9\/thumb-a4f7965a3ccc975be838641c78688d04-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109977481\/c79c9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109977481\/c79c9\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109977481\/cc\/vtt\/en_1516727749.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977481\/c79c9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977481\/c79c9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977481\/c79c9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977481\/c79c9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977481\/c79c9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "All of our Puj products are popular baby registry and baby shower gift items. So we've now bundled them all together and one easy to carry and easy to give gift set.\r\n\r\n We've designed the ultimate newborn bath set that includes some of our most popular items like our ingenious foldable infant bath tub, our luxurious, hands-free infant towel, soft grippy hooks to hang all your new baby gear, and extra soft 100% cotton washcloths for your little baby.\r\n\r\n In addition you'll get my personal how to guide to having a great bath time experience. We've really sweated all the details with this gift set.\r\n\r\nThe products are great, and the box is giftable. In fact, we even made sure it would fit on pregnant woman's lap.\r\n\r\n I tested it while eight months pregnant. And best of all, the price is even better than buying each of the pieces individually. I know that you will be really happy with this gift set and your mom to be will really enjoy receiving this gift from you.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "Douglas.French",
+    "modified_date": "4\/9\/2015",
+    "created_date": "4\/9\/2015",
+    "tvp_profiles": [
+        "21"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 184.46315,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

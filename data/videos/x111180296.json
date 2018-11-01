@@ -1,0 +1,119 @@
+{
+    "title": "Oxo Fat Seperator",
+    "description": "",
+    "referenceId": "34008",
+    "date_created": "1502924314",
+    "date_modified": "1516654293",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180296",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "oxo-fat-seperator",
+    "category": "",
+    "duration": "72",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "72",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "72",
+        "prettyDuration": "00:01:12",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180296\/195a4\/thumb-34008-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180296\/195a4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180296\/195a4\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180296\/cc\/vtt\/en_1516654265.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180296\/195a4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180296\/195a4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180296\/195a4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180296\/195a4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180296\/195a4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi I am Adriana and today I'll be demonstrating Oxo's fat separator. This tool separates unwanted fat from all the flavorful juices, making any gravy or stock delicious and healthy. The unique stopper keeps fat from entering the spout. I'll show you how that works in a bit. To use simply pour the stock or pan juices into the fat separator. Let the juices settle, so the fat can rise to the surface. It my take a minute or so. The strainer on top catches any unwanted pieces. Notice how there is not fat in the spout? That's because the stopper traps air inside, making it difficult for liquid, especially unwanted fat, to make its way up. Once all the fat has risen to the top simply remove the strainer and stopper, and pour out the lean liquid, leaving the fat inside the separator. The tapered lip on the spout minimizes drips and the high wall keeps liquid from spilling out over the top. See how the stock is separated from the fat? Use the fat separator to make a nice lean stock for cooking. Or a delicious healthier gravy for all of your roasts.",
+    "VV_VI": 942,
+    "CVV_VI": 17,
+    "engagement_score": 1,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "10\/10\/2011",
+    "created_date": "10\/10\/2011",
+    "tvp_profiles": [
+        "14",
+        "30",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 11.936437,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

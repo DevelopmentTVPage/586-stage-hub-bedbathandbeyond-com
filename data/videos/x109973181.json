@@ -1,0 +1,123 @@
+{
+    "title": "Coolit Mealtime Cooling Dish",
+    "description": "",
+    "referenceId": "1301804411",
+    "date_created": "1502519542",
+    "date_modified": "1516671035",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "109973181",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "coolit-mealtime-cooling-dish",
+    "category": "",
+    "duration": "47",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "47",
+            "width": 852,
+            "height": 480
+        },
+        "mediaDuration": "47",
+        "prettyDuration": "00:00:47",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/962514384-01320180.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109973181\/18214\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973181\/18214\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109973181\/cc\/vtt\/en_1516671029.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973181\/18214\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 852,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973181\/18214\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 852,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973181\/18214\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 852,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973181\/18214\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973181\/18214\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi. I\u0092m Carrie. My husband, Matt and I are the creators of the Coolit\u0097a mealtime cooling dish that takes foods from too hot to just right in less than a minute.\n\nWhen food is hot and my kids are hungry, they don\u0092t wait for the food to cool off.  There\u0092s a lot of screaming and shrieking.  And then they put it right in their mouths and then they burn their tongues.  And then there\u0092s more screaming.\n\nSince we\u0092ve had the Coolit, we just take 60 seconds, put the food on the Coolit\u0085suddenly, no more shrieking.  Everyone is happy.  As long as the Coolit has been in the freezer for three hours, you just put the food on.  It takes even less than a minute of stirring before it is cool enough to eat.  And then you just pour the food right onto the kids plate.\n\n\n\nAnd then you just throw it in the dishwasher when we\u0092re done and then it will be set for the next day.  I can\u0092t imagine mealtime without it.",
+    "VV_VI": 3,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-03"
+        }
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Douglas.French",
+    "modified_date": "3\/30\/2015",
+    "created_date": "3\/30\/2015",
+    "tvp_profiles": [
+        "9",
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1484.7699,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

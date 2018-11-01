@@ -1,0 +1,123 @@
+{
+    "title": "Clean Machine Door Mats",
+    "description": "",
+    "referenceId": "013861b46c4eec82915f1fc19bc7a4b8",
+    "date_created": "1515771003",
+    "date_modified": "1516123086",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "outdoor",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "137390595",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "GrassWorx-CleanMachine-mp4",
+    "category": "",
+    "duration": "83",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "83",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "83",
+        "prettyDuration": "00:01:23",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390595\/9625a\/thumb-013861b46c4eec82915f1fc19bc7a4b8-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390595\/9625a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390595\/9625a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390595\/cc\/vtt\/en_1516123042.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390595\/9625a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390595\/9625a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390595\/9625a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390595\/9625a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390595\/9625a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Step up to a Clean Machine scraper doormat made with genuine AstroTurf, and stop dirt at the door.  Here how it works:\nThousands of tiny AstroTurf blades react to the back and forth scraping motion, and quickly remove mud, dirt, and debris from dirty shoes.  It Looks good and works great season after season.  The Clean Machine is a durable, hardworking doormat that helps (you) keep your house clean and save money.\nLow pile carpet mat.  A little bit of dirt, it has now where to go.  It just lays on top. Same problem with this scroll work mat, or how about the ever-popular cocoa fiber mat. The fibers are too dense.  The dirt just lays there.  Come back to our clean machine mat and see what happens.  It looks like magic.  25,000 genuine AstroTurf fibers allow that dirt to just drop right down inside, but it still does its\u2019 job.  Look at this boot once again nice and dirty, now nice and clean.  And this mat once again 5 lbs. of dirt. Let\u2019s see what this looks like on the cocoa fiber mat.  If we take all that dirt from your clean machine mat and put on top of that cocoa fiber, it has nowhere to go.  That is one very sad mat.",
+    "VV_VI": 433,
+    "CVV_VI": 24,
+    "engagement_score": 0,
+    "conversion_score": 1,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript for reference.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "1\/12\/18",
+    "tvp_profiles": [
+        "18",
+        "25",
+        "9"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 3671.5168,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,118 @@
+{
+    "title": "Norelco Arcitec Rechargeable Cordess Razor",
+    "description": "",
+    "referenceId": "5072",
+    "date_created": "1502924636",
+    "date_modified": "1516824681",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180457",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "norelco-arcitec-rechargeable-cordess-razor",
+    "category": "",
+    "duration": "176",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "176",
+            "width": 320,
+            "height": 180
+        },
+        "mediaDuration": "176",
+        "prettyDuration": "00:02:56",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/thumb-5072-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180457\/5f62d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180457\/cc\/vtt\/en_1516824681.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "Norelco Arcitec Rechargeable Cordless Razor\r\n\r\nThe Norelco Arcitec combines two revolutionary technologies for a perfectly close shave, even on the neck. The Flex & Pivot Action  Norelco Arcitec Rechargeable Cordless Razorensures optimum skin contact in curved areas by having all three independently flexing heads swivel with a full range of motion, while Triple Track shaving heads offer 50% more shaving surface than conventional rotary shaving heads. The precision tube trimmer is perfect for moustache and sideburn trimming. The unique luxury power pod and convenient charging stand stores and charges razor fully in just one hour or three minutes for a quick charge. An LED multi-purpose display on the razor indicates the remaining shaving minutes, when it is time to replace the shaving head, battery-low status, and charging status. Automatic voltage selection 100-240v guarantees travel convenience. Two year warranty. UL listed. Model #1090XD.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "9\/4\/2009",
+    "tvp_profiles": [
+        "11",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 863.35767,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

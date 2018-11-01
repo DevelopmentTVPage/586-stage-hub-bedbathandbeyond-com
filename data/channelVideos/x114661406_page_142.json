@@ -1,0 +1,1034 @@
+{
+    "pageNumber": 142,
+    "data": [
+        {
+            "id": "109980745",
+            "title": "Stadler Form&trade; Oskar Evaporative Humidifier",
+            "date_created": "1502521091",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "101",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "101",
+                "prettyDuration": "00:01:41",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109980745\/d2ca7\/thumb-8bdd218a4b2b64a947eea0524b468e8c-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109980745\/d2ca7\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109980745\/d2ca7\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109980745\/cc\/vtt\/en_1516668127.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980745\/d2ca7\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980745\/d2ca7\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980745\/d2ca7\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980745\/d2ca7\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980745\/d2ca7\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/stadler-form-oskar-evaporative-humidifier\/114661406-109980745"
+        },
+        {
+            "id": "109989230",
+            "title": "Stadler Form&trade; Anton Ultrasonic Humidifier",
+            "date_created": "1502522482",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "122",
+                    "width": 1024,
+                    "height": 576
+                },
+                "mediaDuration": "122",
+                "prettyDuration": "00:02:02",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109989230\/f678c\/thumb-f71cb4f6a8a72deeca5c34f405205dde-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109989230\/f678c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109989230\/f678c\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989230\/f678c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1024,
+                        "height": 576
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989230\/f678c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1024,
+                        "height": 576
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989230\/f678c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989230\/f678c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989230\/f678c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109989230\/cc\/vtt\/en_1504205303.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/stadler-form-anton-ultrasonic-humidifier\/114661406-109989230"
+        },
+        {
+            "id": "66694263",
+            "title": "NutriBullet PRO 900",
+            "date_created": "1459969572",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "900 watts of extraction technology, designed to Blast at the perfect speed, transforms ordinary foods into Superfoods. When you take control of your life, good habits become completely organic.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Cacf6AFn-hk\/hqdefault.jpg",
+                "uploadDate": 1459969572,
+                "videoId": "Cacf6AFn-hk",
+                "title": "NutriBullet PRO 900",
+                "description": "900 watts of extraction technology, designed to Blast at the perfect speed, transforms ordinary foods into Superfoods. When you take control of your life, good habits become completely organic. \n\nFor more information, please visit: https:\/\/www.nutriliving.com\/\n\nFollow us @theNutriBullet:\nFacebook: https:\/\/www.facebook.com\/thenutribullet\nInstagram: https:\/\/instagram.com\/thenutribullet\/\nTwitter: https:\/\/twitter.com\/thenutribullet\nVine: https:\/\/vine.co\/The.NutriBullet\nPinterest: https:\/\/www.pinterest.com\/thenutribullet",
+                "author": "NutriBullet",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "views": "4918",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/nutribullet-pro-900\/114661406-66694263"
+        },
+        {
+            "id": "66694273",
+            "title": "NutriBullet: Berry Citrus Ginger Smoothie Recipe",
+            "date_created": "1463768729",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "The sweet flavor of berries and coconut water blends perfectly with the tart flavor of citrus and aromatic ginger to give you the boost your body craves! \n\nRecipe:\n1 Cup Spinach\n\u00bd   Orange\n1 Cup Mixed Berries\n\u00bd Inch Ginger\n\u00bd Teaspoon Turmeric\nTo Max Line Coconut Water",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/26rbAWFAN34\/hqdefault.jpg",
+                "uploadDate": 1463768729,
+                "videoId": "26rbAWFAN34",
+                "title": "NutriBullet: Berry Citrus Ginger Smoothie Recipe",
+                "description": "The sweet flavor of berries and coconut water blends perfectly with the tart flavor of citrus and aromatic ginger to give you the boost your body craves! \n\nRecipe:\n1 Cup Spinach\n\u00bd   Orange\n1 Cup Mixed Berries\n\u00bd Inch Ginger\n\u00bd Teaspoon Turmeric\nTo Max Line Coconut Water\n\nFor more information about NutriBullet, please visit: http:\/\/nutrilivi.ng\/rqnX5Q\n\nFollow us on Social Media @theNutriBullet:\n\nFacebook: https:\/\/www.facebook.com\/thenutribullet\nInstagram: https:\/\/instagram.com\/thenutribullet\/\nTwitter: https:\/\/twitter.com\/thenutribullet\nVine: https:\/\/vine.co\/The.NutriBullet\nPinterest: https:\/\/www.pinterest.com\/thenutribullet",
+                "author": "NutriBullet",
+                "mediaDuration": 15,
+                "prettyDuration": "00:00:15",
+                "views": "4394",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/nutribullet-berry-citrus-ginger-smoothie-recipe\/114661406-66694273"
+        },
+        {
+            "id": "66694288",
+            "title": "NutriBullet University: Helping Students Reduce Their Cholesterol",
+            "date_created": "1455633807",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "By helping kids reduce their cholesterol, the NBU program has also helped kids decrease their chance of heart disease.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ToTbX714LDE\/hqdefault.jpg",
+                "uploadDate": 1455633807,
+                "videoId": "ToTbX714LDE",
+                "title": "NutriBullet University: Helping Students Reduce Their Cholesterol",
+                "description": "By helping kids reduce their cholesterol, the NBU program has also helped kids decrease their chance of heart disease. \n\n\n\nFor more information, please visit: http:\/\/www.nutribulletuniversity.com.\n\nFollow NutriBullet University:\n\nFacebook: http:\/\/www.facebook.com\/NutriBulletUn...\nTwitter: http:\/\/www.twitter.com\/BeTheNextUNI\nInstagram: @NutriBulletUniversity",
+                "author": "NutriBullet",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "views": "42346",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/nutribullet-university-helping-students-reduce-their-cholesterol\/114661406-66694288"
+        },
+        {
+            "id": "66090436",
+            "title": "Will it Blend? Hillary Clinton's Emails",
+            "date_created": "1427988207",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Blendtec founder and CEO, Tom Dickson, visits the set of Bloomberg's \"With All Due Respect\"and takes on the U.S. political scene and asks the important question...\"Will it Blend?\" Watch Tom pulverize Hillary's Blackberry and emails faster than Hillary already did. Also watch Tom blend President Barack Obama's golf club, Senator and Republican 2016 Presidential hopeful Ted Cruz's Canadian identity, and Speaker of the House John Boehner's suntan lotion (that he never uses). Why did we do this? Because pulverizing politics can be quite a rush! \n\nMany thanks to Bloomberg's \"With All Due Respect\" hosts Mark Halperin and John Heilemann and the folks at Bloomberg who are big \"Will it Blend\" fans! We love you guys!",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/TwhQGON-kxE\/hqdefault.jpg",
+                "uploadDate": 1427988207,
+                "videoId": "TwhQGON-kxE",
+                "title": "Will it Blend? Hillary Clinton's Emails",
+                "description": "Blendtec founder and CEO, Tom Dickson, visits the set of Bloomberg's \"With All Due Respect\"and takes on the U.S. political scene and asks the important question...\"Will it Blend?\" Watch Tom pulverize Hillary's Blackberry and emails faster than Hillary already did. Also watch Tom blend President Barack Obama's golf club, Senator and Republican 2016 Presidential hopeful Ted Cruz's Canadian identity, and Speaker of the House John Boehner's suntan lotion (that he never uses). Why did we do this? Because pulverizing politics can be quite a rush! \n\nMany thanks to Bloomberg's \"With All Due Respect\" hosts Mark Halperin and John Heilemann and the folks at Bloomberg who are big \"Will it Blend\" fans! We love you guys! \n\nCheck out the Bloomberg write-up and segment here: http:\/\/bloom.bg\/1ankCvQ \n\nShop our amazing lineup of blenders at http:\/\/www.Blendtec.com\n\nSubscribe and see what Tom will blend next!\nLet us know what Tom should blend next here: https:\/\/www.facebook.com\/willitblend",
+                "author": "Blendtec",
+                "mediaDuration": 208,
+                "prettyDuration": "00:03:28",
+                "views": "121921",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/will-it-blend-hillary-clinton-s-emails\/114661406-66090436"
+        },
+        {
+            "id": "66090433",
+            "title": "Will it Blend? Shia Labeouf - Just Do It!",
+            "date_created": "1433535615",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Getting ready to film a new \"Will it Blend?\" the new camera guy was captured trying to inspire Tom and the crew.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/TynmEonPPFE\/hqdefault.jpg",
+                "uploadDate": 1433535615,
+                "videoId": "TynmEonPPFE",
+                "title": "Will it Blend? Shia Labeouf - Just Do It!",
+                "description": "Getting ready to film a new \"Will it Blend?\" the new camera guy was captured trying to inspire Tom and the crew.",
+                "author": "Blendtec",
+                "mediaDuration": 67,
+                "prettyDuration": "00:01:07",
+                "views": "356029",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/will-it-blend-shia-labeouf-just-do-it\/114661406-66090433"
+        },
+        {
+            "id": "66090423",
+            "title": "Will it Blend? iPhone SE",
+            "date_created": "1459877388",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Tom was \"Super Excited\" to do this blend and we couldn't wait to \"Show Everyone\"!",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/DORyTWjqg7U\/hqdefault.jpg",
+                "uploadDate": 1459877388,
+                "videoId": "DORyTWjqg7U",
+                "title": "Will it Blend? iPhone SE",
+                "description": "Tom was \"Super Excited\" to do this blend and we couldn't wait to \"Show Everyone\"! \n\nTell us what to blend next here: http:\/\/www.facebook.com\/willitblend\n\n...and be sure to follow us here:\n\nFacebook - http:\/\/www.Facebook.com\/willitblend\nGoogle+ - http:\/\/gplus.to\/blendtec\nTwitter - http:\/\/www.Twitter.com\/blendtec\nPinterest - http:\/\/www.Pinterest.com\/blendtec\nLinkedIn - http:\/\/linkd.in\/vQFL80",
+                "author": "Blendtec",
+                "mediaDuration": 183,
+                "prettyDuration": "00:03:03",
+                "views": "226138",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/will-it-blend-iphone-se\/114661406-66090423"
+        },
+        {
+            "id": "66090428",
+            "title": "Our Durable Safety Blade",
+            "date_created": "1450735073",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Blendtec blades are made of cold-forged hardened steel and are up to 80% thicker and 10 times stronger than other blender blades. They're also blunt instead of sharp. Why? With a blade that spins over 300 miles per hour, it doesn't need to be sharp to get the job done. Instead of chipping away at ice and frozen fruit with sharp edges, the large, blunt design pulverizes virtually anything. And it\u2019s completely safe to clean, too.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/f2uJGmiJmJI\/hqdefault.jpg",
+                "uploadDate": 1450735073,
+                "videoId": "f2uJGmiJmJI",
+                "title": "Our Durable Safety Blade",
+                "description": "Blendtec blades are made of cold-forged hardened steel and are up to 80% thicker and 10 times stronger than other blender blades. They're also blunt instead of sharp. Why? With a blade that spins over 300 miles per hour, it doesn't need to be sharp to get the job done. Instead of chipping away at ice and frozen fruit with sharp edges, the large, blunt design pulverizes virtually anything. And it\u2019s completely safe to clean, too.",
+                "author": "Blendtec",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "views": "97870",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/our-durable-safety-blade\/114661406-66090428"
+        },
+        {
+            "id": "66090446",
+            "title": "Why Blendtec? The 5 Differentiators",
+            "date_created": "1400358034",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "What makes Blendtec different?\n1-Quiet, Ultra Speed Motor\n2-Plunger Free, Easy Clean Jar\n3-Uniquely Blunt Safety Blade\n4-Smart Touch Interface\n5-Hardened Metal Drive Socket",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/LhAV8IE4UME\/hqdefault.jpg",
+                "uploadDate": 1400358034,
+                "videoId": "LhAV8IE4UME",
+                "title": "Why Blendtec? The 5 Differentiators",
+                "description": "What makes Blendtec different?\n1-Quiet, Ultra Speed Motor\n2-Plunger Free, Easy Clean Jar\n3-Uniquely Blunt Safety Blade\n4-Smart Touch Interface\n5-Hardened Metal Drive Socket\n\nBlendtec.com",
+                "author": "Blendtec",
+                "mediaDuration": 146,
+                "prettyDuration": "00:02:26",
+                "views": "102783",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/why-blendtec-the-5-differentiators\/114661406-66090446"
+        },
+        {
+            "id": "109974325",
+            "title": "Boneco Air-O-Swiss&reg; Ultrasonic Humidifier AOS U650",
+            "date_created": "1502519907",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "156",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "156",
+                "prettyDuration": "00:02:36",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109974325\/62b9e\/thumb-712f42925ef9240ad773de49592b3d40-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109974325\/62b9e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109974325\/62b9e\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109974325\/cc\/vtt\/en_1504205157.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974325\/62b9e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974325\/62b9e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974325\/62b9e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974325\/62b9e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974325\/62b9e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/19430u650-mp4\/114661406-109974325"
+        },
+        {
+            "id": "109983962",
+            "title": "Air-O-Swiss&reg; Ultrasonic Digital Humidifier",
+            "date_created": "1502521730",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "197",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "197",
+                "prettyDuration": "00:03:17",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109983962\/7fde5\/thumb-6b612544556d938c0fe236f5e130067d-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109983962\/7fde5\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109983962\/7fde5\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109983962\/7fde5\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109983962\/7fde5\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109983962\/7fde5\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109983962\/7fde5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109983962\/7fde5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109983962\/cc\/vtt\/en_1504141417.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/air-o-swiss-ultrasonic-digital-humidifier\/114661406-109983962"
+        },
+        {
+            "id": "110000990",
+            "title": "LectroFan Sound Therapy Machine",
+            "date_created": "1502524485",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "77",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "77",
+                "prettyDuration": "00:01:17",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110000990\/55cd4\/thumb-ca5ba5dfb8ae2caafeb1bc78b76e783b-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110000990\/55cd4\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110000990\/55cd4\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110000990\/55cd4\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110000990\/55cd4\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110000990\/55cd4\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110000990\/55cd4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110000990\/55cd4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": []
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/lectrofan-sound-therapy-machine\/114661406-110000990"
+        },
+        {
+            "id": "110008641",
+            "title": "Ubbi Diaper Pail",
+            "date_created": "1502526012",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "164",
+                    "width": 1080,
+                    "height": 720
+                },
+                "mediaDuration": "164",
+                "prettyDuration": "00:02:44",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110008641\/d7a13\/thumb-7f63e1b738779532240b6fff171a2626-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110008641\/d7a13\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110008641\/d7a13\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/110008641\/cc\/vtt\/en_1516899827.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008641\/d7a13\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1080,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008641\/d7a13\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1080,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008641\/d7a13\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008641\/d7a13\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 540,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008641\/d7a13\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 214
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/ubbi-diaper-pail\/114661406-110008641"
+        },
+        {
+            "id": "109982892",
+            "title": "Tervis&reg; My First Tervis&trade; Sippy Cup",
+            "date_created": "1502521525",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "71",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "71",
+                "prettyDuration": "00:01:11",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109982892\/a5b78\/thumb-7a0c611ce5980ab8cad968828650ac1e-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109982892\/a5b78\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109982892\/a5b78\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109982892\/cc\/vtt\/en_1517248009.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982892\/a5b78\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982892\/a5b78\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982892\/a5b78\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982892\/a5b78\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982892\/a5b78\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/tervis-my-first-tervis-sippy-cup\/114661406-109982892"
+        },
+        {
+            "id": "109982869",
+            "title": "Chicco Pacifier",
+            "date_created": "1502521475",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "141",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "141",
+                "prettyDuration": "00:02:21",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109982869\/8185a\/thumb-108517a34d587e49e9635837902fe7f1-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109982869\/8185a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109982869\/8185a\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982869\/8185a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982869\/8185a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982869\/8185a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982869\/8185a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982869\/8185a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/chicco-pacifier\/114661406-109982869"
+        },
+        {
+            "id": "109992448",
+            "title": "Primula&reg; Flavor It Infusion Beverage System",
+            "date_created": "1502523150",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "123",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "123",
+                "prettyDuration": "00:02:03",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109992448\/f7a4f\/thumb-fccc646e3fe69fe6d1b70bd89996dbfb-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109992448\/f7a4f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109992448\/f7a4f\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992448\/f7a4f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992448\/f7a4f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992448\/f7a4f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992448\/f7a4f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992448\/f7a4f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109992448\/cc\/vtt\/en_1504207437.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/primula-flavor-it-infusion-beverage-system\/114661406-109992448"
+        },
+        {
+            "id": "109974324",
+            "title": "OXO Tot&reg; Sprout High Chair",
+            "date_created": "1502519906",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "60",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/618051030-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109974324\/db31a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109974324\/db31a\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109974324\/cc\/vtt\/en_1517246130.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974324\/db31a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974324\/db31a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974324\/db31a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974324\/db31a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109974324\/db31a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/oxo-tot-sprout-high-chair\/114661406-109974324"
+        },
+        {
+            "id": "110010867",
+            "title": "Halo Sleep Sacks",
+            "date_created": "1502526411",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "98",
+                    "width": 720,
+                    "height": 480
+                },
+                "mediaDuration": "98",
+                "prettyDuration": "00:01:38",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110010867\/37471\/thumb-1d871b14eb013635b815b36a42a502c5-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110010867\/37471\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110010867\/37471\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/110010867\/cc\/vtt\/en_1517250713.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110010867\/37471\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110010867\/37471\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110010867\/37471\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110010867\/37471\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 540,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110010867\/37471\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 214
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/halo-sleep-sacks\/114661406-110010867"
+        },
+        {
+            "id": "109992444",
+            "title": "Baby K'tan Baby Carrier",
+            "date_created": "1502523135",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "127",
+                    "width": 960,
+                    "height": 544
+                },
+                "mediaDuration": "127",
+                "prettyDuration": "00:02:07",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109992444\/06e9b\/thumb-d6097886f6cf273eb8a37c0247d38125-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109992444\/06e9b\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109992444\/06e9b\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992444\/06e9b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992444\/06e9b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992444\/06e9b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992444\/06e9b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992444\/06e9b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109992444\/cc\/vtt\/en_1516666778.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/baby-k-tan-baby-carrier\/114661406-109992444"
+        }
+    ]
+}

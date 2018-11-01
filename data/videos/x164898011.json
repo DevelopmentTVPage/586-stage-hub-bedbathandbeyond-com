@@ -1,0 +1,115 @@
+{
+    "title": "J is for Jeep Sport Utility All-Terrain Stroller",
+    "description": "The J is for Jeep Sport Utility All-Terrain Stroller features a 3-in-1 design that starts as a travel system with included adapter for newborns, a carriage-style stroller for infants, and a reversible seat stroller for toddlers.",
+    "referenceId": "f0ee4d4876e04246ac8b490f202e05e4",
+    "date_created": "1528978932",
+    "date_modified": "1528980690",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "strollers",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "164898011",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "5185047",
+    "category": "",
+    "duration": "112",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "112",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "112",
+        "prettyDuration": "00:01:52",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/164898011\/f4193\/thumb-f0ee4d4876e04246ac8b490f202e05e4-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164898011\/f4193\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164898011\/f4193\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164898011\/f4193\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164898011\/f4193\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164898011\/f4193\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/164898011\/f4193\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/164898011\/f4193\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": 7,
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "delete": "",
+    "notes": "no spoken words",
+    "uploader": "Franz Aquino",
+    "modified_date": "",
+    "created_date": "06\/14\/2018",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "Honda Power Equipment Heel Quick Delta Children The National Centre for Craft & Design Comforpedic",
+    "tvp_enhanced_transcript": ""
+}

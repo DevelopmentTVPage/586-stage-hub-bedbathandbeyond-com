@@ -1,0 +1,121 @@
+{
+    "id": "151740502",
+    "loginId": "1758166",
+    "user_id": "0",
+    "referenceId": "31b325568c101fc245f2323e6270018a",
+    "entityType": "1",
+    "date_created": "1519765845",
+    "date_modified": "1519769471",
+    "title": "Graco Pack 'n Play Alexa Quick Connect Portable Napper in Grey",
+    "description": "The Graco Pack 'n Play Alexa Quick Connect Napper offers your little one deluxe comfort, growing with your child from newborn to infant to toddler, and includes a changing station, a portable infant seat that doubles as a bouncer, and a plush playard.",
+    "tags": "",
+    "status": "pending",
+    "visibility": "1",
+    "sortOrder": "1056",
+    "entityIdParent": "114661406",
+    "titleTextEncoded": "0047406147250-mp4",
+    "category": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "60",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "60",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1262\/707\/499143802-021262709.JPG",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/151740502\/723b4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/151740502\/723b4\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/151740502\/cc\/vtt\/en_1519769447.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/151740502\/723b4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/151740502\/723b4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/151740502\/723b4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/151740502\/723b4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/151740502\/723b4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "video_type": "baby_and_kids",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "VV_VI": 5,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "notes": "with spoken words",
+    "uploader": "Franz Aquino",
+    "modified_date": "",
+    "created_date": "02\/27\/2018",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

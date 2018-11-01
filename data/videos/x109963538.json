@@ -1,0 +1,119 @@
+{
+    "title": "Puj&reg; Hug Hands-Free Hooded Infant Towel",
+    "description": "",
+    "referenceId": "1087693968",
+    "date_created": "1502517685",
+    "date_modified": "1516728462",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "109963538",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "puj-hug-hands-free-hooded-infant-towel",
+    "category": "",
+    "duration": "63",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "63",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "63",
+        "prettyDuration": "00:01:03",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109963538\/9dd84\/thumb-cea1259fae44b07f9e6c1bf2fb91aba6-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109963538\/9dd84\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109963538\/9dd84\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109963538\/cc\/vtt\/en_1516728456.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963538\/9dd84\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963538\/9dd84\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963538\/9dd84\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963538\/9dd84\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963538\/9dd84\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "I noticed that taking the baby out of the bath tub was complicated and parents were getting\n\nthemselves wet picking the baby, dripping water all over the floor, and then walking over and finding a towel.\n\n And so with the Puj Hug and our loop logic system this is simplified in a matter of seconds. The parent puts the towel around her neck and it won't slip off. This way you stay dry while bathing the baby and then when it's time to take the baby out\n\nyou just pick them up naturally as you would and put them against your body.\n\n You're dry, the towel's right there, and you wrap it around them, and swaddle them and cradle them and give them a hug.\n\n The material itself is really soft. It's an ultra-soft, luxurious cotton. And my favorite part is seeing apparent reaction to the Hug. They always say \"This is brilliant!\" and once again Puj has simplified parenthood and made bath time easier.",
+    "VV_VI": 1,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2017-08-26\"}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "Douglas.French",
+    "modified_date": "4\/9\/2015",
+    "created_date": "4\/9\/2015",
+    "tvp_profiles": [
+        "9",
+        "25",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1894.0804,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,117 @@
+{
+    "title": "Black &amp; Decker 18 Volt Pivot Vac",
+    "description": "",
+    "referenceId": "3704",
+    "date_created": "1502924455",
+    "date_modified": "1516985864",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180337",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "black-decker-18-volt-pivot-vac",
+    "category": "",
+    "duration": "74",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "74",
+            "width": 320,
+            "height": 240
+        },
+        "mediaDuration": "74",
+        "prettyDuration": "00:01:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180337\/40ddc\/thumb-3704-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180337\/40ddc\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180337\/40ddc\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180337\/cc\/vtt\/en_1516985856.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180337\/40ddc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180337\/40ddc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180337\/40ddc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180337\/40ddc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180337\/40ddc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Black & Decker Pivot Hand Vac\r\n\r\nNo matter what type of mess you're faced with, this powerful cordless vacuum can handle the job. It has a patented pivoting action that Black & Decker Pivot Vaclocks into 10 different positions for targeted cleaning, making it the ideal tool for virtually every household clean-up chore. The integrated extension nozzle gives you 50% more reach in hard to reach areas. A two-speed motor delivers superior suction strength, so even stubborn, ground-in dirt is no match for the powerful cyclonic action. And, because it's bagless, clean-up is a cinch. Simply empty the dirt cup into the trash. The EZ Clean Wheel System instantly improves suction. Perfect for use in the home, garage, workshop or car. 18 volt provides 30% more suction power. Model # PHV1800\r\n\r\nBlack & Decker 18 Volt Pivot Vac\r\n\r\nIntroducing the 18 Volt Pivot Vac from Black & Decker.  This powerful hand vacuum pivots into hard-to-reach places with thirty percent more suction power.\r\n\r\nEquipped with an exclusive ten position pivoting nozzle, this hand vacuum makes cleaning those out of the way nooks and crannies easy. The slim extension nozzle allows you to clean those tight spaces like car door storage compartments and under low-lying furniture.\r\n\r\nThe Pivot Vac's cyclonic action pulls dirt and debris away from the filter so the power stays stronger, longer, Allowing you to handle big clean-up jobs quickly. And an easy clean wheel turns to re-clean eighty percent of the suction power by knocking dirt and dust off the filter without having to remove it.\r\n\r\nBest of all, you don't have to touch the dirt you just cleaned up with the Pivot Vac's one-handed easy empty dirt chamber. And when you're finished cleaning, just fold the vac in half and store it on the charging base.\r\n\r\nSo, when you need a powerful and flexible tool to clean those hard to reach places, get the 18 Volt Pivot Vac with thirty percent more suction power. It comes with a two year warranty. \r\n\r\nAnother powerful solution from Black & Decker.",
+    "VV_VI": 2,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "11\/25\/2013",
+    "created_date": "5\/1\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2550.4026,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

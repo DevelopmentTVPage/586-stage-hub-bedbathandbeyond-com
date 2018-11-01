@@ -1,0 +1,121 @@
+{
+    "id": "109963525",
+    "loginId": "1758166",
+    "user_id": "0",
+    "referenceId": "1082642451",
+    "entityType": "1",
+    "date_created": "1502517651",
+    "date_modified": "1510188829",
+    "title": "Hookless Shower Curtain",
+    "description": "",
+    "tags": "",
+    "status": "pending",
+    "visibility": "1",
+    "sortOrder": "3925",
+    "entityIdParent": "114661406",
+    "titleTextEncoded": "hookless-shower-curtain",
+    "category": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "68",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "68",
+            "width": 960,
+            "height": 720
+        },
+        "mediaDuration": "68",
+        "prettyDuration": "00:01:08",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109963525\/fd8d5\/thumb-4276298201a1a9d9f73cf88ba0ff7052-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109963525\/fd8d5\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109963525\/fd8d5\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109963525\/cc\/vtt\/en_1504061162.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963525\/fd8d5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963525\/fd8d5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963525\/fd8d5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963525\/fd8d5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109963525\/fd8d5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "video_type": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "VV_VI": 2179,
+    "CVV_VI": "",
+    "engagement_score": 2,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "notes": "",
+    "uploader": "FTP",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/24\/2017",
+    "creator": null,
+    "video_classification1": null,
+    "tvp_profiles": [
+        "18",
+        "11",
+        "30"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 93.886925,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

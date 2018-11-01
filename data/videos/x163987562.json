@@ -1,0 +1,115 @@
+{
+    "title": "Waterpik PowerSpray+Dual Showerhead in Chrome",
+    "description": "Enhance your showering experience with the innovative Waterpik PowerSpray+Dual Showerhead. Boasting 5 different spray settings and a 3-way diverter lets you switch between the handheld, fixed mount showers, or for use of both at the same time.",
+    "referenceId": "6374ef4c420f1f44b1f1a83179f54328",
+    "date_created": "1526995607",
+    "date_modified": "1527023704",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "bath",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "163987562",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "73950212199",
+    "category": "",
+    "duration": "53",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "53",
+            "width": 1440,
+            "height": 1072
+        },
+        "mediaDuration": "53",
+        "prettyDuration": "00:00:53",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/163987562\/93046\/thumb-6374ef4c420f1f44b1f1a83179f54328-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/163987562\/93046\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/163987562\/93046\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163987562\/93046\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1440,
+                "height": 1072
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163987562\/93046\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 968,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163987562\/93046\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 644,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163987562\/93046\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 484,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163987562\/93046\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 238
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 9,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "delete": "",
+    "notes": "No Words",
+    "uploader": "Robert Podolak",
+    "modified_date": "",
+    "created_date": "5\/22\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "Waterpik Sherlock Nation",
+    "tvp_enhanced_transcript": ""
+}

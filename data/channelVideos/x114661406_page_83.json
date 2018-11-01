@@ -1,0 +1,1365 @@
+{
+    "pageNumber": 83,
+    "data": [
+        {
+            "id": "125849952",
+            "title": "Snuggie Tails Blankets",
+            "date_created": "1509116844",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "71",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "71",
+                "prettyDuration": "00:01:11",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125849952\/02bbb\/thumb-57b2a5fd64747e0d567a44ca0c710ecd-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/125849952\/02bbb\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/125849952\/02bbb\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125849952\/02bbb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125849952\/02bbb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125849952\/02bbb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125849952\/02bbb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125849952\/02bbb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/snuggietails-60463777-61246447-60463784-mp4\/114661406-125849952"
+        },
+        {
+            "id": "125408468",
+            "title": "Crafthouse by Fortessa Stainless Steel Hawthorne Strainer",
+            "date_created": "1509043109",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Crafthouse by Fortessa Stainless Steel Hawthorne Strainer",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "58",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "58",
+                "prettyDuration": "00:00:58",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125408468\/ece3f\/thumb-ab99ba1313f9d7760933532689e2af03-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/125408468\/ece3f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/125408468\/ece3f\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/125408468\/cc\/vtt\/en_1509466302.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125408468\/ece3f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125408468\/ece3f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125408468\/ece3f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125408468\/ece3f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125408468\/ece3f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/crafthouse-by-fortessa-hawthorne-strainer-key-features-1-mp4\/114661406-125408468"
+        },
+        {
+            "id": "125408432",
+            "title": "Crafthouse by Fortessa 4-Piece Bar Tool Set",
+            "date_created": "1509038922",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Crafthouse by Fortessa 4-Piece Bar Tool Set",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "99",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "99",
+                "prettyDuration": "00:01:39",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125408432\/bcbbd\/thumb-b8693eaa7f833972f3339f0da30b3d49-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/125408432\/bcbbd\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/125408432\/bcbbd\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/125408432\/cc\/vtt\/en_1509466129.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125408432\/bcbbd\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125408432\/bcbbd\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125408432\/bcbbd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125408432\/bcbbd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125408432\/bcbbd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/crafthouse-by-fortessa-bar-board-and-bar-knife-key-features-1-mp4\/114661406-125408432"
+        },
+        {
+            "id": "122842779",
+            "title": "MODULE_2-A_VIDEO.mp4",
+            "date_created": "1507728677",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "78",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "78",
+                "prettyDuration": "00:01:18",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/122842779\/c60b5\/thumb-00fa4c0029d63e848903961898d58fd6-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/122842779\/c60b5\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/122842779\/c60b5\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/122842779\/cc\/vtt\/en_1509033375.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/122842779\/c60b5\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/122842779\/c60b5\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/122842779\/c60b5\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/122842779\/c60b5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/122842779\/c60b5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/module-2-a-video-mp4\/114661406-122842779"
+        },
+        {
+            "id": "125345490",
+            "title": "Delta Crib Assembly Video",
+            "date_created": "1508963876",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "110",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "110",
+                "prettyDuration": "00:01:50",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125345490\/2c2c7\/thumb-b1c632be5205628ef3c3cf261ff56ad2-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/125345490\/2c2c7\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/125345490\/2c2c7\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/125345490\/cc\/vtt\/en_1516740378.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345490\/2c2c7\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345490\/2c2c7\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345490\/2c2c7\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345490\/2c2c7\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345490\/2c2c7\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/delta-cribassembly-mp4\/114661406-125345490"
+        },
+        {
+            "id": "125345407",
+            "title": "Black & Decker Scumbuster Pro Lithium Ion Powered Bathroom Scrubber",
+            "date_created": "1508946165",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "44",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "44",
+                "prettyDuration": "00:00:44",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125345407\/57cec\/thumb-7ec4fbcc177e1775546079404c18da03-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/125345407\/57cec\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/125345407\/57cec\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/125345407\/cc\/vtt\/en_1508947814.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345407\/57cec\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345407\/57cec\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345407\/57cec\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345407\/57cec\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345407\/57cec\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/scumbuster-62508735-mp4\/114661406-125345407"
+        },
+        {
+            "id": "125345406",
+            "title": "Black & Decker Grimebuster Pro Lithium Powered Scrubber",
+            "date_created": "1508946112",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "41",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "41",
+                "prettyDuration": "00:00:41",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125345406\/26729\/thumb-04249d5759ea63116f476e0f28bf75a6-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/125345406\/26729\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/125345406\/26729\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/125345406\/cc\/vtt\/en_1508947691.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345406\/26729\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345406\/26729\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345406\/26729\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345406\/26729\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345406\/26729\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/grimebusterpro-62508728-mp4\/114661406-125345406"
+        },
+        {
+            "id": "125345405",
+            "title": "Black & Decker Grimebuster Powered Scrubber",
+            "date_created": "1508946062",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "39",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "39",
+                "prettyDuration": "00:00:39",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125345405\/244e4\/thumb-64ef7c3e98a81a7c2eda511e449ca2af-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/125345405\/244e4\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/125345405\/244e4\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/125345405\/cc\/vtt\/en_1508947593.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345405\/244e4\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345405\/244e4\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345405\/244e4\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345405\/244e4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345405\/244e4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/grimebuster-62508711-mp4\/114661406-125345405"
+        },
+        {
+            "id": "125345374",
+            "title": "Educational Insights GeoSafari Jr. Bug Vac 'n' View",
+            "date_created": "1508942146",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "37",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "37",
+                "prettyDuration": "00:00:37",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125345374\/edb36\/thumb-c97283cab01c620a307635feb8cead99-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/125345374\/edb36\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/125345374\/edb36\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/125345374\/cc\/vtt\/en_1516740190.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345374\/edb36\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345374\/edb36\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345374\/edb36\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345374\/edb36\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345374\/edb36\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/bug-final-novo-62536240-mp4\/114661406-125345374"
+        },
+        {
+            "id": "125345349",
+            "title": "Bella Tunno Boss 7-in-1 Backpack Diaper Bag",
+            "date_created": "1508938048",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "16",
+                    "width": 960,
+                    "height": 642
+                },
+                "mediaDuration": "16",
+                "prettyDuration": "00:00:16",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125345349\/dc597\/thumb-07a5cfd995db4fd38debd18b761e2027-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/125345349\/dc597\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/125345349\/dc597\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/125345349\/cc\/vtt\/en_1516740000.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345349\/dc597\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 642
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345349\/dc597\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 642
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345349\/dc597\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 718,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345349\/dc597\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 538,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125345349\/dc597\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 214
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/bellatunno-bossbackpack-61954731-61954724-mp4\/114661406-125345349"
+        },
+        {
+            "id": "66341032",
+            "title": "Dyson DC59: The latest Dyson cordless vacuum cleaner - Official Dyson Video",
+            "date_created": "1402503799",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "The new Dyson DC59 vacuum cleaner is lightweight, cordless, sucks up as much dust as conventional vacuum.* Without the hassle of a cord.\n\nThe new V6 Dyson digital motor, engineered specifically for this machine, is 50% more powerful than its predecessor. This gives the Dyson DC59 vacuum cleaner powerful performance, with the versatility of a cordless format. With a run time enhancing trigger providing 26 minutes cleaning time, DC59 is light and easy to maneuver between high, low and hard to reach spaces. No more fiddling about with plugs or tripping over cords. Simply remove from the docking station and go.\n\nhttp:\/\/www.dyson.co.uk\/vacuum-cleaners\/cordless\nhttp:\/\/www.youtube.com\/dyson\nhttps:\/\/www.facebook.com\/dyson\nhttps:\/\/twitter.com\/dyson\n#CutTheCord\n\n*To prove this our engineers test for pick up performance across carpets (ASTM F608), hard floors (ASTM F2607) and hard floors with crevices (IEC 60312-1 5.2). To mimic actual use, they load machines with dust before testing (IEC 60312-1 5.9).",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/oSphWNNIpLo\/hqdefault.jpg",
+                "uploadDate": 1402503799,
+                "videoId": "oSphWNNIpLo",
+                "title": "Dyson DC59: The latest Dyson cordless vacuum cleaner - Official Dyson Video",
+                "description": "The new Dyson DC59 vacuum cleaner is lightweight, cordless, sucks up as much dust as conventional vacuum.* Without the hassle of a cord.\n\nThe new V6 Dyson digital motor, engineered specifically for this machine, is 50% more powerful than its predecessor. This gives the Dyson DC59 vacuum cleaner powerful performance, with the versatility of a cordless format. With a run time enhancing trigger providing 26 minutes cleaning time, DC59 is light and easy to maneuver between high, low and hard to reach spaces. No more fiddling about with plugs or tripping over cords. Simply remove from the docking station and go.\n\nhttp:\/\/www.dyson.co.uk\/vacuum-cleaners\/cordless\nhttp:\/\/www.youtube.com\/dyson\nhttps:\/\/www.facebook.com\/dyson\nhttps:\/\/twitter.com\/dyson\n#CutTheCord\n\n*To prove this our engineers test for pick up performance across carpets (ASTM F608), hard floors (ASTM F2607) and hard floors with crevices (IEC 60312-1 5.2). To mimic actual use, they load machines with dust before testing (IEC 60312-1 5.9).",
+                "author": "Dyson US",
+                "mediaDuration": 82,
+                "prettyDuration": "00:01:22",
+                "views": "10241",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/dyson-dc59-the-latest-dyson-cordless-vacuum-cleaner-official-dyson-video\/114661406-66341032"
+        },
+        {
+            "id": "125151381",
+            "title": "Wamsutta Beekman Bedding Collection",
+            "date_created": "1508890205",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "85",
+                    "width": 960,
+                    "height": 540
+                },
+                "mediaDuration": "85",
+                "prettyDuration": "00:01:25",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125151381\/d861f\/thumb-c34c987919d9626539fec33b72f531bc-00002.jpg",
+                "type": "mp4",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151381\/d861f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151381\/d861f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151381\/d861f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151381\/d861f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151381\/d861f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/125151381\/cc\/vtt\/en_1509131456.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/1309434878-1-24705wamsutta-beekman-mp4\/114661406-125151381"
+        },
+        {
+            "id": "125151054",
+            "title": "Gel Pro Wicker Chef's Mat",
+            "date_created": "1508889877",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "44",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "44",
+                "prettyDuration": "00:00:44",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125151054\/2bdc3\/thumb-482fc7c248f7e0100d62bff05a744840-00001.jpg",
+                "type": "mp4",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151054\/2bdc3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151054\/2bdc3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151054\/2bdc3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151054\/2bdc3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151054\/2bdc3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/48876-1-wmv\/114661406-125151054"
+        },
+        {
+            "id": "125151050",
+            "title": "Misto Olive Oil Sprayer",
+            "date_created": "1508889867",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "115",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "115",
+                "prettyDuration": "00:01:55",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125151050\/b9b8f\/thumb-f2c10a1e9d4d9b09517e3b01b0d64b68-00002.jpg",
+                "type": "mp4",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151050\/b9b8f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151050\/b9b8f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151050\/b9b8f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151050\/b9b8f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151050\/b9b8f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/11380-1-flv\/114661406-125151050"
+        },
+        {
+            "id": "125150045",
+            "title": "Kitchen Aid Ravioli Attachment",
+            "date_created": "1508889847",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "39",
+                    "width": 504,
+                    "height": 336
+                },
+                "mediaDuration": "39",
+                "prettyDuration": "00:00:39",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125150045\/7689b\/thumb-abd7f3d76f6754f52a0d6e0065e2782c-00001.jpg",
+                "type": "mp4",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/125150045\/cc\/vtt\/en_1509133050.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125150045\/7689b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125150045\/7689b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125150045\/7689b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125150045\/7689b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 504,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125150045\/7689b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 214
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/3707-1-flv\/114661406-125150045"
+        },
+        {
+            "id": "125151049",
+            "title": "Waring Pro MG100 Professional Meat Grinder",
+            "date_created": "1508889860",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "77",
+                    "width": 480,
+                    "height": 270
+                },
+                "mediaDuration": "77",
+                "prettyDuration": "00:01:17",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125151049\/3da6f\/thumb-719a8004d419c5d579d6f5c241069747-00002.jpg",
+                "type": "mp4",
+                "uploadAsset": false,
+                "quality": "",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/125151049\/3da6f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/125151049\/3da6f\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/125151049\/cc\/vtt\/en_1509132842.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151049\/3da6f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151049\/3da6f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151049\/3da6f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151049\/3da6f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151049\/3da6f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/5696-1-mp4\/114661406-125151049"
+        },
+        {
+            "id": "125151047",
+            "title": "Pedi Paws (FTP5609)",
+            "date_created": "1508889857",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "84",
+                    "width": 640,
+                    "height": 480
+                },
+                "mediaDuration": "84",
+                "prettyDuration": "00:01:24",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125151047\/40340\/thumb-af3b0774537e3ff7e488501274628a03-00002.jpg",
+                "type": "mp4",
+                "uploadAsset": false,
+                "quality": "",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/125151047\/40340\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/125151047\/40340\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/125151047\/cc\/vtt\/en_1509132984.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151047\/40340\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151047\/40340\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151047\/40340\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151047\/40340\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125151047\/40340\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/3894-1-mp4\/114661406-125151047"
+        },
+        {
+            "id": "125150008",
+            "title": "Kenneth Cole Reaction Bedding Collection",
+            "date_created": "1508889690",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "69",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "69",
+                "prettyDuration": "00:01:09",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125150008\/9825d\/thumb-a3badfe1de99e2811c91428530f91263-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/125150008\/9825d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/125150008\/9825d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/125150008\/cc\/vtt\/en_1509133436.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125150008\/9825d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125150008\/9825d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125150008\/9825d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125150008\/9825d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/125150008\/9825d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/1980191038-1-mp4\/114661406-125150008"
+        },
+        {
+            "id": "109992400",
+            "title": "OXO Good Grips&reg; Hard Anodized Nonstick Fry Pans",
+            "date_created": "1502523026",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "53",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "53",
+                "prettyDuration": "00:00:53",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/825018594-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109992400\/f8261\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109992400\/f8261\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109992400\/cc\/vtt\/en_1504289405.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992400\/f8261\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992400\/f8261\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992400\/f8261\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992400\/f8261\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992400\/f8261\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/oxo-good-grips-hard-anodized-nonstick-fry-pans\/114661406-109992400"
+        },
+        {
+            "id": "106043989",
+            "title": "Breville -- Tips and Tricks: YouBrew\u00ae, BDC600XL",
+            "date_created": "1314305443",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "For more about Breville products visit: www.brevilleusa.com\n\nBreville's Ad\u00e8le Schober demonstrates the features and functions of the YouBrew\u00ae coffee maker.\n\nSubscribe to our YouTube Channel:\nhttp:\/\/www.youtube.com\/subscription_center?add_user=breville\n\nLike us on Facebook:\nhttps:\/\/www.facebook.com\/brevilleusa\n\nPin us on Pinterest:\nhttp:\/\/pinterest.com\/brevilleusa\/\n\nFollow us on Twitter:\nhttps:\/\/twitter.com\/brevilleusa",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/GKOpzWrF4Qc\/hqdefault.jpg",
+                "uploadDate": 1314305443,
+                "videoId": "GKOpzWrF4Qc",
+                "title": "Breville -- Tips and Tricks: YouBrew\u00ae, BDC600XL",
+                "description": "For more about Breville products visit: www.brevilleusa.com\n\nBreville's Ad\u00e8le Schober demonstrates the features and functions of the YouBrew\u00ae coffee maker.\n\nSubscribe to our YouTube Channel:\nhttp:\/\/www.youtube.com\/subscription_center?add_user=breville\n\nLike us on Facebook:\nhttps:\/\/www.facebook.com\/brevilleusa\n\nPin us on Pinterest:\nhttp:\/\/pinterest.com\/brevilleusa\/\n\nFollow us on Twitter:\nhttps:\/\/twitter.com\/brevilleusa",
+                "author": "breville",
+                "mediaDuration": 188,
+                "prettyDuration": "00:03:08",
+                "views": "80833"
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/breville-tips-and-tricks-youbrew-bdc600xl\/114661406-106043989"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "title": "Bake Pops Kit",
+    "description": "",
+    "referenceId": "35243",
+    "date_created": "1502924429",
+    "date_modified": "1516653163",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180327",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "bake-pops-kit",
+    "category": "",
+    "duration": "67",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "67",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "67",
+        "prettyDuration": "00:01:07",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180327\/de247\/thumb-35243-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180327\/de247\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180327\/de247\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180327\/de247\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180327\/de247\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180327\/de247\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180327\/de247\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180327\/de247\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180327\/cc\/vtt\/en_1516653163.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "Male Speaker: You pop them; you dip them, decorate them and devour them. They're Bake Pops, the new scrumptious cake on a pop stick you can take. And now, everyone can make them fast and easy with the amazing new Bake Pop pan.\r\n\r\nFemale Speaker: I love Bake Pops. We make delicious double chocolate, strawberry cream and I even added my favorite cookie crunch.\r\n\r\nMale Speaker: Watch how easy. Just fill with any cake mix, place on the custom lid, have an adult pop them in the oven, then wow, you've got 18 perfect Bake Pops. The unique design and durable non-stick coating releases each one with ease so you can decorate as you please. Create fun animals and make them come to life. Any holiday theme is such a breeze. You can even sweeten them up to look like ice cream cones. Bake Pops are moist, delicious treats that combine the sweet taste of cake on the convenience of a pop stick. So now everyone can grab and go. No forks, no plates and no hassle.\r\n\r\nChild Speaker: There are hundreds of different ways to decorate bake pops. They're fun to make and yummy to eat.\r\n\r\nMale Speaker: Bake Pops are the newest sensation, guaranteed to impress your guests; ideal for birthdays, showers and anniversaries.",
+    "VV_VI": 2,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "11\/2\/2011",
+    "created_date": "11\/2\/2011",
+    "tvp_profiles": [
+        "15",
+        "31",
+        "11"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 13.235861,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

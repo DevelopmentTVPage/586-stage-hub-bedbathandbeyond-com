@@ -1,0 +1,111 @@
+{
+    "title": "KidsEmbrace Disney Belle Combination Booster Car Seat",
+    "description": "",
+    "referenceId": "1737ad4b4286d3cd1e88888ac6f9ffdc",
+    "date_created": "1519917297",
+    "date_modified": "1519917678",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "car_seats",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "152129300",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "KE-DisneyBelleCombinationBoosterCarSeat-61866690-mp4",
+    "category": "",
+    "duration": "50",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "50",
+            "width": 1620,
+            "height": 1080
+        },
+        "mediaDuration": "50",
+        "prettyDuration": "00:00:50",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/152129300\/6e23f\/thumb-1737ad4b4286d3cd1e88888ac6f9ffdc-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/152129300\/6e23f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/152129300\/6e23f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152129300\/6e23f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1620,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152129300\/6e23f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152129300\/6e23f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152129300\/6e23f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/152129300\/6e23f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 202,
+    "CVV_VI": 3,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "Video has no sound.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "3\/1\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

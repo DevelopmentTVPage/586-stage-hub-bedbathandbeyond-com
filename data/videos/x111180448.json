@@ -1,0 +1,117 @@
+{
+    "title": "EuroPro Steam Mop",
+    "description": "",
+    "referenceId": "4860",
+    "date_created": "1502924624",
+    "date_modified": "1516737701",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180448",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "europro-steam-mop",
+    "category": "",
+    "duration": "130",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "130",
+            "width": 320,
+            "height": 240
+        },
+        "mediaDuration": "130",
+        "prettyDuration": "00:02:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180448\/4305a\/thumb-4860-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180448\/4305a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180448\/4305a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180448\/cc\/vtt\/en_1516737697.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180448\/4305a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180448\/4305a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180448\/4305a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180448\/4305a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180448\/4305a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Shark\u00ae Steam Mop\r\n\r\nSteam mop tackles tough grime, stubborn dirt, scuff marks, sticky messes and muddy footprints. Featuring a lightweight, ergonomic  Shark Steam Mopdesign, this electric steam mop is perfect for steam cleaning all sealed hard floor surfaces. Just fill with tap water, wait 30 seconds and then the push forward motion of mopping releases the steam. It features a 10 1\/2-inch cleaning path and leaves floors virtually dry. There's no refills or toxic, messy chemicals required making it environmentally friendly. Measures 40\" H x 12\" W x 7\" D. Includes two washable triple action microfiber pads. 1500-watt. Model # S3101.\r\n\r\nTired of doing hard time with your old mop and cleaning supplies?  Then try the revolutionary new Steam Mop from Shark.  Watch what it can do.\r\n\r\nThe ultra lightweight Shark Steam Mop obliterates tough grime on tile floors.  It eradicates stubborn dirt on linoleum and vinyl floors.  It disintegrates heavy scuffmarks on sealed hardwood floors.  It melts away sticky, dried-up spilled soda.  It absorbs muddy footprints like magic.  It even revives and beautifies these dull, hardwood and laminate floors in one easy step.\r\n\r\nThe secret?  The Steam Mop\u0092s patent pending steam as you clean technology.  The forward mopping motion automatically pumps out steam only while you clean.  Amazing.\r\n\r\nPlus, the steam-activated Shark Steam Pad with millions of microscopic steam saturated fibers that loosen, lift, and lock-in every speck of dirt.\r\n\r\nLook.  The proof in the pad.  The Shark Steam Mop is a thousand times easier to use than filling a bucket.  Simply fill it with water, plug it in, and 30 seconds later, you\u0092re ready to go.  It cuts through the worst grime like magic.\r\n\r\nThe powerful steam evaporates immediately, so your floor is dry almost instantly.  When you\u0092re done, germs are dead and the dirt is locked in the pad.  Cleanup is easy too.  Simply wash the reusable pad, and it\u0092s ready to be reactivated to clean again.\r\n\r\nThe powerful lightweight, patent pending Shark Steam Mop comes with everything included.  The automatic steam as you clean steam generation system.  Two steam-activated, washable Shark Steam Pads that loosen, lift, and lock-in dirt like a magnet.  And this handy filler cup.  And weighing in at just three pounds, it weighs less than a wet mop.  Incredible.\r\n\r\nThe bottom line is, is that it works, and I can\u0092t tell you enough about how great that it does work.  And you\u0092re never going to know unless you truly try it out for yourself.  So why deal with messy, smelly mops?  The Shark Steam Mop is easy, better, and faster than any other floor cleaning method.  Guaranteed.  Change the way you clean your floors forever.\r\n\r\nAlso, watch our video on our new Shark Steam Pocket Mop, also available at Bed Bath & Beyond.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "3\/16\/2013",
+    "created_date": "8\/26\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 3135.2683,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

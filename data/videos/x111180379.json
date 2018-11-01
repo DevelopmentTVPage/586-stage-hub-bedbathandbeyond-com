@@ -1,0 +1,111 @@
+{
+    "id": "111180379",
+    "loginId": "1758166",
+    "user_id": "0",
+    "referenceId": "3912",
+    "entityType": "1",
+    "date_created": "1502924509",
+    "date_modified": "1509554374",
+    "title": "Strap Perfect - Bra Strap Holder As Seen On TV",
+    "description": "",
+    "tags": "",
+    "status": "pending",
+    "visibility": "1",
+    "sortOrder": "2596",
+    "entityIdParent": "114661406",
+    "titleTextEncoded": "strap-perfect-bra-strap-holder-as-seen-on-tv",
+    "category": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "85",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "85",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "85",
+        "prettyDuration": "00:01:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180379\/19cbd\/thumb-3912-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180379\/19cbd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180379\/19cbd\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180379\/19cbd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180379\/19cbd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180379\/19cbd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180379\/19cbd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180379\/19cbd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Sorry, girls, I know this look is hot, but showing your bra straps is not. Hi. I'm Taylor Baldwin, and you're gonna love this. It's Strap Perfect, the ultimate bra strap solution. Now you can finally stop wrestling those stubborn bra straps. It works with virtually any bra or cup size, while giving your cleavage a firm and youthful lift. Just look at the transformation. Strap Perfect is so easy to use. Just place, slide, and your bra straps instantly hide. Slide it up for slim cut shoulders, or slide it down for criss-cross tops. You get a custom fit that flatters you in any outfit.\r\n\r\nStrap Perfect also gives a beautiful instant boost to your silhouette by gently pulling back your straps. Strap perfect redistributes the weight from your chest and guides your shoulders back for more perfect posture. With a lift like this, you'll look at least one cup size bigger. Strap Perfect helps you fill out even the sexiest look naturally. And the difference is measureable. Amazing. Wear Strap Perfect under dresses, sweaters, blouses, or t-shirts for secret support, front to back. Is that sports bra squishing and squeezing you flat? Forget that. Strap Perfect makes any bra more comfortable and supportive, even when working out. Girls, never risk another fashion faux pas with any bra, and get a gorgeous lift with Strap Perfect.",
+    "video_type": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "VV_VI": 5,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "notes": "",
+    "uploader": "dvd",
+    "modified_date": "8\/1\/2013",
+    "created_date": "5\/26\/2009",
+    "creator": null,
+    "video_classification1": null,
+    "tvp_profiles": [
+        "9"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1357.6196,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

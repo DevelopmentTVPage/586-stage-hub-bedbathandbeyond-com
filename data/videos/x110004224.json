@@ -1,0 +1,117 @@
+{
+    "title": "BabyBjorn Carrier Miracle",
+    "description": "",
+    "referenceId": "42403",
+    "date_created": "1502525085",
+    "date_modified": "1516647255",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110004224",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "babybjorn-carrier-miracle",
+    "category": "",
+    "duration": "136",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "136",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "136",
+        "prettyDuration": "00:02:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004224\/200ce\/thumb-542b06cfa3f3946f3651a61a4fd55b16-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004224\/200ce\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004224\/200ce\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110004224\/cc\/vtt\/en_1516647251.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004224\/200ce\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004224\/200ce\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004224\/200ce\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004224\/200ce\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004224\/200ce\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Informed by almost 40 years of baby carrier knowhow and designed in close consultation with top pediatricians, the BabyBjorn Baby Carrier Miracle is a breakthrough in comfort and adjustability. The Baby Carrier Miracle is designed to fit your newborn perfectly from Day 1 without the need for an extra insert. You carry your newborn high up on your chest facing you, providing essential closeness while properly supporting your baby's head, back and hips. The ergonomic waist belt and back support of an entirely new design, giving you superior comfort while your child grows. Easy adjustments made from the front allow you to transfer weight between your waist, hips and shoulders, giving you complete control over how your baby's weight is distributed. These simple, convenient adjustments allow you to carry your baby up high or down low. Either way, the Baby Carrier Miracle keeps your baby in an ergonomically correct position, allowing older babies to face forward and explore the world around them. The innovative size adjustment buckle inside easily adjusts to match your baby's height and always provide a comfortable fit.\n\nThe Baby Carrier Miracle is soft and gentle on your baby's sensitive skin and, like all BabyBjorn products, the machine washable fabric is guaranteed free from harmful chemicals. The two piece design allows you to simply remove the front piece to lay down your sleeping child. The BabyBjorn Baby Carrier Miracle features an ergonomic waist belt, flexible carrying, and can be used from newborn with no insert needed. The BabyBjorn Baby Carrier Miracle gives you superior comfort and adjustability from newborn up to 15 months, making the Miracle the only carrier you'll ever need.",
+    "VV_VI": 3,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "2\/3\/2012",
+    "created_date": "2\/3\/2012",
+    "tvp_profiles": [
+        "3"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 4457.639,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

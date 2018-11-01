@@ -1,0 +1,117 @@
+{
+    "title": "Dr. Brown's Natural Flow Baby Bottles",
+    "description": "",
+    "referenceId": "5205",
+    "date_created": "1502526011",
+    "date_modified": "1516733111",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110008640",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "bottle-bbb",
+    "category": "",
+    "duration": "60",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "60",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/732513242-01320180.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110008640\/3be07\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110008640\/3be07\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110008640\/cc\/vtt\/en_1516733105.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008640\/3be07\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008640\/3be07\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008640\/3be07\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008640\/3be07\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008640\/3be07\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Dr. Brown's Natural Flow\u00ae 3-Ounce Glass Bottles (Set of 2), BPA Free\r\n\r\nCreated by a physician, Dr. Brown's Natural Flow\u00ae is the only baby bottle with a patented internal vent system that actually helps promote Dr. Brown's Natural Flow Bottlesgood health in babies. By eliminating the vacuum and air bubbles, it helps to reduce feeding problems like colic, spit-up, burping and gas. The positive pressure created by the Natural Flow\u00ae system is as close to breast feeding as your baby can get and is ideal for breast milk and formula alike. Set of two 3-ounce bottles.\r\n\r\nThe Dr. Brown\u0092s Natural Flow\u00ae Baby Bottles have always offered healthy benefits for your baby.  And now, the Dr. Brown\u0092s bottles have been proven to minimize oxidation of breastmilk and formula to help maintain essential nutrients.\r\n\r\nThe patented Natural Flow internal vent system is the only vent on the market that eliminates the vacuum and the air bubbles found in other baby bottles.  Air enters through the nipple collar without being incorporated into the breastmilk or formula.  The air is then channeled through the internal vent system to the area above the breastmilk or formula.\r\n\r\nOther bottles introduce air into the breastmilk or formula, which causes oxidation of nutrients.  The Dr. Brown patented internal vent system prevents the air from being incorporated into the breastmilk or formula, effectively helping to maintain levels of important vitamins, offering positive pressure, vacuum-free feeding, and helping to reduce colic, spit-up, burping, and gas.\r\n\r\nDr. Brown\u0092s Natural Flow baby bottles provide the health benefit you\u0092d expect from the only baby bottle designed by a doctor.",
+    "VV_VI": 2,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-05-04\"}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "10\/7\/2009",
+    "tvp_profiles": [
+        "3"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 15808.454,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

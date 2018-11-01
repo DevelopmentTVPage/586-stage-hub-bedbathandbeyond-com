@@ -1,0 +1,117 @@
+{
+    "title": "Bottle Top Caps",
+    "description": "",
+    "referenceId": "11355",
+    "date_created": "1502923234",
+    "date_modified": "1517330970",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111179816",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "bottle-top-caps",
+    "category": "",
+    "duration": "78",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "78",
+            "width": 960,
+            "height": 720
+        },
+        "mediaDuration": "78",
+        "prettyDuration": "00:01:18",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179816\/2c82e\/thumb-11355-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179816\/2c82e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179816\/2c82e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179816\/cc\/vtt\/en_1517330965.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179816\/2c82e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179816\/2c82e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179816\/2c82e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179816\/2c82e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179816\/2c82e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "It's impossible to close an open can, and with a pop top. Open cans spill in the fridge. What a mess. And open cans lose their fizz. What a waste. Introducing Bottle Top, the ingenious new way that turns your can into a bottle with the snap of a cap. Watch. Bottle Top attaches to almost any cans. Soda, beer, ice tea, or energy drink. It snaps in place instantly to seal the top closed. When you're done, just snap off the top so it's reusable. Look. Open metal cans can't travel. What a waste. Bottle Top turns your can into a bottle that's perfectly portable. Look. You can't do this with an open can. Amazing. It's great for taking your can of energy drink on a bike ride.\r\n\r\nLook. Left over sodas go flat. But with Bottle Top, soda keeps its carbonation longer. Bugs crawl into drinks. Gross. But Bottle Top protects your drink at picnics or barbeques. Perfect for tailgate parties and holiday entertaining. Friends and family love the colored tops. When you're done drinking, just pop it off, rinse under hot water, and you're ready for another drink. Kids are always spilling their drinks. But Bottle Top keeps drinks from spilling. Now in a rainbow of colors, you always know which can is yours. Look again. Instantly turn your favorite can into a bottle with a snap of the cap. Take yours home today.",
+    "VV_VI": 2,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "12\/8\/2011",
+    "created_date": "5\/2\/2010",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1366.419,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,114 @@
+{
+    "id": "125097892",
+    "loginId": "1758166",
+    "user_id": "0",
+    "referenceId": "7e6ec5b124038927897cc10644001563",
+    "entityType": "1",
+    "date_created": "1508872105",
+    "date_modified": "1509136947",
+    "title": "Keurig Vue V700 Single Cup Home Brewing System: 2 notes",
+    "description": "",
+    "tags": "",
+    "status": "pending",
+    "visibility": "1",
+    "sortOrder": "1783",
+    "entityIdParent": "114661406",
+    "titleTextEncoded": "43198-1-flv",
+    "category": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "134",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "134",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "134",
+        "prettyDuration": "00:02:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/125097892\/7a571\/thumb-7e6ec5b124038927897cc10644001563-00002.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125097892\/7a571\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125097892\/7a571\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125097892\/7a571\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125097892\/7a571\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/125097892\/7a571\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi there and welcome to the next generation of Keurig. Introducing the new Keurig Vue. It\u009ds a completely new brewing system that gives you total control to brew what you love the way you love it. Now you can brew stronger, bigger, hotter.\r\n\r\nThe choice is yours to customize your cup with more options than you\u009dve ever had before. And with the Vue system enjoying a perfect cup of coffee has never been easier.\r\n\r\nThe Keurig Vue Brewer with its easy-to-use touchscreen interface works together with new Vue Packs to deliver the ultimate brewing experience. Take a look for yourself.\r\n\r\nThe new Vue Pack starts with gourmet quality beans precisely ground and measured for each beverage contained in a mess free filter. This specially designed Vue Pak locks in flavor and freshness with an airtight seal. Drop the Vue Pack in the Vue Brewer and tap the touchscreen to brew stronger, bigger and hotter. And now Keurig custom brew technology will automatically adjust the brewing process including water pressure, airflow and timing to brew your perfect cup at the strength, size and temperature you want.\r\n\r\nWith Keurig Vue you can enjoy your favorite coffee, tea, hot cocoa, ice and new frothy cafe beverages custom brewed just for you. Any beverage you choose is brewed to perfection giving you perfect results every cup, every time in under a minute.\r\n\r\nWith Vue the choices are nearly limitless. With a wide selection of varieties from Keurig\u009ds gourmet partners you\u009dre sure to be able to brew what you love the way you love it.\r\n\r\nVue - choose more, brew more, enjoy more.",
+    "video_type": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "VV_VI": 4,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "3\/2\/2012",
+    "created_date": "3\/2\/2012",
+    "creator": null,
+    "video_classification1": null,
+    "tvp_profiles": [
+        "18",
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 542.58936,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

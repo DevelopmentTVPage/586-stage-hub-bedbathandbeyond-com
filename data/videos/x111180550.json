@@ -1,0 +1,111 @@
+{
+    "id": "111180550",
+    "loginId": "1758166",
+    "user_id": "0",
+    "referenceId": "5695",
+    "entityType": "1",
+    "date_created": "1502924749",
+    "date_modified": "1509468756",
+    "title": "Waring Pro WMK300A Belgian Waffle Maker",
+    "description": "",
+    "tags": "",
+    "status": "pending",
+    "visibility": "1",
+    "sortOrder": "3039",
+    "entityIdParent": "114661406",
+    "titleTextEncoded": "waring-pro-wmk300a-belgian-waffle-maker",
+    "category": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "79",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "79",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "79",
+        "prettyDuration": "00:01:19",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180550\/39d73\/thumb-5695-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180550\/39d73\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180550\/39d73\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180550\/39d73\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180550\/39d73\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180550\/39d73\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180550\/39d73\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180550\/39d73\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi. My name is Fabrite Sebotarra, Executive Chef for Waring. And we're showing you now the Belgian Waffle Maker.\r\n\r\nIt makes deep Belgian waffle, 1 1\/8-inch thick. Very easy to operate, it has a foldable handle, shade control, on and off switch with an LED indicator. So you could see that the minute you turn it on, it beeps, and then, it will beep when it's ready to eat. So beep when it's ready to cook, beep when it's ready to eat.\r\n\r\nIt comes with a pouring cup, an exact measure. So you pour it right in, and it has rotating handle, 180-degree. Two to three minutes later, we have a gorgeous Belgian waffle. I made a chocolate one for you today. And here we go. As you can see, it comes right out.\r\n\r\nAnd as you can see, this Belgian Waffle Maker makes really deep restaurant-style waffles, just perfect for the home, and yet, you think you're in a restaurant. Enjoy.",
+    "video_type": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "VV_VI": 74,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "notes": "",
+    "uploader": "jason",
+    "modified_date": "12\/8\/2011",
+    "created_date": "10\/30\/2009",
+    "creator": null,
+    "video_classification1": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1322.2872,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,118 @@
+{
+    "title": "Evolve Ladybug Showerhead Adapter",
+    "description": "",
+    "referenceId": "10722",
+    "date_created": "1502923067",
+    "date_modified": "1516651005",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111179750",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "evolve-ladybug-showerhead-adapter",
+    "category": "",
+    "duration": "123",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "123",
+            "width": 960,
+            "height": 540
+        },
+        "mediaDuration": "123",
+        "prettyDuration": "00:02:03",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/thumb-10722-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179750\/cc\/vtt\/en_1516650999.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179750\/4b0af\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Do you multi-task while waiting for the shower to get hot? Brush your teeth, make the bed, pick out your clothes? We all do it. It seems like an efficient use of time, but while we're off making the bed, how much hot water went down the drain? Losing just one minute of hot water per shower can mean higher utility bills and thousands of gallons of water wasted per year. And that's for a family of three.\r\n\r\nThe solution is Evolve Showerstart technology. Here's how it works. First, it runs out the cold water. Once bathing temperature is reached, it stops and reduces the flow to a trickle. That's your signal the shower is ready. Now that the shower is waiting, you can take your time doing other things. When you return, just pull the cord to resume normal flow. It's that simple. Not only does Showerstart technology lower your utility bills and save water and energy, it actually adds convenience to your morning routine. You can go green and continue multi-tasking at the same time. Who knew conservation could be so convenient?\r\n\r\nThanks to Evolve Showerstart technology, conserving water doesn't even require changing your shower head. In less than five minutes, you can turn your current shower head into an eco-friendly shower head with our convenient Ladybug adapter. It's no more difficult than changing a light bulb. The Ladybug is even available in several finishes, so you can even match your decor. Once installed, everything from spray patters to water pressure stays the same. Even better still, your morning routine still stays the same. Say you like to shave or brush your teeth while the shower heats up. Showerstart technology runs out the cold water and then stops and waits until you're ready to get in. You can keep your everyday routine exactly the same and conserve water and energy. The only change will be in your bills. Every year, the Ladybug can save thousands of gallons of water, plus the energy used to heat that water. It's green made easy!",
+    "VV_VI": 1,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "12\/7\/2011",
+    "created_date": "5\/28\/2010",
+    "tvp_profiles": [
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2254.8445,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

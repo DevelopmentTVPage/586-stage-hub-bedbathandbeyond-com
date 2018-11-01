@@ -1,0 +1,119 @@
+{
+    "title": "Madison Park Signature Turkish Cotton Bath Towels",
+    "description": "",
+    "referenceId": "2eabc920e9587341d0fc3e6ace0c25dc",
+    "date_created": "1521561134",
+    "date_modified": "1521733850",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "bedding",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "155078137",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "TurkishTowelSet-mp4",
+    "category": "",
+    "duration": "62",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "62",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "62",
+        "prettyDuration": "00:01:02",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/155078137\/f47a0\/thumb-2eabc920e9587341d0fc3e6ace0c25dc-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/155078137\/f47a0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/155078137\/f47a0\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/155078137\/cc\/vtt\/en_1521733842.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/155078137\/f47a0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/155078137\/f47a0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/155078137\/f47a0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/155078137\/f47a0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/155078137\/f47a0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "MADISON PARK SIGNATURE INTRODUCES OUR 6 PIECE TURKISH COTTON TOWEL SETS.\n\nUNLIKE OTHER PREMIUM COTTON, CERTIFIED TURKISH COTTON IS GROWN EXCLUSIVELY IN TURKEY. THE LONG STAPLE FIBERS DELIVER A LUXURIOUSLY SOFT FEEL, WITH ULTIMATE DURABILITY AND SUPERIOR ABSORBENCY.\n\nOUR TOWELS ARE CONTRUCTED FEATURING TWO PLY YARNS. TWO STRANDS OF YARN ARE TWISTED TOGETHER TO FORM A SINGLE, THICKER AND MORE DURABLE YARN. \nTURKISH COTTON PROVIDES THE PERFECT BALANCE BETWEEN ASBSORBENCY AND SOFTNESS, WHICH MAKES IT THE BEST COTTON TO BE USED IN TOWELS.\n\nTHIS LUXURIOUS SET INCLUDES 2 OVERSIZED BATH TOWELS, 2 HAND TOWELS AND 2 WASH CLOTHS.\n\nOUR SET IS AVAILABLE IN SPA- LIKE COLORS THAT WILL MATCH ALMOST ANY D\u00c9COR.\n\nOUR TURKISH COTTON TOWELS ARE MACHINE WASHABLE. THE MORE YOU WASH THEM, THE SOFTER AND MORE ABSORBENT THEY BECOME. \n\nTHE MADISON PARK SIGNATURE 6 PIECE TURKISH COTTON TOWEL SET IS THE ULTIMATE IN LUXURY AND COMFORT.",
+    "VV_VI": 99,
+    "CVV_VI": 3,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript for reference.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "3\/20\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

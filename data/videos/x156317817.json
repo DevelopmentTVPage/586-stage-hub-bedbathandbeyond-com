@@ -1,0 +1,119 @@
+{
+    "title": "Forward Facing Seat Belt Installation with Belt Lock-Off - Graco\u00ae 4Ever\u00ae Extend2Fit\u00ae Platinum",
+    "description": "",
+    "referenceId": "758498c99de108f5e982e5250fb04a9e",
+    "date_created": "1521745019",
+    "date_modified": "1522080180",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "156317817",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Forward-Facing-Seat-Belt-Installation-with-Belt-Lock-Off-Graco-4Ever-Extend2Fit-Platinum",
+    "category": "",
+    "duration": "189",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "189",
+            "width": 534,
+            "height": 360
+        },
+        "mediaDuration": "189",
+        "prettyDuration": "00:03:09",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/156317817\/30ef5\/thumb-758498c99de108f5e982e5250fb04a9e-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/156317817\/30ef5\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/156317817\/30ef5\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/156317817\/cc\/vtt\/en_1522080169.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/156317817\/30ef5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 534,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/156317817\/30ef5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 534,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/156317817\/30ef5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 534,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/156317817\/30ef5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 534,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/156317817\/30ef5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 216
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 49,
+    "CVV_VI": 2,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

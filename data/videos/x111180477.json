@@ -1,0 +1,118 @@
+{
+    "title": "Homedics Deluxe Shiatsu Massage Cushion",
+    "description": "",
+    "referenceId": "5456",
+    "date_created": "1502924653",
+    "date_modified": "1516652564",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180477",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "homedics-deluxe-shiatsu-massage-cushion",
+    "category": "",
+    "duration": "89",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "89",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "89",
+        "prettyDuration": "00:01:29",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180477\/bff7f\/thumb-5456-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180477\/bff7f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180477\/bff7f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180477\/cc\/vtt\/en_1516652528.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180477\/bff7f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180477\/bff7f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180477\/bff7f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180477\/bff7f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180477\/bff7f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Homedics\u00ae Deluxe Shiatsu 1 Massage Cushion\r\n\r\nSit back in your favorite chair and receive a shiatsu shoulder massage, deep kneading back massage, or soothing rolling  Homedics Deluxe Shiatsu Massage Cushionmassage. Add quick heat for a more relaxing massage. \"Spot Shiatsu\" holds the massage just where you need it, and you can even adjust the height and width control. Wired remote is programmable for just the right amount of massage. A built-in carry bag offers easy storage and portability. UL listed. Two year warranty. Model #MCS-600H.\r\n\r\nHomedics\u00ae Deluxe Shiatsu 1 Massage Cushion\r\n\r\nHomedics - the number one brand in massage.\r\n\r\nThese are the hands of a skilled masseuse. At Homedics, we've captured these skills in our range of shiatsu massagers. The secret is Homedics patented shiatsu massage system with soothing heat for the most relaxing massage imaginable.\r\n\r\nFor even more intense massaging coverage, introducing the Deluxe Shiatsu One, shoulder and back massage cushion with heat.  Each day, pressures of stress and anxiety build up. You need a serious massage. Homedics has the answer for you. Experience deep kneading shiatsu for your shoulders with soothing heat.\r\n\r\nNow, you can add vibration massage for an even more invigorating massage and by the touch of a button, you can adjust the position of the shiatsu mechanism to custom your height.  Of course, the Deluxe Shiatsu One is fully loaded and offers the same amazing shiatsu massage, soothing rolling and quick heat.\r\n\r\nDo you have a particular spot that needs extra attention? Further customize your massage with spot shiatsu to hold the massage just where you need it. Or, choose width control to custom fit your body.  With an impressive set of six programs, the revolutionary Deluxe Shiatsu One gives you complete control with two state of the art massage mechanisms working simultaneously on the shoulders and back.   One massager does it all.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "10\/20\/2009",
+    "tvp_profiles": [
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2074.7559,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

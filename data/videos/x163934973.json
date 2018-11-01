@@ -1,0 +1,111 @@
+{
+    "title": "AdjustableCedarWoodDrawerDivider 64726519",
+    "description": "",
+    "referenceId": "a4a881d325a80644c09f5b03dd912509",
+    "date_created": "1526493883",
+    "date_modified": "1526499938",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "163934973",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "AdjustableCedarWoodDrawerDivider-64726519",
+    "category": "",
+    "duration": "51",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "51",
+            "width": 522,
+            "height": 238
+        },
+        "mediaDuration": "51",
+        "prettyDuration": "00:00:51",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1920\/1080\/875132103-1526499937.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/163934973\/5f842\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/163934973\/5f842\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163934973\/5f842\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 522,
+                "height": 238
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163934973\/5f842\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 522,
+                "height": 238
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163934973\/5f842\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 522,
+                "height": 238
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163934973\/5f842\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 522,
+                "height": 238
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163934973\/5f842\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 146
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 151,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": "",
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": ""
+}

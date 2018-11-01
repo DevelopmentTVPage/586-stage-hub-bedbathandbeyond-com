@@ -1,0 +1,117 @@
+{
+    "title": "Turbo Spin Combo Shower Head by Distinctives",
+    "description": "",
+    "referenceId": "11494",
+    "date_created": "1502923272",
+    "date_modified": "1516391812",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111179833",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "turbo-spin-combo-shower-head-by-distinctives",
+    "category": "",
+    "duration": "126",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "126",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "126",
+        "prettyDuration": "00:02:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179833\/16ed9\/thumb-11494-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179833\/16ed9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179833\/16ed9\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179833\/cc\/vtt\/en_1516391807.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179833\/16ed9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179833\/16ed9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179833\/16ed9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179833\/16ed9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179833\/16ed9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": "Experience the sensation of spiraling water, soothing, invigorating, relaxing. It's just the beginning of everything you'll enjoy about Turbo Spin by Distinctives, water with a twist. This handheld shower massager excels in both beauty and performance with its sleek design, 6-foot extra reach metal hose and, best of all, six different settings - refreshing spray, pulsating massage, Turbo Spin's distinctive spiral and two combinations, spray and spiral, spray and massage and even a pause setting for a welcome convenience and water savings while shampooing or shaving. You can enjoy all your favorite settings either hands free or hands on, directly soothing tense, tired muscles with the massage setting of your choice. And it installs so easily in as little as 10 minutes. One simple tool is all you need to change your existing showerhead into a great looking, versatile Turbo Spin.\r\n\r\nNow, choose from two styles: this handheld massager in brushed nickel with strong, secure mounting bracket, 6-foot no kink metal hose and solid brass fittings, or the new Turbo Spin combo with the handheld massager plus a fixed massager, both in attractive chrome. With a unique all in one mounting bracket and 3-way diverter that lets you use just the handheld or just the fixed massager or both together. Each one offers you all six Turbo Spin settings, including those unique spiral massage settings, for the perfect combination. Both styles carry a limited lifetime warranty. Whichever you choose, you'll enjoy the beauty and performance of Turbo Spin by Distinctives, available only at Bed Bath and Beyond.",
+    "VV_VI": 40,
+    "CVV_VI": 1,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/7\/2010",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1760.0724,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

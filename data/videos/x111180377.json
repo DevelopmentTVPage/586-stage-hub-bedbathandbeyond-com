@@ -1,0 +1,117 @@
+{
+    "title": "Aqua Globes",
+    "description": "",
+    "referenceId": "3906",
+    "date_created": "1502924504",
+    "date_modified": "1516394182",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180377",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "aqua-globes",
+    "category": "",
+    "duration": "78",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "78",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "78",
+        "prettyDuration": "00:01:18",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180377\/f75f7\/thumb-3906-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180377\/f75f7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180377\/f75f7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180377\/cc\/vtt\/en_1516394176.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180377\/f75f7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180377\/f75f7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180377\/f75f7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180377\/f75f7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180377\/f75f7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Aqua Globes\u0099 (2 Pack) - As Seen on TV \r\n\r\nUse these individually crafted hand blown glass globes to perfectly water your house plants, hanging plants, and patio plants. Simply fill  Aqua Globesthe globe and press it into the soil; your plant will absorb the water as needed! As soil becomes dry, it releases oxygen into the globe, which in turn releases the exact amount of water your plant needs. It takes the guesswork and the worry out of watering, and keeps your plants watered for up to two weeks. Set includes two globes.\r\n\r\n\r\nAqua Globes \u0096 As Seen on TV\r\n\r\nHouse plants make your home look beautiful, but having to water them all the time can be a big job. Forget to water them and they can end up looking like this.  Give them too much water and you can end up with a big mess.  Well now there's Aqua Globes. The hand blown glass ornament that waters your plants for you. All you do is fill the Aqua Globe with water then press it into the soil. That's it. Your plant stays perfectly watered for up to two weeks and you don't have to lift a finger. Here's why:  As soil becomes dry is releases oxygen into the Aqua Globe, which in turn releases the exact amount of water your plant needs. You can't over-water, you can't under-water. Such a simple solution, yet so beautiful.  Each Aqua Globe is individually crafted with genuine hand blown glass to create a functional work of art that waters the plant for you.  Perfect for small or large house plants, hanging plants, patio plants, even finicky exotic plants get just the right amount of water.  Just fill the Aqua Globe with water then press it into the soil. It's that easy. No more constant watering or cleaning up the spills. No more worrying about leaving your plants unattended. No more dried out, drooping or dying plants. Aqua Globes take the guess work and the worry out of watering your plants once and for all.",
+    "VV_VI": 30,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-05-28\"}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "dvd",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/26\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1627.7239,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

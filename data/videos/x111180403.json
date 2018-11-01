@@ -1,0 +1,117 @@
+{
+    "title": "AeroGarden",
+    "description": "",
+    "referenceId": "4207",
+    "date_created": "1502924551",
+    "date_modified": "1516731345",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180403",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "aerogarden",
+    "category": "",
+    "duration": "162",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "162",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "162",
+        "prettyDuration": "00:02:42",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180403\/9d368\/thumb-4207-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180403\/9d368\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180403\/9d368\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180403\/cc\/vtt\/en_1516731296.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180403\/9d368\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180403\/9d368\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180403\/9d368\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180403\/9d368\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180403\/9d368\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "AeroGrow AeroGarden\u0099 and Seed Kits\r\n\r\nWho cares about the weather! This revolutionary indoor home gardening system lets you cultivate delicious herbs, greens, AeroGrow AeroGardenvegetables and flowers inside your kitchen - with no green thumb necessary! Using Aeroponic Technology, plant roots grow into the air instead of soil. Inside the 100% humid, rainforest growing chamber, roots are bathed with organic-based nutrients and oxygen for fast, healthy growth. The Built-In Plant Lighting System is energy efficient and means you can grow plants anywhere, any time of year. Just drop in the pre-seeded Plug 'n Grow Bio-Dome Seed System\u0099 pods and watch your plants grow to maturity in just weeks. The Computerized Smart Garden Technology alerts you when to feed and water while the microprocessor adjusts light cycles and nutrient and water delivery. Includes one AeroGarden\u0099 unit, one Gourmet Herb seed packet and two Grow Bulbs. Additional seed packets and bulbs sold separately. Measures 12 2\/10\" W x 20 1\/10\" L x 11 3\/5\" H.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "dvd",
+    "modified_date": "8\/30\/2012",
+    "created_date": "6\/19\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1162.6256,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

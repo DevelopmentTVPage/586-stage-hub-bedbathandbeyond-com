@@ -1,0 +1,117 @@
+{
+    "title": "Big City Slider",
+    "description": "",
+    "referenceId": "3892",
+    "date_created": "1502924491",
+    "date_modified": "1516394468",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180371",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "big-city-slider",
+    "category": "",
+    "duration": "93",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "93",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "93",
+        "prettyDuration": "00:01:33",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180371\/6bd7d\/thumb-3892-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180371\/6bd7d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180371\/6bd7d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180371\/cc\/vtt\/en_1516394461.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180371\/6bd7d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180371\/6bd7d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180371\/6bd7d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180371\/6bd7d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180371\/6bd7d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Big City Slider Station - As Seen on TV (mini slider burgers)\r\n\r\nMake five mini slider burgers in just minutes with this unique pan. Simply scoop your burger meat with the included measuring spoon,  Big City Slider Stationplace the meat into the slider pan patty compartments, press with the included cover press, and then cook on any stove. You never have to flip them because the pan cooks both sides at one time. The pan features a double sided non-stick surface and is made from high-grade aluminum. The slider station is also great for turkey, chicken or veggie burgers, and can even be used to make egg sandwiches. Hand wash only.\r\n\r\nBig City Slider Station \u0096 As Seen on TV (mini slider burgers)\r\n\r\nHi! Billy Maze here for the Big City Slider Station. The fast and easy way to press and cook delicious sliders- those restaurant mini burgers everyone loves.  No more squishin' and squashin', or flippin' and floppin'. With the Slider Station, just scoop, press and cook right on your stove.   The unique design cooks both sides at once so you never have to flip 'em. And in just two minutes you'll have five mouthwatering sliders. Use dinner rolls, potato rolls, any bun. You can double or triple stack 'em and watch your family attack 'em.  Top with pickles, onions, ketchup or cheese, Big City Sliders are sure to please. The double sided, non-stick surface is so slick, not even burnt-on cheese will stick. Whether it's ground beef, chuck or sirloin- just scoop, press and cook. No flipping and no hassle.  Make healthy turkey, chicken and veggie burgers with ease and join the craze with me, Billy Maze.  You can also cook 'em on a bed of onions for that classic diner taste. Or use the Slider Station as the ultimate burger press to load the grill in no time. And watch this- on a busy school morning, five perfect egg sandwiches in an instant. Moms are going to love it. And when you're done, cleanup's a breeze.   We'll also include the Slider Station Recipe Guide, loaded with my favorite creations (like the barbecue bacon cheddar and the original Philly burger) free.  The Big City Slider Station. The best and easy way to press and cook delicious sliders. Those restaurant mini burgers...",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "dvd",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/29\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2411.7722,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

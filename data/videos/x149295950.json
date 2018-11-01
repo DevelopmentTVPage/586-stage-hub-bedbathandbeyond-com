@@ -1,0 +1,119 @@
+{
+    "title": "Donna Hay for Royal Doulton",
+    "description": "",
+    "referenceId": "d5ed53855e9e21fbe3accc79cda19d85",
+    "date_created": "1518658048",
+    "date_modified": "1519256170",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "149295950",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Donna-Hay-for-Royal-Doulton-mp4",
+    "category": "",
+    "duration": "166",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "166",
+            "width": 1280,
+            "height": 714
+        },
+        "mediaDuration": "166",
+        "prettyDuration": "00:02:46",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/thumb-d5ed53855e9e21fbe3accc79cda19d85-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 714
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 714
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 476
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 356
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 178
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/149295950\/cc\/vtt\/en_1519256170.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 73,
+    "CVV_VI": 2,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

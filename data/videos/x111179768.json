@@ -1,0 +1,117 @@
+{
+    "title": "Vornado Air Quality System 500",
+    "description": "",
+    "referenceId": "11172",
+    "date_created": "1502923110",
+    "date_modified": "1516650203",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111179768",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "vornado-air-quality-system-500",
+    "category": "",
+    "duration": "136",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "136",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "136",
+        "prettyDuration": "00:02:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179768\/3a9b7\/thumb-11172-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179768\/3a9b7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179768\/3a9b7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179768\/cc\/vtt\/en_1516650196.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179768\/3a9b7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179768\/3a9b7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179768\/3a9b7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179768\/3a9b7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179768\/3a9b7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": "Vornado\u00ae Air Quality System 500 and Replacement Filters\r\n\r\nThe Vornado\u00ae Air Quality System 500 offers a new modern design and is ideal for rooms up to: 18' x 18'. Created with the allergy sufferer in mind, this air purifier uses 2 allergen capturing filters to trap pollen, dust, pet dander, smoke, bacteria, mold spores and dust mite debris. Thanks to the exclusive Vortex technology, air is completely circulated, allowing the air in an entire room to be cleaned, not just the air near the unit. It offers superior performance and near silent operation, as quiet as a personal desktop computer on low speed. Features a full-function remote control, LED lights, 3 speed settings, automatic timer and change filter indicator. Two filters included, replacement filters sold separately. Five-year warranty. ETL listed.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "4\/27\/2010",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1249.5154,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

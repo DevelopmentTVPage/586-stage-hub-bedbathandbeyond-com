@@ -1,0 +1,123 @@
+{
+    "title": "Relax Fusion Contour Cushion",
+    "description": "",
+    "referenceId": "d9dcf1272c6d2c881208efd8b31fe367",
+    "date_created": "1516303170",
+    "date_modified": "1517417596",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "other",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "138152254",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "RelaxFusion-ContourCushion-44085780-VO-mp4",
+    "category": "",
+    "duration": "99",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "99",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "99",
+        "prettyDuration": "00:01:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/138152254\/ae378\/thumb-d9dcf1272c6d2c881208efd8b31fe367-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/138152254\/ae378\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/138152254\/ae378\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/138152254\/cc\/vtt\/en_1516649389.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138152254\/ae378\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138152254\/ae378\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138152254\/ae378\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138152254\/ae378\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138152254\/ae378\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Do you find it unbearable to sit down for long periods of time because your back doesn\u2019t get enough support? Do you hate that sweaty feeling, sitting in the car during sweltering hot days?\nIntroducing the RelaxFusion Lumbar, the perfect cushion solution, designed to help alleviate back pain and provide cooling all at the same time. Our RelaxFusion Lumbar Cushion features a high-density memory foam base for premium pressure relief and a cooling gel pod top that reduces heat build-up\nThe breathable inner liner is added to help maintain the cooling transfer from the gel pods. The cover of the RelaxFusion Lumbar Cushion is removable and made of a durable mesh that is machine washable. On the back side of the RelaxFusion Lumbar Cushion there is a buckle strap to keep the cushion firmly affixed to most seats. The handle on the RelaxFusion makes it easy to carry: you can take it to work, public transportation, use it in your car or any other place where you need cool, comfortable lumbar support.\nWhy spend money on costly and painful massages for your aching back?\nHi my name is Shanelle and I\u2019ve been using the Wagan Tech RelaxFusion for a while now and I totally love it. Not only does it help alleviate my back pain, but it also provides the cooling comfort.\nHi my name is Michael and I spend a lot of time at the office, so I use the Wagan Tech RelaxFusion to give me the proper lumbar support. I also like how easy it is for me to carry with me to use in the car or wherever I go.\nRelaxFusion Lumbar Cushion is the ideal support for your lower back. It\u2019s versatile and easy to use.",
+    "VV_VI": 86,
+    "CVV_VI": 1,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript for reference.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "1\/18\/18",
+    "tvp_profiles": [
+        "9",
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 3038.5583,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

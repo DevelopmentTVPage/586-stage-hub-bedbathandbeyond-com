@@ -1,0 +1,119 @@
+{
+    "title": "Aquaduck Facet Extender",
+    "description": "",
+    "referenceId": "31838",
+    "date_created": "1502524937",
+    "date_modified": "1516647638",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110004155",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "aquaduck-facet-extender",
+    "category": "",
+    "duration": "93",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "93",
+            "width": 960,
+            "height": 720
+        },
+        "mediaDuration": "93",
+        "prettyDuration": "00:01:33",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004155\/b5f7c\/thumb-a18bb9249a8a20b63874265b3d8c4663-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004155\/b5f7c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004155\/b5f7c\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110004155\/cc\/vtt\/en_1516647633.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004155\/b5f7c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004155\/b5f7c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004155\/b5f7c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004155\/b5f7c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004155\/b5f7c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Look at this little guy. What's he gonna do? All right, you're gonna wash your hands. But wait, you shouldn't be up there. You can get hurt. See what I mean? Now you've got a friend. That's great, washing hands together. But hey, that's not gonna work. You'll have to find another way. Oh no, that's just dangerous. You guys have got to stop. That's why Peachy invented The Aqueduck. The Aqueduck is easy to use, easy to clean, and fits on most faucets. It also comes in a variety of colors. The Aqueduck is small enough to take with you, so you can use it on the go. The Aqueduck goes on in one easy step. Just turn on the water, and you've got your faucet extended for your little hands. See how easy it is to use now? Even little ones can get their hands clean by using The Aqueduck, and clean hands means happy kids. Look mom, I did it all by myself. That's The Aqueduck by Peachy. Not just for use in the home, but in preschools, dance studios, gymnastics studios and daycare. Wherever you have kids, you need The Aqueduck, and when you think of great products, just say peachy. Say Peachy. Peachy.",
+    "VV_VI": 4,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "Richard.Fagan",
+    "modified_date": "9\/12\/2011",
+    "created_date": "9\/12\/2011",
+    "tvp_profiles": [
+        "26",
+        "12",
+        "11"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 9.856245,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

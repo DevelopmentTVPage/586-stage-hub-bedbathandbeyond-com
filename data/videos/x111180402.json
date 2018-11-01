@@ -1,0 +1,117 @@
+{
+    "title": "My Place Workstation - Bed Desk",
+    "description": "",
+    "referenceId": "4202",
+    "date_created": "1502924549",
+    "date_modified": "1516394292",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180402",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "my-place-workstation-bed-desk",
+    "category": "",
+    "duration": "86",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "86",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "86",
+        "prettyDuration": "00:01:26",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180402\/3d100\/thumb-4202-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180402\/3d100\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180402\/3d100\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180402\/cc\/vtt\/en_1516394287.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180402\/3d100\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180402\/3d100\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180402\/3d100\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180402\/3d100\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180402\/3d100\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "My Place Workstation\r\n\r\nThere's no reason you can't be comfortable while getting work done. Whether it's polishing off paperwork from the office or knocking out  My Place Workstationthat term paper, this workstation will let you work from the couch, bed or even your favorite chair. Features include an integrated LED light for personal light use, multiple pre-set angle positions for total comfort, double position adjustable fold-out legs and a built-in mousepad. This laptop workstation is stable, lightweight and folds completely flat. Measures 22\" W x 13\" H. Model # MYPLACE101.\r\n\r\nEveryone knows that laptop computers aren\u0092t made to work on your lap.  They can get hot, uncomfortable, and even fall.\r\n\r\nThis is MyPlace, a personal laptop workstation that may change the way you use your laptop forever.  It may be the most versatile table in the world.  No more propping.  No more overheating.  And no more sore wrists and back.\r\n\r\nMyPlace is compact and lightweight, with foldout legs that create a stable workstation no matter where you work.  It conveniently adjusts to your desired height and angle.  The patented design and quality construction will support and protect your computer so you don\u0092t have to.\r\n\r\nMyPlace is perfect for the bed, or working on the couch, or anywhere you just want to get comfortable.  Simply adjust the angle to any of the eight preset positions for ultimate ease.  MyPlace even has a mouse pad that angles with you.  And there\u0092s more.\r\n\r\nMyPlace has a built-in LED light wand that flexes to any position.  Never disturb your partner again, because it\u0092s perfect for reading in bed without having to use any other light.\r\n\r\nMyPlace is great for college dorms, apartments, or anywhere space is limited.  And when you\u0092re done, MyPlace folds flat for easy storage.  Got little ones?  MyPlace folds out even more to create the perfect coloring table, or how about breakfast in bed, or answering emails by the pool?\r\n\r\nMyPlace is the \u0093Why didn\u0092t I think of that?\u0094 invention of the year.  It\u0092s nine tables in one.  Just look at all of the uses.\r\n\r\nSo stop fumbling, stop propping, and get your very own MyPlace.",
+    "VV_VI": 4,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-02-18\"}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "dvd",
+    "modified_date": "12\/29\/2012",
+    "created_date": "6\/19\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2690.8984,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

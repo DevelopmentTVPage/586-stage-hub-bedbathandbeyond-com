@@ -1,0 +1,117 @@
+{
+    "title": "Cuisinart EM 100 Espresso Maker",
+    "description": "",
+    "referenceId": "5586",
+    "date_created": "1502924717",
+    "date_modified": "1516664696",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180515",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "cuisinart-em-100-espresso-maker",
+    "category": "",
+    "duration": "129",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "129",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "129",
+        "prettyDuration": "00:02:09",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180515\/1f64d\/thumb-5586-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180515\/1f64d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180515\/1f64d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180515\/cc\/vtt\/en_1516664689.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180515\/1f64d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180515\/1f64d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180515\/1f64d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180515\/1f64d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180515\/1f64d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi, I'm Mary Rogers, director of marketing communications for Cuisinart. This is the Cuisinart Manual Espresso Maker. Back here, we have our removable reservoir. You can hold this like this so that you can carry it to the sink and fill it to the max fill line. Then you mount it back on the back of the machine. Up here is where you can put your coffee cups to keep them warm while you're making your espresso. Some of the things that come with your espresso maker are the coffee filters. This large cup here is for when you make two cups of espresso at one time. This is one that you use for one cup. This one here is special. This is the one you use when you're making the pods.\r\n\r\nThis is your coffee scoop, and on the back here, this is your tamper. This is to tamp down and press the coffee before you make it. These filters go right into the poured filter holder. Like I said, each one depending on what type of espresso and how much espresso you're making. Then also the one for the pod holder. Additionally, we give you a really nice stainless steel cup so that you can froth your milk when you're making lattes or cappuccinos. You're going to put this right on here. You're going to mount it inside and lock it into place. When you remove this after your coffee is done, you slide this forward and dump your coffee out, and the filter stays inside.\r\n\r\nThis is your removable drip tray and cover. So if you have any drips or spills, it goes right in there. These are the controls. The power on button. This is the button you use to do steaming. This also tells you that your coffee maker is ready to do espresso. You just do it manually by turning this knob. So there you have it. Along with the wand, which is a commercial quality wand, this is what you use to make your lattes and frothing your milk. There you have it. The Cuisinart Manual Espresso Maker.",
+    "VV_VI": 7,
+    "CVV_VI": 1,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-02-09\"},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "jason",
+    "modified_date": "8\/30\/2012",
+    "created_date": "10\/29\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2758.3909,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

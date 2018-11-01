@@ -1,0 +1,117 @@
+{
+    "title": "Cuisinart Stainless Steel Citrus Juicer CCJ 100",
+    "description": "",
+    "referenceId": "5507",
+    "date_created": "1502924668",
+    "date_modified": "1516395283",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180488",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "cuisinart-stainless-steel-citrus-juicer-ccj-100",
+    "category": "",
+    "duration": "60",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "60",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1279\/712\/934591408-021279714.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180488\/eacd3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180488\/eacd3\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180488\/cc\/vtt\/en_1516395278.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180488\/eacd3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180488\/eacd3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180488\/eacd3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180488\/eacd3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180488\/eacd3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi, I'm Mary Rogers, director of marketing communications for Cuisinart. This is te Cuisinart Citrus Juicer. It's really good to use, especially in the morning for breakfast. It's very simple to operate. It has a universal reamer here. You cut your fruit, put it on top, and when you press it down, it will spin. It also has a strainer right here so it'll strain the pulp out. The other thing it does is as you release your hand, it does what is called a final spin. It spins in the opposite direction, auto reversing, and gets all the last bits of citrus juice out of your fruit. Plus what you can do is you can use this lid, put the fruit in here, and hold it down so that your hands don't get sticky when you're making your juice. The universal reamer lets you do anything from a lime to a lemon to an orange, all the way up to a grapefruit.\r\n\r\nPlus, the other neat thing about this is the spout flips up so that when you're done juicing, it won't drip on your counter. The housing is beautiful. It's stainless steel, and juicing at home couldn't be easier.",
+    "VV_VI": 4,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-04-25\"}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "jason",
+    "modified_date": "11\/18\/2013",
+    "created_date": "10\/29\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 4505.746,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

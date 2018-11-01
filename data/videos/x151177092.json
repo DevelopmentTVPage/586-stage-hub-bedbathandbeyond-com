@@ -1,0 +1,123 @@
+{
+    "title": "Kinsa QuickCare Smart Stick Digital Thermometer",
+    "description": "",
+    "referenceId": "3752cb95b1d15892e9cfb0c832c991cc",
+    "date_created": "1519233424",
+    "date_modified": "1519403923",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "baby_and_kids",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "151177092",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "KinsaQuickCareThermometer-63796872-mp4",
+    "category": "",
+    "duration": "61",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "61",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "61",
+        "prettyDuration": "00:01:01",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/151177092\/5ac71\/thumb-3752cb95b1d15892e9cfb0c832c991cc-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/151177092\/5ac71\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/151177092\/5ac71\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/151177092\/cc\/vtt\/en_1519403890.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/151177092\/5ac71\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/151177092\/5ac71\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/151177092\/5ac71\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/151177092\/5ac71\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/151177092\/5ac71\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Our favorite thing in the world is Jack, and our favorite thing about Kinsa is that it makes our life with Jack a little bit easier.\nI can barely remember my kids\u2019 names, let alone the details of when they get sick. Kinsa keeps it all straight for me, reminding me who gets medicine next, and how much.\nSince we\u2019re kind of new at parenting, Kinsa helps us decide what to do next, whether we need to call a doctor, or how we can help Jack feel better when he has a cough.\nIt gives us advice based off his age and his symptoms.\nOur whole uses Kinsa, so when Calvin isn\u2019t feeling well, I go to the app to see if there\u2019s anything scary going on in 4th grade. If there\u2019s a strep throat or flu alert, I can take him to the doctor before it gets worse.\nLast time Joshua was sick, it connected me to a doctor right through the app, so I didn\u2019t have to drag all my kids to the pediatrician.\nI can order same day delivery of the things that I need to help Calvin feel better through Kinsa, so I don\u2019t need to leave him, or take a sick kid to the store. We don\u2019t have time for a bug to get us down, that\u2019s why we use Kinsa!",
+    "VV_VI": 31,
+    "CVV_VI": 3,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-06-15"
+        }
+    },
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript for reference.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "2\/21\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

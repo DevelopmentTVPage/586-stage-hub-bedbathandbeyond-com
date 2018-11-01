@@ -1,0 +1,117 @@
+{
+    "title": "Zojirushi Micom Rice Cooker &amp; Warmer 3",
+    "description": "",
+    "referenceId": "12927",
+    "date_created": "1502923419",
+    "date_modified": "1516658193",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111179906",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "zojirushi-micom-rice-cooker-warmer-3",
+    "category": "",
+    "duration": "67",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "67",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "67",
+        "prettyDuration": "00:01:07",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179906\/15ed3\/thumb-12927-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179906\/15ed3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179906\/15ed3\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179906\/cc\/vtt\/en_1516658027.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179906\/15ed3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179906\/15ed3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179906\/15ed3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179906\/15ed3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179906\/15ed3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi. I'm Morgan with Zojirushi, and this is the Micom Rice Cooker and Warmer. Micom means micro computer, which refers to the chip, which has the automatic settings for the different types of rice you'll be cooking - brown rice, white rice, sushi rice. This rice cooker even has a cake setting. As you can see, you can make a cake in the rice cooker. The unit has an inner cooking pan, which is a non-stick coated in and out, easy to clean. It has a lock-tight lid, a retractable power cord, nice and handy. It even has a timer mode with the computer chip so that you can set it in the morning to be ready in the afternoon. And it's all automatic. You don't have to be there to keep an eye on it like you would if you were cooking on a stove. And that is the Zojirushi Micom Rice Cooker and Warmer.",
+    "VV_VI": 1,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "12\/8\/2011",
+    "created_date": "6\/16\/2010",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1236.2523,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

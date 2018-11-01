@@ -1,0 +1,117 @@
+{
+    "title": "6-Inch Slim Digital Photo Frame",
+    "description": "",
+    "referenceId": "1371432210",
+    "date_created": "1502519984",
+    "date_modified": "1516727862",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "109976359",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "6-inch-slim-digital-photo-frame",
+    "category": "",
+    "duration": "45",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "45",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "45",
+        "prettyDuration": "00:00:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109976359\/ccf13\/thumb-3b22bab737aa38d945887b037fd7fb71-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109976359\/ccf13\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109976359\/ccf13\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109976359\/cc\/vtt\/en_1516727838.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976359\/ccf13\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976359\/ccf13\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976359\/ccf13\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976359\/ccf13\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109976359\/ccf13\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "This is the 6 inch Desktop LCD Digital Frame\u009dfrom Bed Bath & Beyond.\r\n\r\nThe LCD screen features a crisp 480 by 800 resolution. Perfect for showcasing your prized photographs. The digital picture frame features a convenient built-in calendar and clock display.\r\n\r\nThis frame is ultra slim\u009dmaking it perfect for desktops and other tight places where space is limited.\r\n\r\nA great gift idea\u009dgive the frame as a gift with a pre-loaded SD card that already contains pictures for your recipient.\r\n\r\nThe 6 inch Desktop LCD Digital Frame \u009davailable at a Bed Bath & Beyond near you.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "christina.steel",
+    "modified_date": "11\/5\/2013",
+    "created_date": "11\/5\/2013",
+    "tvp_profiles": [
+        "7"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 230.69112,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

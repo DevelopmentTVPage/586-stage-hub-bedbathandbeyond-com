@@ -1,0 +1,119 @@
+{
+    "title": "BBB BenderBall 640x480",
+    "description": "",
+    "referenceId": "5635",
+    "date_created": "1502924735",
+    "date_modified": "1516664591",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180534",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "bbb-benderball-640x480",
+    "category": "",
+    "duration": "99",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "99",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "99",
+        "prettyDuration": "00:01:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180534\/c675e\/thumb-5635-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180534\/c675e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180534\/c675e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180534\/cc\/vtt\/en_1516664569.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180534\/c675e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180534\/c675e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180534\/c675e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180534\/c675e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180534\/c675e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Bender Ball\u0099\r\n\r\nThe Bender Ball\u0099 allows you to work your abs in a revolutionary workout that surpasses standard crunches, allowing you to extend  Bender Ballyourself further back, increasing both the extension and the flexion of your workout. Leslee Bender, creator of the Bender Ball\u0099, guides you through exercises that implement her system of Selective Stabilization\u0099 for a workout that hones your abdominal muscles from all sides. Includes 8\" ball, manual, and instructional DVD.\r\n\r\nI love my abdominals, yes. I love my belly, I love my abdominals.\r\n\r\nMy husband, he can hardly keep his hands off of me.   My favorite part of my body, is definitely my abs. And that's the best part.\r\n\r\nThe secret to results like these is The Bender Method of Core Training. Developed by Master Trainor Leslee Bender.  She's an inspiration. This is an amazingly great program. \r\n\r\nLeslee's secret weapon to sculpted abs is the small ball, The Bender Ball. That Leslie uses to target your abs in ways that you couldn't do otherwise.\r\n\r\nWhat you see in the gym is people are just doing gazillion crunches and they don't know why they're not getting results. With the regular crunch on the floor, you're limited. You only go forward, you can't go back. With the Bender Ball you're getting extension and flexion. \r\n\r\nEach of Leslee's abs sculpting moves put you in perfect position for results. Combined with her effective method of selective stabilization, it cranks up the intensity and targets the muscle you want from all sides. Your upper abs, the sides, and those hard to reach lower abs. To give you a workout that's up to 408% more effective than ordinary crunches.   So you can sculpt beautiful abs fast. \r\n\r\nIt's quick, it's right to the point, gets right to the abs. And now, you can have the incredible Bender Ball and Leslee's amazing video - The Bender Method of Core Training.\r\n\r\nI've gotten such good results that I would never go back to regular crunches.   You will see results quickly. And that's the best part. \r\n\r\nPlus, you'll also get these two bonuses for free just for trying the amazing Bender Ball and Leslee's video!",
+    "VV_VI": 13,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-05-01\"},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "10\/30\/2009",
+    "tvp_profiles": [
+        "18",
+        "25",
+        "11"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1568.9332,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

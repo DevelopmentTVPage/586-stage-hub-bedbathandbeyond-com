@@ -1,0 +1,121 @@
+{
+    "title": "Fridge Binz Stackable Wine Rack",
+    "description": "",
+    "referenceId": "46727",
+    "date_created": "1502525270",
+    "date_modified": "1516646795",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110005288",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "fridge-binz-stackable-wine-rack",
+    "category": "",
+    "duration": "41",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "41",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "41",
+        "prettyDuration": "00:00:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110005288\/46de4\/thumb-69b72e479d8d3266a2b33af834ccdcdb-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110005288\/46de4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110005288\/46de4\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110005288\/cc\/vtt\/en_1516646787.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005288\/46de4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005288\/46de4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005288\/46de4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005288\/46de4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110005288\/46de4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi I\u009dm Nancy from Bad Bath and Beyond and I\u009dm here to tell you about the Fridge Binz stackable wine rack.\r\n\r\nThis system can turn your kitchen refrigerator into a wine fridge. Many wine enthusiasts recommend storing wine on its side. This keeps the wine in contact with the cork and prevents air from getting into the wine.\r\n\r\nNot only do these racks save space in your fridge, they also allow you to store and chill your wind properly. The Fridge Binz organization system helps you organize and maximize the space in your fridge.\r\n\r\nThese versatile pieces let you create customized storage and make the most of every inch. They make your fridge simple to navigate and the food easy to find.\r\n\r\nThe stackable wine rack and the Fridge Binz system is available online and at a Bed Bath & Beyond store near you.",
+    "VV_VI": 185,
+    "CVV_VI": 10,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-06-03"
+        }
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "1\/14\/2014",
+    "created_date": "2\/28\/2012",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 254.98964,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

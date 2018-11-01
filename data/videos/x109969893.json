@@ -1,0 +1,117 @@
+{
+    "title": "Mighty Mend It",
+    "description": "",
+    "referenceId": "11974",
+    "date_created": "1502518644",
+    "date_modified": "1504247455",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "109969893",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "mighty-mend-it",
+    "category": "",
+    "duration": "126",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "126",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "126",
+        "prettyDuration": "00:02:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109969893\/8f6dc\/thumb-52b4d0009efad96c0c8c2d0278bd44cb-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109969893\/8f6dc\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109969893\/8f6dc\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109969893\/cc\/vtt\/en_1503535594.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969893\/8f6dc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969893\/8f6dc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969893\/8f6dc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969893\/8f6dc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969893\/8f6dc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Mighty Mend It\u0099 Permanent Bonding Agent\n\nPermanently repair fabric tears quickly and effectively without the need to sew! Mighty Mend It\u0099 is not a glue but rather a flexible bonding Mighty Mend Itagent that quickly grabs, adheres and interlocks the fibers of fabrics. Dries crystal clear and is safe on most fabrics including lace, denim and leather. Bonds stay strong even after as many as 50 washes.\n\nMighty Mend It Permanent Bonding Agent\n\nIt happens. You rip, tear and never have time to repair. Wait. Before you throw it away, let Mighty Mend It save the day.\n\nHi, Billy Maze here for Mighty Mend It. The fast, easy way to mend, hem and wear it again, saving you money.\n\nMighty Mend It is not a glue, but a flexible bonding agent that grabs, adheres and interlocks the fibers of virtually any fabric for a permanent repair. \n\nSewing takes forever, but with Mighty Mend It, just apply, gently touch and mend it. It has the strength to withstand storm force winds. Amazing. \n\nEasily mend a hem at your desk to look your best. Even if you sit and split, Mighty Mend It will quickly fix it. Mend pillows and comforters right on the bed. Or make furniture repairs and save money.\n\nMighty Mend It dries crystal clear and is safe for most any fabric. Plus, it's machine washable. Even after fifty washes, the bond still stays strong. Whether it's denim, leather or lace, you can use Mighty Mend It anytime, any place.\n\nWe even repaired this parachute with Mighty Mend It and it still has the strength to safely bring down this sky diver from 13,000 feet. Now that's the power of Mighty Mend It.\n\nPlus it's ideal for scrapbook or craft projects. You'll find hundreds of money saving uses.",
+    "VV_VI": 2,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "7\/9\/2010",
+    "tvp_profiles": [
+        "32"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 19.220242,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

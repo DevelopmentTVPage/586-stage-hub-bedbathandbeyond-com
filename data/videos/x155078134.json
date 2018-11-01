@@ -1,0 +1,123 @@
+{
+    "title": "Madison Park 3M Microcell Sheet Sets",
+    "description": "",
+    "referenceId": "273189aea4d162fdadb2a43f1bd3c2fc",
+    "date_created": "1521560900",
+    "date_modified": "1521733917",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "bedding",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "155078134",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "3M-Microcell-Sheets-mp4",
+    "category": "",
+    "duration": "60",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "60",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1183\/662\/791385950-021183664.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/155078134\/3a6d5\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/155078134\/3a6d5\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/155078134\/cc\/vtt\/en_1521733901.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/155078134\/3a6d5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/155078134\/3a6d5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/155078134\/3a6d5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/155078134\/3a6d5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/155078134\/3a6d5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "MADISON PARK INTRODUCES OUR MICROCELL SHEET SETS FEATURING 3M SCOTCHGARD MOISTURE MANAGEMENT PROTECTOR.\n\nARE YOU KEPT AWAKE  BY NIGHT SWEATS OR ANY OTHER TEMPERATURE REGULATING PROBLEM. WHATEVER THE REASON, OUR MICROCELL SHEET SETS MIGHT BRING YOU SOME MUCH NEEDED RELIEF. \n\nOUR MICROCELL SHEET SETS ARE CONSTRUCTED WITH A PROPRIETARY BLEND OF ULTRA FINE MICROFIBER YARNS FEATURING SCOTCHGARD MOISTURE MANAGEMENT PROTECTOR.\n\nSCOTCHGARD MOISTURE MANGEMENT PROTECTOR IS A UNIQUE TREATMENT WITH DUAL ACTION PERFORMANCE. IT GIVES THE SHEET STAIN RELEASE PROPERTIES FOR EASY CARE AND PROVIDES MOISTURE MANGEMENT PROPERTIES FOR ENHANCED COMFORT.\n\nWHILE YOU SLEEP EXCESS MOISTURE IS SPREAD OUT OVER A LARGER SURFACE AREA FOR QUICKER EVAPORATION AND DRYING. THIS ALLOWS FOR A MORE COMFORTABLE NIGHTS SLEEP.\n\nOUR MICROCELL SHEETS ARE MACHINE WASHABLE, WRINKLE FREE AND SHRINK RESISITANT. \n\nWE FEATURE ALL SIZES INCLUDING TWIN EXTRA LONG.\n\nMICROCELL FITS  MATTRESSES UP TO EIGHTEEN INCHES DEEP.\n\nTHE MADISON PARK MICROCELL SHEET SETS FEATURING 3M SCOTCHGARD MOISTURE MANAGEMENT PROTECTOR. TIME TO EXPERIENCE THE COOLER AND DRIER NIGHTS SLEEP YOU\u2019VE BEEN LOOKING FOR.",
+    "VV_VI": 158,
+    "CVV_VI": 21,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-06-03"
+        }
+    },
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript for reference.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "3\/20\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

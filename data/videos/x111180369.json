@@ -1,0 +1,117 @@
+{
+    "title": "Krups BeerTender - Heineken",
+    "description": "",
+    "referenceId": "3877",
+    "date_created": "1502924486",
+    "date_modified": "1517251758",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180369",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "krups-beertender-heineken",
+    "category": "",
+    "duration": "140",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "140",
+            "width": 720,
+            "height": 480
+        },
+        "mediaDuration": "140",
+        "prettyDuration": "00:02:20",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180369\/04982\/thumb-3877-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180369\/04982\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180369\/04982\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180369\/cc\/vtt\/en_1517251754.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180369\/04982\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180369\/04982\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180369\/04982\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180369\/04982\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180369\/04982\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ]
+    },
+    "transcripts": "Krups BeerTender\u00ae\r\n\r\nThe Krups BeerTender\u00ae, for the ultimate at-home draught beer experience, was designed for the beer connoisseur with an aversion  Krups Beer Tenderto reading the instruction manual. The, BeerTender\u00ae is simple to use and was designed to work exclusively with the Heineken\u00ae and Heineken Premium Light\u00ae Draught Kegs\u00ae. Simply load keg, attach tube and close the lid and you're ready to serve. The results are so authentic, don't be surprised if people start calling you bartender. A contemporary design with a classic tap and intuitive technology, it integrates effortlessly into any home aesthetic. Features a detachable draw spout and pour handle, a removable drip tray, and volume and temperature indicators. UL listed.120-volts, 70-watts. One-year warranty. Model B90.\r\n\r\n\r\n\r\nThe Krups Heineken BeerTender\r\n\r\nElegant, high tech countertop chilling system.  Manufactured by Krups and designed to work exclusively with the innovative Heineken draft keg, or Heineken premium light draft keg.\r\n\r\nHere to introduce you to the Krups BeerTender, is Frank Evers.  The official Heineken Draft Master.  The Krups BeerTender is easy to use, and provides the ideal conditions for storing and serving Heineken.  The first step is opening the machine, by pressing the panel behind the tap spout, then open the handle.  Simply remove a Heineken draft keg or Heineken Premium light draft keg from your refrigerator, after chilling for 10 hours.  Snap on the patented disposable Krups BeerTender tube into the Heineken draft keg.  Insert the draft keg into the Krups BeerTender, then insert the BeerTender tube into the handle and close the handle, then close the lid.  The LED indicator will alert you once the ultra quiet cooling system as chilled the draft to perfection. \r\n\r\nNow, for the perfect pour.  Cool your glass with fresh cold water, inspect.  Place your glass under the tap on a 45-degree angle.  Grab the tap handle at the stem and open quickly with one smooth motion.  Straighten the glass to a vertical position at three quarters full.  Make sure the tap handle doesn\u0092t touch the beer, and remember the bottom of the head should line up with the shoulders of the star of the glass.  Set your perfectly poured draft on the drip tray, and for the finishing touch, grab a wet skimmer.  Hold the skimmer at a 45-degree angle and cut the head like a pro to seal in the flavor.\r\n\r\nNow your ready to enjoy an authentic draft beer experience at home.  Cheers!\r\n\r\nThe ultimate at home draft experience is waiting for you.  Bring home a Krups BeerTender today.  Enjoy Heineken responsibly.",
+    "VV_VI": 5,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-03-14\"}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "lmproductionvalues",
+    "modified_date": "9\/2\/2012",
+    "created_date": "5\/19\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2743.429,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,117 @@
+{
+    "title": "Calphalon 7-Quart Digital Slow Cooker",
+    "description": "",
+    "referenceId": "19947",
+    "date_created": "1502923882",
+    "date_modified": "1516655154",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180109",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "calphalon-7-quart-digital-slow-cooker",
+    "category": "",
+    "duration": "88",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "88",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "88",
+        "prettyDuration": "00:01:28",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180109\/56395\/thumb-19947-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180109\/56395\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180109\/56395\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180109\/cc\/vtt\/en_1516655149.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180109\/56395\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180109\/56395\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180109\/56395\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180109\/56395\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180109\/56395\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Presenting the 7-Quart Digital Slow cooker from the Calphalon Kitchen Electrics collection. Enjoy delicious savory slow-cooked meals any night of the week.\r\n\r\nDesigned in timeless touch stainless steel, the Calphalon 7-Quart Digital Slow Cooker features an easy-to-read high-contrast LCD display.\r\n\r\nThe convenient auto setting cooks for 2 hours on high and then switch to low for the remainder of the cooking time.\r\n\r\nThe 24-hour digital timer allows you to set the timer and go. And it automatically switches to warm at the end of the cooking cycle. Perfect for entertaining.\r\n\r\nThe silicone wrap handles stay cool and the removable ceramic crock is dishwasher safe for easy cleanup.\r\n\r\nAnd the Calphalon 7-Quart digital slow cooker stores as beautifully as it cooks.\r\n\r\nThe cord wraps for storage or travel.\r\n\r\nCalphalon",
+    "VV_VI": 4,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/5\/2011",
+    "created_date": "1\/7\/2011",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1155.0431,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

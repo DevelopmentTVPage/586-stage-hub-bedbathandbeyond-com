@@ -1,0 +1,123 @@
+{
+    "title": "Gen7Pets Regal Plus Pet Stroller",
+    "description": "",
+    "referenceId": "a6225cef32b73eefee8a176a1144180f",
+    "date_created": "1528903514",
+    "date_modified": "1529337316",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "other",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "164874611",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "RegalPlusStroller-44337216-44337223-60768780",
+    "category": "",
+    "duration": "99",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "99",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "99",
+        "prettyDuration": "00:01:39",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1920\/1080\/914803021-1528904006.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/164874611\/e4407\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/164874611\/e4407\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/164874611\/cc\/vtt\/en_1529337300.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164874611\/e4407\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164874611\/e4407\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164874611\/e4407\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164874611\/e4407\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164874611\/e4407\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Welcome to the Gen7 Family of products. Your Regal PLUS Stroller provides both a stylish and secure ride for any pet up to 25 pounds. You don\u2019t need any tools to assemble your Regal PLUS. Everything you need is in the box!\nWith the gray cog facing inward, place a rear wheel on the end of the Axel Assembly. Add the lock washer. Secure the wheel with a push pin. Snap the cap into place. Repeat with the second rear wheel.\nWith the stroller frame upside down, and red brake pedals facing you, push the axel sleeves into the frame until you hear a click. Gently pull to ensure axel is attached.\nAttach the front wheel assembly by sliding the assembly on the front wheel post. Make sure the end with the locking tab goes on 1st.  Simply push until you hear a click. We\u2019re almost ready to roll!\nThe parent tray easily clips to the handle. Align the holes on the sides of the tray to the pins on the frame.\nTo fold, make sure the storage basket is empty.  Grasp side handles and pull toward you as you collapse the stroller. Engage the finger latch to lock.\nFor more information about The Regal PLUS, or any of our Gen7 Pet products, visit gen7pets.com.",
+    "VV_VI": 4,
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript for reference.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "6\/13\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": ""
+}

@@ -1,0 +1,119 @@
+{
+    "title": "Bona Premium Hardwood Floor Spray Mop",
+    "description": "",
+    "referenceId": "546ae54024e47617e0b0f8ff010cf88c",
+    "date_created": "1520875049",
+    "date_modified": "1521225674",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "storage_and_cleaning",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "154264894",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "BonaPremiumSprayMop-61882492-61882485-mp4",
+    "category": "",
+    "duration": "99",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "99",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "99",
+        "prettyDuration": "00:01:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/154264894\/6edff\/thumb-546ae54024e47617e0b0f8ff010cf88c-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/154264894\/6edff\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/154264894\/6edff\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/154264894\/cc\/vtt\/en_1521225662.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/154264894\/6edff\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/154264894\/6edff\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/154264894\/6edff\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/154264894\/6edff\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/154264894\/6edff\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "The Bona premium spray mop. This thing's really durable and lightweight, so it makes everything very easy to maneuver around my house, and clean all of my hardwood floors and title areas. It has a cartridge right here of a water- based cleaning solution, which is fantastic, it's refillable. It also comes with a machine- washable microfiber removable This pad for cleaning. I can put it right in the washing machine which is fantastic. It gives up a light mist of this water- based cleaning solution so it doesn't over saturate my floors, but it still is very easy to clean up. The cleaner is water- based so it's specially formulated for my hardwood floors which is great. And if you'll notice, the base of this mop is large so I can cover a very large area in a Fast amount of time. And what I love is how easy I can maneuver the Bona mop throughout all of the furniture. It gets into all those hard to reach areas and it just is so much easier than using any type of heavy vacuum or other Piece of equipment. The corners are sort of rubbery and they don't nick up or ding your furniture as you're cleaning. And the cleaning solution actually has a quick drying formula. It actually dries up on its own. Incredibly fast and it doesn't leave any streaks behind. The cartridge also has this sort of click sound when you put it in. If you can hear it click, so that you know you've really got it in nice and tight. It has this little hook that pops up, so you can hang it in your pantry, or your cleaning closet. Once I'm done with all of my dusting and mopping, I will just remove the pad, rinse it out, wring it, and let it dry for the next use. Anything that cuts down on cleaning time is a win in my book. The Bona Premium spray mop.",
+    "VV_VI": 2041,
+    "CVV_VI": 58,
+    "engagement_score": 3,
+    "conversion_score": 4,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript for reference.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "3\/12\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

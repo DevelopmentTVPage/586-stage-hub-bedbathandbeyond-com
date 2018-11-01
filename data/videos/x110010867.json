@@ -1,0 +1,118 @@
+{
+    "title": "Halo Sleep Sacks",
+    "description": "",
+    "referenceId": "6036",
+    "date_created": "1502526411",
+    "date_modified": "1517250717",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110010867",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "halo-sleep-sacks",
+    "category": "",
+    "duration": "98",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "98",
+            "width": 720,
+            "height": 480
+        },
+        "mediaDuration": "98",
+        "prettyDuration": "00:01:38",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110010867\/37471\/thumb-1d871b14eb013635b815b36a42a502c5-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110010867\/37471\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110010867\/37471\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110010867\/cc\/vtt\/en_1517250713.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010867\/37471\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010867\/37471\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010867\/37471\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010867\/37471\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010867\/37471\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ]
+    },
+    "transcripts": "Sleepsack\u0099  by Halo\u00ae\r\n\r\nThe Sleepsack\u0099 wearable blankets are specially designed to prevent re-inhalation of carbon dioxide during sleep, while warming your infant SleepSack by Halowith comfortable, soft fleece. It carries the \"#1 Safe Sleep Product\" gold seal from First Candle\/SIDS Alliance to ensure your baby's safety. This 4-piece set includes a 100% polyester quilted wearable blanket, 100% cotton interlock hat, long-sleeved coverall and bodysuit. Bodysuit features reversible turn-back cuffs to prevent scratching. Machine washable. Imported.",
+    "VV_VI": 430,
+    "CVV_VI": 25,
+    "engagement_score": 1,
+    "conversion_score": 2,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "1\/18\/2010",
+    "tvp_profiles": [
+        "25",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 365.00916,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

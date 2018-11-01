@@ -1,0 +1,119 @@
+{
+    "title": "My Little_Nest_VO",
+    "description": "N\/A",
+    "referenceId": "62c06da671826885da5a03ffc649c3f4",
+    "date_created": "1524575172",
+    "date_modified": "1525104828",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "bedding",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "161943259",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "My-Little-Nest-VO",
+    "category": "",
+    "duration": "44",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "44",
+            "width": 654,
+            "height": 480
+        },
+        "mediaDuration": "44",
+        "prettyDuration": "00:00:44",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/161943259\/13555\/thumb-62c06da671826885da5a03ffc649c3f4-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/161943259\/13555\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/161943259\/13555\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/161943259\/cc\/vtt\/en_1525104514.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/161943259\/13555\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 654,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/161943259\/13555\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 654,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/161943259\/13555\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 654,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/161943259\/13555\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 490,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/161943259\/13555\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 234
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "HEATHER CARTER",
+    "modified_date": "",
+    "created_date": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

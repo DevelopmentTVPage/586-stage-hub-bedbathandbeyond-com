@@ -1,0 +1,123 @@
+{
+    "title": "Wagan Heated Shiatsu Massage Cushion",
+    "description": "",
+    "referenceId": "73cda4fba596cdaae57ddb71942da8cf",
+    "date_created": "1516303061",
+    "date_modified": "1516737456",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "healthy_living",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "138152252",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "HeatedShiatsu-MassageCushion-61322707-VO-mp4",
+    "category": "",
+    "duration": "82",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "82",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "82",
+        "prettyDuration": "00:01:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/138152252\/d16ba\/thumb-73cda4fba596cdaae57ddb71942da8cf-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/138152252\/d16ba\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/138152252\/d16ba\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/138152252\/cc\/vtt\/en_1516737388.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138152252\/d16ba\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138152252\/d16ba\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138152252\/d16ba\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138152252\/d16ba\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/138152252\/d16ba\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "The Wagan Health Mate Heated Shiatsu Massage Cushion is a cushion that delivers powerful massage to help alleviate soar and tight muscles, improve circulation and relieve tension. Simply plug the cushion in with the provided AC or DC adaptor and choose the desired setting.\nOur Heated Shiatsu Massage Cushion offers a heated massage function, three levels of vibration for your legs (high, medium and low) and three modes of massage: upper back, lower back and full back. There is a built-in 15-minute shutoff timer, at which time the device will shut down and return the motors to their rest position.\nThe controller is ergonomically designed to fit in the hand nicely and offer the controls in a simple and clean format. There is a convenient storage pocket on the side of the seat to store the controller. The adjustable elastic straps make it easy to secure the Heated Shiatsu Massage Cushion to most seats.\nThe Wagan Health Mate Heated Shiatsu Massage Cushion will be a great addition to your daily comfort repertoire.",
+    "VV_VI": 131,
+    "CVV_VI": 10,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript for reference.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "1\/18\/18",
+    "tvp_profiles": [
+        "18",
+        "25",
+        "9"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1831.1426,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

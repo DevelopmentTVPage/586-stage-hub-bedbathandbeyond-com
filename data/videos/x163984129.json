@@ -1,0 +1,118 @@
+{
+    "title": "Graco Jetsetter Stroller in Balancing Act",
+    "description": "Super light yet boasting full-size features, Graco's Jetsetter Stroller is ideal for families constantly on the go. Weighs less than 4 lb. and allows a 1-hand, compact fold for easy traveling and transport. Comes with a tote-style carry bag.",
+    "referenceId": "f359d35aa7d03ae501ff412df7d41bec",
+    "date_created": "1526913747",
+    "date_modified": "1526917362",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "strollers",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "163984129",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "0047406148707",
+    "category": "",
+    "duration": "81",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "81",
+            "width": 720,
+            "height": 484
+        },
+        "mediaDuration": "81",
+        "prettyDuration": "00:01:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/163984129\/24f8e\/thumb-f359d35aa7d03ae501ff412df7d41bec-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/163984129\/24f8e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/163984129\/24f8e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163984129\/24f8e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 484
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163984129\/24f8e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 484
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163984129\/24f8e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 714,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163984129\/24f8e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 536,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163984129\/24f8e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 216
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 133,
+    "CVV_VI": 2,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-06-15"
+        }
+    },
+    "delete": "",
+    "notes": "no spoken",
+    "uploader": "Franz Aquino",
+    "modified_date": "",
+    "created_date": "05\/21\/2018",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "Women's College World Series Viola Btcdirect Book Biodegradable Products Institute Graco",
+    "tvp_enhanced_transcript": ""
+}

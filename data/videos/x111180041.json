@@ -1,0 +1,117 @@
+{
+    "title": "Sharper Image Stick Blender",
+    "description": "",
+    "referenceId": "17575",
+    "date_created": "1502923743",
+    "date_modified": "1516657264",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180041",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "sharper-image-stick-blender",
+    "category": "",
+    "duration": "89",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "89",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "89",
+        "prettyDuration": "00:01:29",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180041\/769ae\/thumb-17575-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180041\/769ae\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180041\/769ae\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180041\/cc\/vtt\/en_1516657254.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180041\/769ae\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180041\/769ae\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180041\/769ae\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180041\/769ae\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180041\/769ae\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": "Preparing your favorite meals can be so much work, and look at all the products you need. Now you can save time and put an end to the mess and expense, with the Stick Blender from the Sharper Image. The Sharper Image Stick Blender is the world's most incredible kitchen appliance because it's all your machines in one. And Sharper Image means quality, with its stainless steel housing, 200 watt power motor, easy-grip handle, and two-speed push-button control, making it easy to blend, chop, whip, crush and grind just about anything. And then, cleans up just this easy. Pop on the blending shaft to make frothy fresh orange juice, or turn whole peanuts into creamy delicious peanut butter.\r\n\r\nMake homemade bread crumbs right in the bag, even tasty gravy and creamy mashed potatoes right on the stove. The Sharper Image whisk attachment allows you to make all-natural, low-fat mayonnaise with no added oils or preservatives. And it's so powerful, you can turn skim milk into luscious whipped topping quickly and easily. Add some berries for a delicious low-fat dessert, with only 16 calories per serving. The chopper grinder attachment chops vegetables for delicious nutritious soups, purees fresh tomatoes for gourmet sauces, chops hard cheeses, even grinds fresh coffee in no time. Healthy homemade baby food; low-calorie ice cream; fresh, tasty salsa, all made quick and easy with the Sharper Image Stick Blender.",
+    "VV_VI": 9,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-03-29\"}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/5\/2011",
+    "created_date": "11\/15\/2010",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1875.5403,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

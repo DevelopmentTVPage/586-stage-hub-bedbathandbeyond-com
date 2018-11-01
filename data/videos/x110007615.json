@@ -1,0 +1,118 @@
+{
+    "title": "Top Chef's Mixing Bowl",
+    "description": "",
+    "referenceId": "49435",
+    "date_created": "1502525948",
+    "date_modified": "1516389765",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110007615",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "top-chef-s-mixing-bowl",
+    "category": "",
+    "duration": "70",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "70",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "70",
+        "prettyDuration": "00:01:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110007615\/7346a\/thumb-f73de4fd3da501bd4bce96e47625d6a9-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110007615\/7346a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110007615\/7346a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110007615\/cc\/vtt\/en_1516389756.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007615\/7346a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007615\/7346a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007615\/7346a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007615\/7346a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110007615\/7346a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi I\u009dm Nancy from Bed Bath & Beyond and I\u009dm here to tell you about the Top Chef Stainless Steel Mixing Bowl Set.\r\n\r\nThis is no ordinary mixing bowl set. It comes with a tight sealing plastic lid with a special insert. Just pop out the center of the lid and insert any of the three stainless steel disks provided.\r\n\r\nThere is a fine grating disk for zesting citrus and garlic, and a larger grater for cheese, carrots and even chocolate, and a slicing insert where you can slice cucumbers, potatoes and more.\r\n\r\nFor added safety, the bowl has a nonslip base which keeps it from tipping and moving. This bowl is beautiful so it can be used as both a serving bowl or to store foods in your refrigerator. Let\u009ds try one of the inserts.\r\n\r\nThe larger grater is perfect to grate these carrots. I love to make homemade coleslaw. I can grate the carrots right into the bowl with the other vegetables already in there. I can prepare and serve the salad all in the same bowl. It really cuts down on cleanup.\r\n\r\nThis 5 quart mixing bowl set makes food prep fast and effortless. The Top Chef Stainless Steel Bowl Mixing Set is available online at Bed Bath & Beyond.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "12\/18\/2013",
+    "created_date": "4\/18\/2012",
+    "tvp_profiles": [
+        "18",
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 156.40361,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

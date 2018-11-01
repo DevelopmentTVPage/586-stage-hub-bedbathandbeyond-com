@@ -1,0 +1,118 @@
+{
+    "title": "The Original Baby Bullet Food Processor",
+    "description": "",
+    "referenceId": "34644",
+    "date_created": "1502524959",
+    "date_modified": "1516736634",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110004164",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "the-original-baby-bullet-food-processor",
+    "category": "",
+    "duration": "448",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "448",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "448",
+        "prettyDuration": "00:07:28",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004164\/f1f28\/thumb-00b89285ef14ab79dd83131954f3ed0f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004164\/f1f28\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004164\/f1f28\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110004164\/cc\/vtt\/en_1516736630.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004164\/f1f28\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004164\/f1f28\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004164\/f1f28\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004164\/f1f28\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004164\/f1f28\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": "The Original Baby Bullet Food Processor, BPA Free\r\n\r\nIntroducing the latest addition to the Magic Bullet family, the Baby Bullet. Now you can make and store a week's worth of fresh organic baby food in under five minutes for less than three dollars. The Baby Bullet makes fresh organic nutrient-rich baby food in an instant, like this apple and plum puree, full of vitamins and antioxidants made in just seven seconds. The secret is the Baby Bullet's unique Baby Blend blade, that perfectly purees any ingredients to the perfect consistency for any stage eater. Just push and twist for silky smooth purees for stage one early eaters, or push'n'pulse for stage two baby food, with a chunkier texture for older babies.\r\n\r\nMaking healthy delicious baby food is now this easy. The flat milling blade grinds oats, rice and other grains into fine cereals for the smoothest oatmeal, perfect for a baby's first meal. You'd pay up to $70.00 a month for jarred baby food, but look, the Baby Bullet turns this one sweet potato into 20 ounces of fresh, organic baby food. That's equal to eight jars of baby food from the store. And storing your fresh baby food is just as easy. Just pour your puree into the storage cup and twist the lid to seal. Now turn the dial to today's date, and you instantly have your own made-on date, so you'll always know how fresh your baby's food it.\r\n\r\nYou should try the Baby Bullet because it is a whole system that makes making your baby's natural, organic baby food so easy.\r\n\r\nAnd the best part of it is that you have the little dial, and you could put the date on it, so you know when it's good until.\r\n\r\nYou need the Baby Bullet.\r\n\r\nThe Baby Bullet System teaches you what to feed your baby, when to feed, and how much to feed your baby at every stage of their development. With the Baby Bullet System, you can make and store a week's worth of baby food in under five minutes, for less than three dollars. And the best part is the complete system is safe, non-toxic, and BPA free.",
+    "VV_VI": 6,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "10\/27\/2011",
+    "created_date": "10\/27\/2011",
+    "tvp_profiles": [
+        "18",
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 199.59099,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

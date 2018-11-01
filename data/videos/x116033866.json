@@ -1,0 +1,113 @@
+{
+    "title": "Surviving a Shared Bathroom",
+    "description": "",
+    "referenceId": "012659f2c07815e072dc55c5da7b329b",
+    "date_created": "1504594200",
+    "date_modified": "1504633273",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "116033866",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "media-18-mp4",
+    "category": "",
+    "duration": "109",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "109",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "109",
+        "prettyDuration": "00:01:49",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/116033866\/68557\/thumb-012659f2c07815e072dc55c5da7b329b-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/116033866\/68557\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/116033866\/68557\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116033866\/68557\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116033866\/68557\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116033866\/68557\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116033866\/68557\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/116033866\/68557\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi, I'm Jessica for Campus and Beyond from Bed Bath and Beyond. And I'm Nicole. I'm an incoming freshman and Jess has been helping me set up my dorm room. Hey Nichole, are you ready to face the dreaded shared bathroom situation? I guess I'd better be, right? It's really bad as long as you're organized. Like with with a shower caddy. There are plenty of compartments in it to keep your shampoos, your conditioners, your brushes too. And there's also some holes in it, so the water will drain out and there won't be any soapy residue at the bottom. Hey, it's pretty cute. You know, that'll definitely help me get ready faster in the morning. Exactly. Now we'll talk about your shower wardrobe from going to and from your bathroom. Oh, that's okay. I figured I'd just wear whatever, you know? As long as I look decent, right? Have you ever tried to put jeans on after a quick towel dry? There is nothing worse than jeans sticking to you. Exactly. So you can wear a robe or you can wear a towel wrap. It'll keep you decent so there's no wardrobe malfunctions. Hey, you know, this is really cute! Yeah. And you'll also need bath towels, too. At least two, so you're not doing laundry all the time. I hate doing laundry! Well, I hate walking barefoot on bathroom floors. So I wear flip-flops in the shower and then fuzzy slippers when I get out. And another thing you can add to your shower wardrobe is also a hair wrap. It cuts so much drying time in the morning. Hey, looks pretty cute, right? Yeah, you look really good. It looks great on you. Yeah, I think I'll save this for the mornings. You know, I never realized how much stuff I'm gonna need to help me get ready in the morning. I know, it's shocking, right? But what actually makes it easier is actually the style station. It holds all your styling tools. You know, normally I would just keep all this stuff on the sink, but I guess with a bunch of roommates, I'm probably gonna need this, right? Yeah. So Nichole, do you think you'll be able to face life with a shared bathroom? Definitely. I feel so much more organized. Thanks so much for your help. No problem.",
+    "VV_VI": 2,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "ashley.davison",
+    "modified_date": "7\/3\/2013",
+    "created_date": "",
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 252.13979,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

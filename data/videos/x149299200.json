@@ -1,0 +1,119 @@
+{
+    "title": "Graco 4Ever Extend2Fit Platinum All-in-One Convertible Car Seat in Shale",
+    "description": "The Graco 4Ever Extend2Fit Platinum All-in-One Convertible Car Seat conveniently transitions from an infant to toddler seat with ease. Features an EZ Tight latch for secure and simple installation, and up to 5 extra inches of legroom for extended use.",
+    "referenceId": "14a1647b258aaad407b9bccfbcd1c900",
+    "date_created": "1518705353",
+    "date_modified": "1519239407",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "car_seats",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "how_to_do_video",
+    "user_id": "0",
+    "id": "149299200",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "047406144464-3-mp4",
+    "category": "",
+    "duration": "127",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "127",
+            "width": 720,
+            "height": 486
+        },
+        "mediaDuration": "127",
+        "prettyDuration": "00:02:07",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/716\/402\/831717517-032716434.JPG",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/149299200\/819ec\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/149299200\/819ec\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/149299200\/cc\/vtt\/en_1518715837.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/149299200\/819ec\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 486
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/149299200\/819ec\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 486
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/149299200\/819ec\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 712,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/149299200\/819ec\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 534,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/149299200\/819ec\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 216
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 192,
+    "CVV_VI": 9,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "with spoken words",
+    "uploader": "Franz Aquino",
+    "modified_date": "",
+    "created_date": "02\/15\/2018",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

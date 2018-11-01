@@ -1,0 +1,117 @@
+{
+    "title": "ANSR Beam Anti-Aging Phototherapy Device",
+    "description": "",
+    "referenceId": "12725",
+    "date_created": "1502923407",
+    "date_modified": "1516394092",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111179900",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "ansr-beam-anti-aging-phototherapy-device",
+    "category": "",
+    "duration": "91",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "91",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "91",
+        "prettyDuration": "00:01:31",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179900\/c489e\/thumb-12725-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179900\/c489e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179900\/c489e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179900\/cc\/vtt\/en_1516394081.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179900\/c489e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179900\/c489e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179900\/c489e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179900\/c489e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179900\/c489e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": "Imagine going from this to this. Now you can with this new device from ANSR.\r\n\r\nThe ANSR Beam is a whole new way to treat your skin for a more beautiful complexion. The secret is a powerful technology called Red and Blue light therapy that penetrates deep to treat and rejuvenate the skin.\r\n\r\nFrom this to this with this.\r\n\r\nIt's simple. Just beam five to ten minutes a day, and in a few short weeks, discover clear, radiant, youthful looking skin again.\r\n\r\nPhotolight therapy is the future of advanced skin care. The ANSR Beam harnesses that power in a compact, rechargeable, handheld device that features two lights in one. The blue light kills the bacteria that causes acne. The intense red light penetrates even deeper beneath the surface of the skin stimulating collagen to rapidly grow new cells. The result? Improved skin texture, tone, reduction in fine lines and wrinkles, pore size, and redness.\r\n\r\nBlue light waves have been proven to destroy acne causing bacteria when absorbed by Blue Light energy. Longer wave lengths of red light penetrate the skin more deeply stimulating the collagen to grow healthier cells up to 200 percent faster. It's like getting the benefit of clinical laser treatments but without costing thousands of dollars.\r\n\r\nTry the ANSR Beam today. It works, it's safe, and it's affordable. It's the answer to a more beautiful complexion.",
+    "VV_VI": 1,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-04-28\"}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "12\/6\/2011",
+    "created_date": "6\/15\/2010",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1369.2695,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

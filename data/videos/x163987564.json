@@ -1,0 +1,118 @@
+{
+    "title": "Waterpik Rainfall FlexNeck Showerhead in Chrome",
+    "description": "Enjoy the soothing rainfall of the Waterpik Rainfall FlexNeck Showerhead from any direction in your shower. Its super flexible design adjusts to several positions and the 2-spray showerhead offers a drenching rainfall spray for total body coverage.",
+    "referenceId": "54510834621eb4bf7b9276727dda589b",
+    "date_created": "1526995671",
+    "date_modified": "1527018390",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "bath",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "163987564",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "73950212229",
+    "category": "",
+    "duration": "14",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "14",
+            "width": 1440,
+            "height": 1072
+        },
+        "mediaDuration": "14",
+        "prettyDuration": "00:00:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/163987564\/3b240\/thumb-54510834621eb4bf7b9276727dda589b-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/163987564\/3b240\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/163987564\/3b240\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163987564\/3b240\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1440,
+                "height": 1072
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163987564\/3b240\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 968,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163987564\/3b240\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 644,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163987564\/3b240\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 484,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163987564\/3b240\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 238
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 39,
+    "CVV_VI": 2,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-15"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-06-03"
+        }
+    },
+    "delete": "",
+    "notes": "No Words",
+    "uploader": "Robert Podolak",
+    "modified_date": "5\/22\/18",
+    "created_date": "",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": ""
+}

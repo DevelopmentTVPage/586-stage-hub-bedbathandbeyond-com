@@ -1,0 +1,118 @@
+{
+    "title": "Cuisinart ICE 20 Yogurt Ice Cream  Sorbet Maker",
+    "description": "",
+    "referenceId": "5615",
+    "date_created": "1502924727",
+    "date_modified": "1516395206",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180524",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "cuisinart-ice-20-yogurt-ice-cream-sorbet-maker",
+    "category": "",
+    "duration": "57",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "57",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "57",
+        "prettyDuration": "00:00:57",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1278\/709\/145299650-021278711.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180524\/3af2d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180524\/3af2d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180524\/cc\/vtt\/en_1516395195.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180524\/3af2d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180524\/3af2d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180524\/3af2d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180524\/3af2d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180524\/3af2d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Cuisinart\u00ae Automatic Frozen Yogurt, Ice Cream and Sorbet Maker\r\n\r\nEnjoy delicious home-made ice cream, frozen yogurt and fresh sorbet in as little as 20 minutes. This quick and powerful machine features a Cuisinart Frozen Yogurt Ice Cream Makertransparent easy-lock lid, a wide ingredient spout and easy cord storage. It comes with an instruction booklet that includes favorite recipes. Holds up to 1.5-quarts of frozen dessert. UL listed. Measures 8.5\" L x 8.5\" W x 11.5\" H. 3-year warranty.\r\n\r\nHi, I\u0092m Mary Rogers, director of marketing communications for Cuisinart.  This is the Cuisinart Frozen Yogurt and Ice Cream Maker.  It\u0092s really fun to use.  It\u0092s simple to operate.  You basically take your freezer bowl, put it in the freezer overnight.  We recommend a minimum of eight hours at zero degrees.  You just mount it on the base.  You add your ingredients for the ice cream.  You put in your dasher, which is actually what mixes the ice cream as it\u0092s turning.  You put on the lid, lock it into place.  This lid has a hole right in the center, so later on when your ice cream is almost finished, you can add some ingredients in there.  Or you can pour your liquid ingredients in there as you begin to make your ice cream.  You turn it on, and in about 25 to 30 minutes, you\u0092ll have fresh, homemade ice cream.  \r\n\r\nIt couldn\u0092t be easier.  This ice cream maker makes about one and a half quarts.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "jason",
+    "modified_date": "8\/30\/2012",
+    "created_date": "10\/30\/2009",
+    "tvp_profiles": [
+        "18",
+        "5"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 5270.76,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

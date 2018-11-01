@@ -1,0 +1,118 @@
+{
+    "title": "mi pump",
+    "description": "",
+    "referenceId": "5204",
+    "date_created": "1502526010",
+    "date_modified": "1516646102",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110008639",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "mi-pump",
+    "category": "",
+    "duration": "168",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "168",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "168",
+        "prettyDuration": "00:02:48",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110008639\/d9ee2\/thumb-e8054537449b93e6812e9b83a174b9fb-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110008639\/d9ee2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110008639\/d9ee2\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008639\/d9ee2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008639\/d9ee2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008639\/d9ee2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008639\/d9ee2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008639\/d9ee2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110008639\/cc\/vtt\/en_1516646102.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "The First Years\u00ae by Learning Curve\u0099 Deluxe Double miPump \r\n\r\nDeluxe Double miPump is fast to save you time. Its lightness makes it easy to carry, and it's also quiet for discreetness. Features Flexi-Fit shields that offer a comfortable fit. Also includes convenient cooler  mi Pump breast pumpbag to store milk.\r\n\r\n The First Years\u00ae by Learning Curve\u0099 Deluxe Double miPump\r\n\r\nWe all want what\u0092s best for our baby, and when it comes to nutrition, doctors agree that breastmilk provides the finest nourishment that nature has to offer.  And it\u0092s great for moms too, since breastfeeding supplies wonderful postpartum benefits.\r\n\r\nBut with our busy schedules, we can\u0092t always be available to breastfeed.  That\u0092s where miPump\u0099 comes in.  This innovative breast pump by The First Years was designed after gaining extensive input from lactation experts, and securing the feedback of moms to better understand their breastfeeding needs.\r\n\r\nThrough this research, the First Years recognized the need for a pump that\u0092s comfortable, simple, quiet, and affordable.  MiPump meets these needs and more.\r\n\r\nMiPump\u0092s sleek, practical design makes it easy to use.  It\u0092s simple to clean and assemble.  And only a few, short steps are needed before it\u0092s ready for use.\r\n\r\nThe soft, flexi-fit breast shield molds to fit you properly and securely keeping you comfortable as you pump.  The multilevel controls allow you to adjust miPump\u0092s suction level, and the convenient LED display gives you a visual cue to your suction level.\r\n\r\nAs you\u0092ll discover, comfort is one of the most important aspects of pumping.  The more comfortable you are, the more successful you\u0092ll be at expressing milk for your baby.\r\n\r\nMiPump is so quiet only you will know you\u0092re pumping.  But don\u0092t let its discrete nature fool you.  MiPump does not sacrifice motor strength.  Its professional grade performance efficiently expresses your milk without any loud humming.\r\n\r\nMiPump is so compact and lightweight, it\u0092s a cinch to take with you.  When you\u0092re on the go, just place MiPump in the stylish bag that it comes with, and MiPump offers electric or battery operation to give you complete freedom when away from home.\r\n\r\nAll growing families are looking to spend money wisely, and using miPump allows this to happen.  Not only is miPump a great value on its own, but it also allows families to save money by making it unnecessary to buy formula.  And if moms follow the American Academy of Pediatrics\u0092 recommendation of giving breastmilk to their baby for one year, the health benefits for their baby and financial benefit for their family are significant.\r\n\r\nMiPump by The First Years: designed to balance what\u0092s healthiest for your precious baby with the busy schedules and comfort needs of moms.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "10\/7\/2009",
+    "tvp_profiles": [
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2812.7393,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

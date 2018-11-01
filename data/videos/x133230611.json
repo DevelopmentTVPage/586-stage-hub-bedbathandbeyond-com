@@ -1,0 +1,123 @@
+{
+    "title": "Sleep Philosophy Snug Grip 300-Thread-Count Sheet Sets",
+    "description": "",
+    "referenceId": "55b62535de243a0c117a3e81c21de8db",
+    "date_created": "1513180894",
+    "date_modified": "1513371517",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "bedding",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "133230611",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "SnugGripSheets-mp4",
+    "category": "",
+    "duration": "51",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "51",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "51",
+        "prettyDuration": "00:00:51",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1271\/708\/507867332-021271710.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/133230611\/d4372\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/133230611\/d4372\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/133230611\/cc\/vtt\/en_1513371508.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133230611\/d4372\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133230611\/d4372\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133230611\/d4372\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133230611\/d4372\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133230611\/d4372\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Sleep philosophy introduces our Snug Grip Sheet Set.\n\nOur fitted sheet is specifically designed to stay fitted on your bed no matter how you sleep at night. \n\nNormal bed sheets only have a quarter inch elastic in small sections in the corners that loses grip over time.  \n\nTo solve this, our Snug Grip fitted sheet features a 1\u201d elastic band that wraps around the whole fitted sheet to ensure it will stay fitted on your bed.\n\nThis 1\u201d elastic holds the fitted sheet more secure allowing for a perfect fit on mattresses from 9 to 18 inches deep. \n\nOur silky soft 300 thread count sateen Snug Fit sheets are made with 100% premium quality cotton\n\nAnd are machine washable.\n\nSnug Grip Sheets, never worry about your fitted sheet coming undone again.",
+    "VV_VI": 899,
+    "CVV_VI": 18,
+    "engagement_score": 0,
+    "conversion_score": 2,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "12\/13\/17",
+    "tvp_profiles": [
+        "18",
+        "9",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1453.5721,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

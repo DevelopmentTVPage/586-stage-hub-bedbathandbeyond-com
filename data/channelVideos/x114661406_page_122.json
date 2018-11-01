@@ -1,0 +1,1215 @@
+{
+    "pageNumber": 122,
+    "data": [
+        {
+            "id": "111180280",
+            "title": "Weather Direct",
+            "date_created": "1502924266",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "105",
+                    "width": 384,
+                    "height": 214
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180280\/f1aaa\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 384,
+                        "height": 214
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180280\/f1aaa\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 384,
+                        "height": 214
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180280\/f1aaa\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 384,
+                        "height": 214
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180280\/f1aaa\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 384,
+                        "height": 214
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180280\/f1aaa\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 178
+                    }
+                ],
+                "mediaDuration": "105",
+                "prettyDuration": "00:01:45",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180280\/f1aaa\/thumb-3304-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180280\/f1aaa\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180280\/f1aaa\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111180280\/cc\/vtt\/en_1504154953.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/weather-direct\/114661406-111180280"
+        },
+        {
+            "id": "111180447",
+            "title": "Hoover LiNX Cordless Hand Stick Vacuum",
+            "date_created": "1502924623",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "158",
+                    "width": 960,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180447\/41ae1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180447\/41ae1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180447\/41ae1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180447\/41ae1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180447\/41ae1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "158",
+                "prettyDuration": "00:02:38",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180447\/41ae1\/thumb-4848-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180447\/41ae1\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180447\/41ae1\/media.m3u8"
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/hoover-linx-cordless-hand-stick-vacuum\/114661406-111180447"
+        },
+        {
+            "id": "110008645",
+            "title": "Hamilton Beach Single Serve Blender",
+            "date_created": "1502526046",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "126",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "126",
+                "prettyDuration": "00:02:06",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110008645\/ff525\/thumb-037cd5f94e19671ca6a150d85e1e48cc-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110008645\/ff525\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110008645\/ff525\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008645\/ff525\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008645\/ff525\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008645\/ff525\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008645\/ff525\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008645\/ff525\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/110008645\/cc\/vtt\/en_1504137324.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/hamilton-beach-single-serve-blender\/114661406-110008645"
+        },
+        {
+            "id": "110004232",
+            "title": "PaloVia Skin Renewing Laser",
+            "date_created": "1502525116",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "90",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "90",
+                "prettyDuration": "00:01:30",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004232\/6a0d5\/thumb-0044db7b4e8cc2c52516eb851fe38d5d-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110004232\/6a0d5\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004232\/6a0d5\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004232\/6a0d5\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004232\/6a0d5\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004232\/6a0d5\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004232\/6a0d5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004232\/6a0d5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/110004232\/cc\/vtt\/en_1504283647.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/palovia-skin-renewing-laser\/114661406-110004232"
+        },
+        {
+            "id": "6468144",
+            "title": "Graco On-The-Go Travel Pack 'n Play Playard at Bed Bath & Beyond",
+            "date_created": "1374501355",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "http:\/\/www.bedbathandbeyond.com\/store\/product\/graco-reg-on-the-go-travel-pack-39-n-play-reg-playard-in-little-hoot\/1041226353?Keyword=graco+on+the+go ...",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CsEl6aq93h4\/hqdefault.jpg",
+                "uploadDate": 1374501355,
+                "videoId": "CsEl6aq93h4",
+                "title": "Graco On-The-Go Travel Pack 'n Play Playard at Bed Bath & Beyond",
+                "description": "http:\/\/www.bedbathandbeyond.com\/store\/product\/graco-reg-on-the-go-travel-pack-39-n-play-reg-playard-in-little-hoot\/1041226353?Keyword=graco+on+the+go ...",
+                "author": "Bedbathandbeyond",
+                "mediaDuration": "95",
+                "prettyDuration": "00:01:35",
+                "views": "637",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/graco-on-the-go-travel-pack-n-play-playard-at-bed-bath-beyond\/114661406-6468144"
+        },
+        {
+            "id": "68304923",
+            "title": "IRobot Roomba 530 Vacuum robot",
+            "date_created": "1385743623",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "IRobot Roomba 530 Vacuum robot\n\n-~-~~-~~~-~~-~-\nPlease watch: \"IRobot Pool Cleaner in action\" \n\u00e2\u017e\u00a8 https:\/\/www.youtube.com\/watch?v=zNwP11Ek90Y\n-~-~~-~~~-~~-~-",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/7BWz69uaPek\/hqdefault.jpg",
+                "uploadDate": 1385743623,
+                "videoId": "7BWz69uaPek",
+                "title": "IRobot Roomba 530 Vacuum robot",
+                "description": "IRobot Roomba 530 Vacuum robot\n\n-~-~~-~~~-~~-~-\nPlease watch: \"IRobot Pool Cleaner in action\" \n\u00e2\u017e\u00a8 https:\/\/www.youtube.com\/watch?v=zNwP11Ek90Y\n-~-~~-~~~-~~-~-",
+                "author": "IRobot Master",
+                "mediaDuration": 63,
+                "prettyDuration": "00:01:03",
+                "views": "141",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/irobot-roomba-530-vacuum-robot\/114661406-68304923"
+        },
+        {
+            "id": "109989176",
+            "title": "Zeroll&reg; Deco Spoon Set",
+            "date_created": "1502522349",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "120",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "120",
+                "prettyDuration": "00:02:00",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109989176\/1e6f8\/thumb-1a18a148453a0e5bc38da7f212a34369-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109989176\/1e6f8\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109989176\/1e6f8\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989176\/1e6f8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989176\/1e6f8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989176\/1e6f8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989176\/1e6f8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989176\/1e6f8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109989176\/cc\/vtt\/en_1504813128.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/zeroll-deco-spoon-set\/114661406-109989176"
+        },
+        {
+            "id": "110005392",
+            "title": "Anti-Fatigue Comfort Mat",
+            "date_created": "1502525450",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "70",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "70",
+                "prettyDuration": "00:01:10",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110005392\/92541\/thumb-404d19ea19a7e9861364593387e4fb53-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110005392\/92541\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110005392\/92541\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/110005392\/cc\/vtt\/en_1517250155.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110005392\/92541\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110005392\/92541\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110005392\/92541\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110005392\/92541\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110005392\/92541\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/anti-fatigue-comfort-mat\/114661406-110005392"
+        },
+        {
+            "id": "106044038",
+            "title": "Breville -- One-Touch Tea Maker",
+            "date_created": "1289249154",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "For more about Breville products visit: www.brevilleusa.com\n\nAn overview of the One-Touch Tea Maker by Breville\n\nSubscribe to our YouTube Channel:\nhttp:\/\/www.youtube.com\/subscription_center?add_user=breville\n\nLike us on Facebook:\nhttps:\/\/www.facebook.com\/brevilleusa\n\nPin us on Pinterest:\nhttp:\/\/pinterest.com\/brevilleusa\/\n\nFollow us on Twitter:\nhttps:\/\/twitter.com\/brevilleusa",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/l8aSFfukm-Y\/hqdefault.jpg",
+                "uploadDate": 1289249154,
+                "videoId": "l8aSFfukm-Y",
+                "title": "Breville -- One-Touch Tea Maker",
+                "description": "For more about Breville products visit: www.brevilleusa.com\n\nAn overview of the One-Touch Tea Maker by Breville\n\nSubscribe to our YouTube Channel:\nhttp:\/\/www.youtube.com\/subscription_center?add_user=breville\n\nLike us on Facebook:\nhttps:\/\/www.facebook.com\/brevilleusa\n\nPin us on Pinterest:\nhttp:\/\/pinterest.com\/brevilleusa\/\n\nFollow us on Twitter:\nhttps:\/\/twitter.com\/brevilleusa",
+                "author": "breville",
+                "mediaDuration": 101,
+                "prettyDuration": "00:01:41",
+                "views": "43426"
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/breville-one-touch-tea-maker\/114661406-106044038"
+        },
+        {
+            "id": "111180386",
+            "title": "Moshi v4a",
+            "date_created": "1502924519",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "250",
+                    "width": 800,
+                    "height": 600
+                },
+                "mediaDuration": "250",
+                "prettyDuration": "00:04:10",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180386\/8e147\/thumb-4037-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180386\/8e147\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180386\/8e147\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111180386\/cc\/vtt\/en_1516899918.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180386\/8e147\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 800,
+                        "height": 600
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180386\/8e147\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 800,
+                        "height": 600
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180386\/8e147\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180386\/8e147\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180386\/8e147\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/moshi-v4a\/114661406-111180386"
+        },
+        {
+            "id": "111180504",
+            "title": "Dyson The Ball - DC25 Animal DC25 DC24",
+            "date_created": "1502924708",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "50",
+                    "width": 320,
+                    "height": 240
+                },
+                "mediaDuration": "50",
+                "prettyDuration": "00:00:50",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180504\/ac455\/thumb-5562-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180504\/ac455\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180504\/ac455\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111180504\/cc\/vtt\/en_1516395347.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180504\/ac455\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180504\/ac455\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180504\/ac455\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180504\/ac455\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180504\/ac455\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/dyson-the-ball-dc25-animal-dc25-dc24\/114661406-111180504"
+        },
+        {
+            "id": "111179818",
+            "title": "Touch N Brush Toothpaste Dispenser",
+            "date_created": "1502923244",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "79",
+                    "width": 960,
+                    "height": 720
+                },
+                "mediaDuration": "79",
+                "prettyDuration": "00:01:19",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179818\/36749\/thumb-11358-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179818\/36749\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179818\/36749\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111179818\/cc\/vtt\/en_1516985728.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179818\/36749\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179818\/36749\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179818\/36749\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179818\/36749\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179818\/36749\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/touch-n-brush-toothpaste-dispenser\/114661406-111179818"
+        },
+        {
+            "id": "110010819",
+            "title": "Graco Pack N Play with Cuddle Cove Rocking Seat",
+            "date_created": "1502526312",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "80",
+                    "width": 480,
+                    "height": 270
+                },
+                "mediaDuration": "80",
+                "prettyDuration": "00:01:20",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110010819\/8af97\/thumb-8ee087af28225ff26118b56ca1b519cb-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110010819\/8af97\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110010819\/8af97\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110010819\/8af97\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110010819\/8af97\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110010819\/8af97\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110010819\/8af97\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110010819\/8af97\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/110010819\/cc\/vtt\/en_1504204217.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/graco-pack-n-play-with-cuddle-cove-rocking-seat\/114661406-110010819"
+        },
+        {
+            "id": "109989185",
+            "title": "Moen Adjustable Curved Shower Rod",
+            "date_created": "1502522387",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "60",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/647784979-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109989185\/7ba67\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109989185\/7ba67\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109989185\/cc\/vtt\/en_1516728129.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989185\/7ba67\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989185\/7ba67\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989185\/7ba67\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989185\/7ba67\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989185\/7ba67\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/moen-adjustable-curved-shower-rod\/114661406-109989185"
+        },
+        {
+            "id": "110004230",
+            "title": "How to Measure a Rug by Mohawk Rug",
+            "date_created": "1502525101",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "123",
+                    "width": 512,
+                    "height": 288
+                },
+                "mediaDuration": "123",
+                "prettyDuration": "00:02:03",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004230\/3cce3\/thumb-f41c86aa2219fc4545c5176f4de48932-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110004230\/3cce3\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004230\/3cce3\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004230\/3cce3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004230\/3cce3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004230\/3cce3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004230\/3cce3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004230\/3cce3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/110004230\/cc\/vtt\/en_1504283679.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/how-to-measure-a-rug-by-mohawk-rug\/114661406-110004230"
+        },
+        {
+            "id": "109989202",
+            "title": "OXO Good Grips&reg; Brushed Stainless Steel Tea Kettle",
+            "date_created": "1502522419",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "54",
+                    "width": 864,
+                    "height": 486
+                },
+                "mediaDuration": "54",
+                "prettyDuration": "00:00:54",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109989202\/f4d53\/thumb-a20c944f8da966664780437fb9d5fe70-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109989202\/f4d53\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109989202\/f4d53\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989202\/f4d53\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989202\/f4d53\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989202\/f4d53\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989202\/f4d53\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989202\/f4d53\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109989202\/cc\/vtt\/en_1504813028.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/oxo-good-grips-brushed-stainless-steel-tea-kettle\/114661406-109989202"
+        },
+        {
+            "id": "67188619",
+            "title": "KitchenAid\u00ae Sausage Stuffer Attachment",
+            "date_created": "1460664060",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "For additional information on the featured product please visit: http:\/\/www.surlatable.com\/product\/PRO-691329\/KitchenAid+Sausage+Stuffer+Attachment\n\nIdeal for making homemade bratwurst, kielbasa, and Italian or Polish sausage. Includes two stuffing tubes, 3\/8\" and 5\/8\". Can be used with any KitchenAid stand mixer.\n\nFor more about Sur La Table, visit www.surlatable.com\n\nSubscribe to our YouTube Channel:\nhttp:\/\/www.youtube.com\/user\/SurLaTableCorp\n\nLike us on Facebook:\nhttps:\/\/www.facebook.com\/surlatable\/\n\nPin us on Pinterest:\nhttp:\/\/pinterest.com\/surlatable\/\n\nFollow us on Twitter:\nhttps:\/\/twitter.com\/Sur_La_Table",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/BY4lN3p8HYw\/hqdefault.jpg",
+                "uploadDate": 1460664060,
+                "videoId": "BY4lN3p8HYw",
+                "title": "KitchenAid\u00ae Sausage Stuffer Attachment",
+                "description": "For additional information on the featured product please visit: http:\/\/www.surlatable.com\/product\/PRO-691329\/KitchenAid+Sausage+Stuffer+Attachment\n\nIdeal for making homemade bratwurst, kielbasa, and Italian or Polish sausage. Includes two stuffing tubes, 3\/8\" and 5\/8\". Can be used with any KitchenAid stand mixer.\n\nFor more about Sur La Table, visit www.surlatable.com\n\nSubscribe to our YouTube Channel:\nhttp:\/\/www.youtube.com\/user\/SurLaTableCorp\n\nLike us on Facebook:\nhttps:\/\/www.facebook.com\/surlatable\/\n\nPin us on Pinterest:\nhttp:\/\/pinterest.com\/surlatable\/\n\nFollow us on Twitter:\nhttps:\/\/twitter.com\/Sur_La_Table",
+                "author": "SurLaTableCorp",
+                "mediaDuration": 51,
+                "prettyDuration": "00:00:51",
+                "views": "105"
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/kitchenaid-sausage-stuffer-attachment\/114661406-67188619"
+        },
+        {
+            "id": "119182432",
+            "title": "Magic Tracks",
+            "date_created": "1506107670",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Kids will love creating their own glow in the dark speedway with Magic Tracks. Watch as the LED light-up cars fly down the tracks, following the crazy twists and turns. Turn the lights off for even more excitement and see your tracks glow.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "79",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "79",
+                "prettyDuration": "00:01:19",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119182432\/2c445\/thumb-1b8ba0f17d4ed2c82a0c42b0f908861a-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/119182432\/2c445\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/119182432\/2c445\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119182432\/2c445\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119182432\/2c445\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119182432\/2c445\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119182432\/2c445\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119182432\/2c445\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/magic-tracks-web-mp4\/114661406-119182432"
+        },
+        {
+            "id": "111180483",
+            "title": "Cuisinart BFP 10CH Blender Food Processor",
+            "date_created": "1502924663",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "120",
+                    "width": 480,
+                    "height": 270
+                },
+                "mediaDuration": "120",
+                "prettyDuration": "00:02:00",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180483\/18ef6\/thumb-5496-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180483\/18ef6\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180483\/18ef6\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111180483\/cc\/vtt\/en_1516652677.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180483\/18ef6\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180483\/18ef6\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180483\/18ef6\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180483\/18ef6\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180483\/18ef6\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/cuisinart-bfp-10ch-blender-food-processor\/114661406-111180483"
+        },
+        {
+            "id": "111179809",
+            "title": "Shake Weight",
+            "date_created": "1502923206",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "85",
+                    "width": 960,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179809\/082fb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179809\/082fb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179809\/082fb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179809\/082fb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179809\/082fb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "85",
+                "prettyDuration": "00:01:25",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179809\/082fb\/thumb-11337-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179809\/082fb\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179809\/082fb\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111179809\/cc\/vtt\/en_1504132970.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/shake-weight\/114661406-111179809"
+        }
+    ]
+}

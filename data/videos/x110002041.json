@@ -1,0 +1,117 @@
+{
+    "title": "Breville&reg; The Scraper Mix Pro BEM800XL 5-Quart Stand Mixer",
+    "description": "",
+    "referenceId": "1967965593",
+    "date_created": "1502524636",
+    "date_modified": "1516648713",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110002041",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "breville-the-scraper-mix-pro-bem800xl-5-quart-stand-mixer",
+    "category": "",
+    "duration": "107",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "107",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "107",
+        "prettyDuration": "00:01:47",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110002041\/75996\/thumb-afa11019673f6081c11e227b81e76d6b-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110002041\/75996\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110002041\/75996\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110002041\/cc\/vtt\/en_1516648708.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002041\/75996\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002041\/75996\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002041\/75996\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002041\/75996\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110002041\/75996\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": "This is the Breville 5 quart Die Cast Stand Mixer. It comes with a 5 quart stainless steel bowl and handle. And you just align it to the arrows and lock it into place. And it comes with the scraper beater and what really makes this attachment unique are the rubber edges on the beater. And this eliminates the need for having to hand scrape the bowl and cuts the mixing time of up to 60%.\r\n\r\nThe scraper beater is used for creaming butter and sugar and you might use this for a cake batter, cookies or frosting. The flat beater is for normal or heavy mixtures like mashed potatoes and biscuits. The wire whip is for adding air to mixtures. So you\u0092d want to use this if you\u0092re making egg whites or meringues and whipped cream. The dough hook would be used for heavy dough mixtures and for bread or pizza dough. And all the accessories are really easy to go on. Just slot it on just like that.\r\n\r\nYou also have this two-piece pouring shield so you can add your ingredients without spilling them. It just goes on like this. So if you\u0092re adding your flour it will just funnel straight in. And the lift assist handle is at the front for even improved usability.\r\n\r\nAnd the 550 watt base has an LED speed indicator and it has 12 speed control dial and pause function. The LCD timer can time up to 10 minutes. So all these attachments and the bowl are dishwasher safe but the base needs to be wiped down with a damp cloth.\r\n\r\n\r\n\r\nThe Breville 5 quart Die Cast Stand Mixer, this innovation is built for baking.",
+    "VV_VI": 131,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "Douglas.French",
+    "modified_date": "7\/24\/2015",
+    "created_date": "7\/24\/2015",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 301.5996,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

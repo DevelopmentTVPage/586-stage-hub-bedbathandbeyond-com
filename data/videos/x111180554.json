@@ -1,0 +1,117 @@
+{
+    "title": "Waring Pro DF250B Professional Deep Fryer",
+    "description": "",
+    "referenceId": "5703",
+    "date_created": "1502924752",
+    "date_modified": "1516665170",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180554",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "waring-pro-df250b-professional-deep-fryer",
+    "category": "",
+    "duration": "139",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "139",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "139",
+        "prettyDuration": "00:02:19",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180554\/4e42d\/thumb-5703-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180554\/4e42d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180554\/4e42d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180554\/4e42d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180554\/4e42d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180554\/4e42d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180554\/4e42d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180554\/4e42d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180554\/cc\/vtt\/en_1516665170.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "Hello. My name is Fabrite Sebotarra, Executive Chef for Waring. We have our deep fryer, Professional Deep Fryer here, 1,800 watts, brushed stainless steel. Let me show you all the features and benefits.\r\n\r\nNumber one, we have a breakaway cord in the back, and you will see that this light will turn off the minute I take the cord out. It's magnetic, so it's very, very easy to put in and out, but it's very safe. Here we go. Now, the lights are back on.\r\n\r\nWe have a see-through permanent lid. You can see right here. And it has a permanent filter right in here. We have a large basket, and we also have one gallon enamel container right here. Here is the basket. It fits right on top.\r\n\r\nWe can put some French fries in. Oh, then before I do that, I'll show you a submergible heater right here. See? Really easy, the oil gets really, really hot inside. It's perfect for frying, very, very fast recovery, also with a timer.\r\n\r\nHere we go. I'm gonna put some French fries in. You can cover it if you don't want any odors coming out, and you can see exactly what goes on through the lid.\r\n\r\nCollapsible handle, it's just perfect to fry with. So enjoy your frying, and within a minute, a minute and a half, you'll have some French fries. I'll show you. Here we go. They're just about done, nice and crisp, gorgeous. A little bit of sea salt, and enjoy your frying. Mmm, crisp and delicious. Thank you.",
+    "VV_VI": 7,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "jason",
+    "modified_date": "8\/30\/2012",
+    "created_date": "10\/30\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1724.1255,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

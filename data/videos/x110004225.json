@@ -1,0 +1,119 @@
+{
+    "title": "BabyBjorn Carrier Extended",
+    "description": "",
+    "referenceId": "42404",
+    "date_created": "1502525086",
+    "date_modified": "1516820311",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110004225",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "babybjorn-carrier-extended",
+    "category": "",
+    "duration": "170",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "170",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "170",
+        "prettyDuration": "00:02:50",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004225\/99eb6\/thumb-2bccc2b35f4ae513eebbe5ed2808092b-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004225\/99eb6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004225\/99eb6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110004225\/cc\/vtt\/en_1516820295.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004225\/99eb6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004225\/99eb6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004225\/99eb6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004225\/99eb6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004225\/99eb6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Since more than 30 million babies have been carried in BabyBjorn baby carriers. BabyBjorn offers a variety of baby carrier designs. Options include added lumbar support, lightweight, breathable mesh fabric and 100 percent organic cotton. All BabyBjorn baby carriers are safe for your child and easy for you to put on and take off without assistance. All buckles are equipped with latches that prevent them from opening. Some models offer additional back support for extra comfort and stability. Our carriers are designed to promote the close physical contact so important during the first six months of your baby's life, keeping your newborn in an ergonomic upright position high on your chest, and are designed to ensure the proper support for your baby's head, neck, spine and hips. And our baby carriers are developed in close collaboration with leading pediatricians. Our unique two piece design allows you to easily remove your sleeping baby. Machine washable and easy to adjust, all of our BabyBjorn baby carriers grow with your child, allowing older babies to face in or out, move their arms and legs freely and helping them develop their motor skills while exploring the world close to Mom or Dad.\n\nBaby Carrier Original is based on the original design developed over 38 years ago. Baby Carrier Air is made from a soft mesh material for enhanced breathability and comfort. Baby Carrier Active features a lumbar support panel to provide greater back support and stability. Baby Carrier Synergy combines a lumbar support panel plus mesh breathability for even greater comfort for you and baby. Comfort Carrier is specially designed for carrying older babies from three months to 31 pounds. Baby Carrier Miracle, our newest innovation, features an ergonomic waist belt and the ability to transfer your baby's weight between your hips and shoulders. Baby Carrier Original, Active, Miracle and Comfort Carrier are also available in 100 percent organic cotton. BabyBjorn, safe, quality products that make everyday life easier for families with small children. Learn more at babybjorn.com.",
+    "VV_VI": 7,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "2\/3\/2012",
+    "created_date": "2\/3\/2012",
+    "tvp_profiles": [
+        "9",
+        "25",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 3178.2954,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

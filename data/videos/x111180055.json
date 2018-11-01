@@ -1,0 +1,117 @@
+{
+    "title": "Path In Season 3D Wall Art",
+    "description": "",
+    "referenceId": "18057",
+    "date_created": "1502923770",
+    "date_modified": "1504247458",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180055",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "path-in-season-3d-wall-art",
+    "category": "",
+    "duration": "24",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "24",
+            "width": 372,
+            "height": 244
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180055\/d50f9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 372,
+                "height": 244
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180055\/d50f9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 372,
+                "height": 244
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180055\/d50f9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 372,
+                "height": 244
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180055\/d50f9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 372,
+                "height": 244
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180055\/d50f9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 210
+            }
+        ],
+        "mediaDuration": "24",
+        "prettyDuration": "00:00:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180055\/d50f9\/thumb-18057-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180055\/d50f9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180055\/d50f9\/media.m3u8",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180055\/cc\/vtt\/en_1504196064.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": null,
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "11\/11\/2010",
+    "tvp_profiles": [
+        "3",
+        "30",
+        "52"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 247.37042,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

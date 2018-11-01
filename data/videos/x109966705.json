@@ -1,0 +1,117 @@
+{
+    "title": "Therapedic&reg; Mattress Pad",
+    "description": "",
+    "referenceId": "1144464235",
+    "date_created": "1502518093",
+    "date_modified": "1516297160",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "109966705",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "therapedic-mattress-pad",
+    "category": "",
+    "duration": "139",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "139",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "139",
+        "prettyDuration": "00:02:19",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966705\/5d08d\/thumb-6e102748c9a76077797deb3917ece615-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109966705\/5d08d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966705\/5d08d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109966705\/cc\/vtt\/en_1516297154.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966705\/5d08d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966705\/5d08d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966705\/5d08d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966705\/5d08d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966705\/5d08d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "A Therapedic mattress pad is a smart investment. It not only provides an extra layer of comfort, it also can protect and extend the life of your existing mattress. When searching for a mattress pad, pick one that provides the right level of comfort, protection and fit.\r\n\r\n \r\n\r\nSo, what Therapedic mattress pad is right for you? The Therapedic 250 thread count mattress pad offers waterproof protection. It has seven ounces of hypoallergenic, \u0093high loft\u0094 fiberfill for plumpness and comfort and uses a smooth, breathable 250 cotton thread count fabric for comfort. It features an \u0093ultra dry\u0094 waterproof barrier backing with the added protection of stain release and stain repel technology, plus odor eliminator and anti-microbial protection. It is designed to fit mattresses up to 20 inches deep.\r\n\r\n \r\n\r\nThe Therapedic 300 Ultrasoft cotton mattress pad offers more comfort than the 250 thread count Therapedic mattress pad. It features 10 ounces of anti-microbial, hypoallergenic, \u0093high loft\u0094 fiberfill for comfort, as well as a breathable 300 thread count fabric with stain release and stain repel technology. It is designed to fit mattresses up to 20 inches deep.\r\n\r\n \r\n\r\nIf it\u0092s better protection, comfort and fit you\u0092re looking for, consider the Therapedic 400 thread count combed cotton mattress pad. Designed to fit mattresses up to 20 inches deep, it has 12 ounces per square yard of antimicrobial fill for better comfort; odor elimination technology, as well as a 400 thread count breathable cotton fabric with stain release and stain repel features.\r\n\r\n \r\n\r\nThe Therapedic 500 thread count Egyptian cotton mattress pad offers the ultimate in loft and support. It has a full 15 ounces per square yard of fill for ultimate comfort, as well as all the protection features of the other pads including odor elimination technology, stain release and stain repel features, plus anti-microbial fill. Therapedic\u0092s 500 thread count Egyptian cotton mattress pad fits the deepest mattresses up to 24 inches deep.\r\n\r\n \r\n\r\n\r\n\r\nTo ensure the ultimate night\u0092s sleep, see our videos on choosing the right mattress topper and pillow for you!",
+    "VV_VI": 81,
+    "CVV_VI": 13,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "douglas.french",
+    "modified_date": "6\/25\/2015",
+    "created_date": "6\/25\/2015",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 153.29266,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

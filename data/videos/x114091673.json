@@ -1,0 +1,127 @@
+{
+    "title": "Salsa The Super Condiment",
+    "description": "",
+    "referenceId": "046e1471fbf1722fe9a39b6b6a30e018",
+    "date_created": "1503707203",
+    "date_modified": "1505841125",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "114091673",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Salsa-The-Super-Condiment-mp4",
+    "category": "",
+    "duration": "61",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "61",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "61",
+        "prettyDuration": "00:01:01",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/114091673\/351c8\/thumb-046e1471fbf1722fe9a39b6b6a30e018-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/114091673\/351c8\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/114091673\/351c8\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/114091673\/351c8\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/114091673\/351c8\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/114091673\/351c8\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/114091673\/351c8\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/114091673\/351c8\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/114091673\/cc\/vtt\/en_1505841125.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "Can you guess the number one condiment in America? Ketchup? No. Mustard? Nope. It's salsa. And because it's already a combo of so many great veggies, you can use it for so many things, like turning it into a delicious frittata. Or using it to gently poach eggs. Maybe layer it with cheese and tortillas for a tremendous chilaquiles. How about mixed with sour cream as a dip for chicken fingers. Or simmered with sour cream for an amazing two ingredient sauce for fish. Then there's using it for a very simple bruschetta. What about putting it with chicken broth for a two ingredient tortilla soup. Or mixed with shredded chicken as the stuffing for enchiladas. And how about using it instead of tomato sauce for a delicious sloppy Jose. And on the chance you're now hungry for some salsa, there's a great recipe for a simple tomatillo version right here on this page. Happy salsa-ing. ",
+    "VV_VI": 285,
+    "CVV_VI": 20,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-06-15"
+        }
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": "",
+    "tvp_profiles": [
+        "9",
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1208.4368,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,24 @@
+{
+    "title": "Latest Videos",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1503958682",
+    "date_modified": "1529088702",
+    "tags": null,
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "114661406",
+    "loginId": "1758166",
+    "entityType": "3",
+    "titleTextEncoded": "Latest-Videos",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "enableSubscribers": true
+    },
+    "transcripts": null
+}

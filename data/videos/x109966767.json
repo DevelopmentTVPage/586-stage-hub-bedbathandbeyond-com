@@ -1,0 +1,117 @@
+{
+    "title": "Breville Gourmet Single Cup Brewer BKC700XL",
+    "description": "",
+    "referenceId": "11609",
+    "date_created": "1502518291",
+    "date_modified": "1504247455",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "109966767",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "breville-gourmet-single-cup-brewer-bkc700xl",
+    "category": "",
+    "duration": "126",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "126",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "126",
+        "prettyDuration": "00:02:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966767\/0cfd3\/thumb-f7250d8afbcecf95134f3a58d074b10c-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109966767\/0cfd3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966767\/0cfd3\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109966767\/cc\/vtt\/en_1504221842.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966767\/0cfd3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966767\/0cfd3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966767\/0cfd3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966767\/0cfd3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109966767\/0cfd3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": "This is the upgraded version of the Breville Gourmet Single Cup Brewer with quiet brew technology. Designed with Keurig's patented K-Cup technology, everyone can enjoy their preferred flavor of coffee, tea or hot chocolate with the freshness locked into every cup. Now if I tear one of these K-Cups open, you'll notice that there's a paper filter with a precise measure of coffee. This is like having a completely fresh cup of drip coffee guaranteed in every K-Cup. And because there's over 200 varieties of K-Cups, you can mix up your daily brew from a K-Cup that is bold and robust or choose one of the decaf varieties.\n\nThe intuitive LCD screen is simple to navigate. There are five preset brew sizes. Simply navigate through to select your favorite brew size. There's also a feature for iced beverages. Fill your glass with ice. Choose your flavor, and brew the 3.5-ounce shot. And then, just add a dash of milk for a refreshing iced drink. This machine also comes with the My K-Cup feature. That lets you brew any coffee brand of your preference. Just switch out the K-Cup and place it in the storage compartment at the back. Fill up the filter basket with your favorite coffee grind using the included scoop and brew. It's like a reusable K-Cup. And for people on the go, you can take out the drip tray so you can actually fit a travel size mug. So to make your brew, you select your K-Cup and your brew size, then you put your K-Cup into the chamber and the cup underneath, and then just press brew. Then, you simply take the used K-Cup out and toss it away.\n\nThe Gourmet Single Cup Brewer, another great innovation by Breville.",
+    "VV_VI": 4,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "9\/5\/2013",
+    "created_date": "5\/13\/2010",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 28.20015,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

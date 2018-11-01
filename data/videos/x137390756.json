@@ -1,0 +1,127 @@
+{
+    "title": "KidKraft 'Wooden' Cabana Sandbox - Item 00504",
+    "description": "KidKraft's Cabana Sandbox lets kids go on all kinds of wonderful adventures without even leaving the backyard. The roll-up cover, with mesh windows, is perfect for days when it's a little too windy or sunny for a normal day of outdoor play. The main structure is made of sanmu weather-resistant outdoor wood, and comes with three storage bins. Features include:\n*Roll-up mesh cover with windows\n*3 convenient storage bins\n*Made of sanmu weather-resistant outdoor wood\n*Mesh cover included with the sand box\n*Packaged with detailed, step-by-step assembly instructions\n*Includes a clear plastic liner that goes underneath the sand\n\nDimensions: 57.25\"L x  48.25\"W x 50.5\"H\nMaterials: Solid Wood, Stainless Steel, PP, Canvas\nCountry of Origin: China",
+    "referenceId": "91099e662eb3bb74973be64d1061af27",
+    "date_created": "1515785532",
+    "date_modified": "1515786543",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "137390756",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "KidKraft-Wooden-Cabana-Sandbox-Item-00504-mp4",
+    "category": "",
+    "duration": "45",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "45",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "45",
+        "prettyDuration": "00:00:45",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1280\/717\/617518353-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390756\/7ddc2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390756\/7ddc2\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390756\/cc\/vtt\/en_1515785982.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390756\/7ddc2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390756\/7ddc2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390756\/7ddc2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390756\/7ddc2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390756\/7ddc2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 7,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-03"
+        }
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": "",
+    "tvp_profiles": [
+        "9",
+        "4",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 11.025865,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,123 @@
+{
+    "title": "Cr\u00e8me De La Cr\u00e8me Milk 300-Thead-Count Cotton Pillowcases",
+    "description": "",
+    "referenceId": "92f27573fe849058ed36dad3c93c8f67",
+    "date_created": "1507828694",
+    "date_modified": "1508342247",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "bedding",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "122899743",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "JLAHome-300TC-CottonSheets-mp4",
+    "category": "",
+    "duration": "60",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "60",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/122899743\/87105\/thumb-92f27573fe849058ed36dad3c93c8f67-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/122899743\/87105\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/122899743\/87105\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/122899743\/cc\/vtt\/en_1508342230.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/122899743\/87105\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/122899743\/87105\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/122899743\/87105\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/122899743\/87105\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/122899743\/87105\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "For years we\u2019ve taken milk baths to relax and revitalize. Our bodies naturally absorb the benefits of the amino acids, aiding in reducing wrinkles and helping your skin look healthier and younger.\n\nImagine receiving the same benefits while you sleep. Imagine a sheet woven with milk fibers.  A sheet that contains 10 kinds of amino acids that nourish your skin. A sheet that naturally promotes your skins antimicrobial properties.\n\nA sheet that is soft to the touch, naturally breathable and moisture absorbent, created to fit premium mattresses up to 17 inches deep, and is 100 percent machine washable.\n\nHydrate your skin while you sleep. Available exclusively at Bed, Bath, and Beyond.",
+    "VV_VI": 41,
+    "CVV_VI": 7,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "10\/12\/17",
+    "tvp_profiles": [
+        "18",
+        "4",
+        "9"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1208.4631,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

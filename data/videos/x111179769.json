@@ -1,0 +1,117 @@
+{
+    "title": "Back2Life&trade; Therapeutic Massager",
+    "description": "",
+    "referenceId": "11199",
+    "date_created": "1502923112",
+    "date_modified": "1516650249",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111179769",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "back2life-therapeutic-massager",
+    "category": "",
+    "duration": "123",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "123",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "123",
+        "prettyDuration": "00:02:03",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179769\/6f58d\/thumb-11199-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179769\/6f58d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179769\/6f58d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179769\/cc\/vtt\/en_1516650244.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179769\/6f58d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179769\/6f58d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179769\/6f58d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179769\/6f58d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179769\/6f58d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": "Back2Life\u0099 Therapeutic Massager\r\n\r\nThe Back2Life\u0099 uses a revolutionary technique, Continuous Passive Motion, to naturally ease lower back pain. The slow, rhythmic  Back2Life Massagermovement loosens tight muscles and releases the pressure between the vertebrae to relieve the pain. Continuous Passive Motion gently flexes your spine to ease away lower back pain without aggressive pulling and kneading, painful exercises and stretches, or expensive trips to the back pain specialist. Simply lay back on a flat surface, situate yourself onto the unit and let the Continuous Passive Motion gently soothe tight muscles and release the pressure between vertebrae. Measures 19 1\/2\" H x 12 1\/4\" W x 11\" D. Includes a 17-page, full color informational brochure and user manual. Some assembly required. UL listed. Model # BLR-0501.",
+    "VV_VI": 5,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "4\/28\/2010",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 855.99884,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

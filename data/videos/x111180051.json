@@ -1,0 +1,118 @@
+{
+    "title": "OXO Good Grips Press-Sure Corner Caddy",
+    "description": "",
+    "referenceId": "1792959916",
+    "date_created": "1502923760",
+    "date_modified": "1516657327",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180051",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "oxo-good-grips-press-sure-corner-caddy",
+    "category": "",
+    "duration": "55",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "55",
+            "width": 854,
+            "height": 480
+        },
+        "mediaDuration": "55",
+        "prettyDuration": "00:00:55",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180051\/31f1d\/thumb-1792959916-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180051\/31f1d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180051\/31f1d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180051\/cc\/vtt\/en_1516657322.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180051\/31f1d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180051\/31f1d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180051\/31f1d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180051\/31f1d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180051\/31f1d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "The Press-Sure Corner Caddy works differently than suction products using pressure and friction to hold it in place.\r\n\r\nFirst, align the caddy and your shower wall. Then press the center button, and that's it. Pressing the button in the center activates the compression points pushing the soft nonslip pads securely to the wall.\r\n\r\nJust like our other bath storage products the Press-Sure Corner Caddy includes handy features like: metal hooks for hanging razors, and more; an edge guard that doubles as a bar for hanging washcloths; and small holes for storing shampoo bottles upside down.\r\n\r\nThe Press-Sure Corner Caddy holds securely to a variety of surfaces including tile, stone, marble and glass.\r\n\r\nFill your caddy and you're ready to go.",
+    "VV_VI": 198,
+    "CVV_VI": 10,
+    "engagement_score": 0,
+    "conversion_score": 1,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "FTP",
+    "modified_date": "1\/22\/2013",
+    "created_date": "1\/22\/2013",
+    "tvp_profiles": [
+        "18",
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 297.3201,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

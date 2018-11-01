@@ -1,0 +1,119 @@
+{
+    "title": "Star Wars\u2122 BB-9E App-Enabled Droid with Trainer",
+    "description": "Using the power of the Force, or more aptly your smartphone or tablet, you can control the Star Wars BB-9E App-Enabled Droid. This menacing First Order astromech is an absolute blast to control, especially as it interacts with other App-Enabled Droids.",
+    "referenceId": "78bc700e98e3bf5be7fc6d74699dd7f6",
+    "date_created": "1505226874",
+    "date_modified": "1519747677",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "toys_and_learning",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "all_concepts",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "117452973",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "SpheroSW-BB9E-POPVideo-mp4",
+    "category": "",
+    "duration": "78",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "78",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "78",
+        "prettyDuration": "00:01:18",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/523\/248\/460495227-01523249.png",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/117452973\/64e2f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/117452973\/64e2f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/117452973\/cc\/vtt\/en_1516730927.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117452973\/64e2f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117452973\/64e2f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117452973\/64e2f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117452973\/64e2f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117452973\/64e2f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 764,
+    "CVV_VI": 1,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-02-09\"}}",
+    "delete": "",
+    "notes": "No spoken words.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "9\/12\/17",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 8865.331,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

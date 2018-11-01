@@ -1,0 +1,119 @@
+{
+    "title": "iHome iA5 App-Enhanced Alarm Clock Speaker System for iPhone and iPod",
+    "description": "",
+    "referenceId": "11082",
+    "date_created": "1502923089",
+    "date_modified": "1516736861",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111179759",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "ihome-ia5-app-enhanced-alarm-clock-speaker-system-for-iphone-and-ipod",
+    "category": "",
+    "duration": "125",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "125",
+            "width": 320,
+            "height": 240
+        },
+        "mediaDuration": "125",
+        "prettyDuration": "00:02:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179759\/2d8c2\/thumb-11082-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179759\/2d8c2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179759\/2d8c2\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179759\/cc\/vtt\/en_1516736856.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179759\/2d8c2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179759\/2d8c2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179759\/2d8c2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179759\/2d8c2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179759\/2d8c2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Introducing iHome's iA5, the first alarm clock for iHome or iPod designed to work with its own free app, iHome + Sleep. The iA5 does all the things you expect from an iHome product. It charges, it sounds great, and lets you wake or sleep to your favorite music. Just download the free app from the App Store, and before you know it, you have some amazing extras at your fingertips. The iA5 and iHome + Sleep work together to harness the power and ease of the iPhone operating system. Whether it's basics like overnight news and localized weather, or more details like sleep stats or getting reminders when you wake up, or sharing your status with friends on Facebook or Twitter, it does so much.\r\n\r\nAnd the app interacts beautifully with the iA5. For instance, let's use the app to sync the iA5 clock to the iPhone time, or to adjust the display settings on the iA5. It's fantastic what you can do really. For instance, let's say you want to sleep in late on Wednesday but have to wake up early for an appointment on Thursday but later on Friday. Select an alarm card, pick the alarm time, how often you want it to go, what you want to wake up to, rock music or something more mellow. Then slide the alarm card down. It's set, active, it's ready to wake you up. Of course, the world is full of young men and women who forget to set their alarms properly or didn't have any fun doing it.\r\n\r\nThat can't happen with the iA5 and the free iHome + Sleep app. It's fun all on its own almost all the time and, it's really useful. Did I it's free? Go to the App Store and download it right now, and tell your friends, too. One-third of your life just became more fun. Don't forget to become our fan on Facebook.",
+    "VV_VI": 3,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-04-04\"},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "4\/27\/2010",
+    "tvp_profiles": [
+        "18",
+        "11",
+        "12"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1921.7069,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

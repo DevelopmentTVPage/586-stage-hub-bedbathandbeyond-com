@@ -1,0 +1,119 @@
+{
+    "title": "Pandigital Novel 7&quot; Color Multimedia eReader",
+    "description": "",
+    "referenceId": "16623",
+    "date_created": "1502923665",
+    "date_modified": "1516657640",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180013",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "pandigital-novel-7-color-multimedia-ereader",
+    "category": "",
+    "duration": "156",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "156",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "156",
+        "prettyDuration": "00:02:36",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180013\/59e0b\/thumb-16623-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180013\/59e0b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180013\/59e0b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180013\/cc\/vtt\/en_1516657621.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180013\/59e0b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180013\/59e0b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180013\/59e0b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180013\/59e0b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180013\/59e0b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Introducing the Pandigital Novel by Pandigital, a mutimedia eReader with a vivid full-color touchscreen display, a novel approach to reading.  With the Pandigital Novel, you can store and enjoy hundreds of your favorite books, magazines, and newspapers all in a single device. And with built in WIFI connectivity, you have instant access to the Barnes & Noble eBook store offering you instant access to over a million eBooks, magazines, and newspapers to explore and enjoy. You can create custom bookshelves to store and categorize your books for easy browsing. And the Pandigital Novel displays both standard and night reading modes.\r\n\r\nLearn on the fly with the built-in dictionary. Simply touch and hold a word while reading to get a full definition in seconds. You can also take notes or highlight key phrases with the touch of a button. Let the Pandgitial Novel is much more than just a book. Connect to your WIFI network and be free to surf the web with the built-in web browser. Stay in touch with direct access to your e-mail. And again, access the Barnes & Noble eBook store to browse the best content.  With a click of a button, get free samples on all eBooks, save money on bestsellers, lend titles to friends and get instant access to over 500,000 free classics. Or you could simply relax and have a little fun. Play and share your favorite movies with the built-in video player. Listen to your music collection with the built-in digital audio player. Create playlists or let shuffle mix it up.\r\n\r\nThe Pandigital Novel includes a fantastic full-color photo viewer to make it easy to keep your special memories with you. And with the built-in calender, schedule your days with a simple touch and have your calender close at hand always. Enjoy full-touch screen control. Stay connected to your wifi networks. Carry hundreds of books with access to the best content. The Pandigital Novel by Pandigital - a novel approach to reading.\r\n\r\nCategories: electronic book readers, pandigital ereader, digital book readers",
+    "VV_VI": 1,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "10\/1\/2010",
+    "tvp_profiles": [
+        "18",
+        "12",
+        "11"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2097.5347,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

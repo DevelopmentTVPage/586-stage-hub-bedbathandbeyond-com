@@ -1,0 +1,117 @@
+{
+    "title": "Plant Sense",
+    "description": "",
+    "referenceId": "3924",
+    "date_created": "1502924515",
+    "date_modified": "1517251820",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180382",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "plant-sense",
+    "category": "",
+    "duration": "96",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "96",
+            "width": 320,
+            "height": 240
+        },
+        "mediaDuration": "96",
+        "prettyDuration": "00:01:36",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180382\/ba12b\/thumb-3924-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180382\/ba12b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180382\/ba12b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180382\/cc\/vtt\/en_1517251815.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180382\/ba12b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180382\/ba12b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180382\/ba12b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180382\/ba12b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180382\/ba12b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "PlantSense\u0099 EasyBloom Plant Sensor\r\n\r\nThe EasyBloom Plant Sensor is an Internet-enabled device that recommends which plants will thrive in specific locations, indoors or  PlantSenseoutdoors, and diagnoses ailing plants. Whether it's a single potted plant or an entire yard of blooms, simply place the EasyBloom Plant Sensor in the place you'd like to have thriving plant life. Over a 24-hour time period, the device will record environmental factors such as soil conditions, sunlight, moisture and temperature. After that time period, plug the sensor into you PC's USB port. The EasyBloom Web site will analyze your conditions and recommend plants that will thrive or tell you what's wrong with a dying plant. Includes USB extender cable, battery, USB connector cap and mounting accessories.\r\n\r\nAdditional Photos\r\n\r\nEasy Bloom outside\r\n\r\nEasy Bloom in garden\r\n\r\n\r\nAbout Easy Bloom\r\n\r\nThe EasyBloom Plant Sensor was created to take the guesswork out of growing indoor house plants and outdoor gardens. EasyBloom helps people with \u0093brown and green thumbs\u0094 get the garden they have always wanted while saving time and money.\r\n\r\nWhat it is\r\nEasyBloom is the first Web-based gardening tool that recommends the best plants for any location and provides expert plant care advice. By getting a \u0093plant\u0092s eye view\u0094 of soil and environmental conditions, EasyBloom helps anyone pick the right plants and care for their existing plants \u0097 from an indoor herb garden to a backyard bed of roses. It was created by PlantSense, Inc., a team of botanists, horticulturists and Web professionals based in San Francisco.\r\n\r\nHow it works\r\nPlant the EasyBloom Sensor in the soil for 24 hours (indoors or outside), and it records detailed readings of sunlight, temperature, humidity and soil drainage. Then, plug EasyBloom into the USB port of a Mac or PC and the data is quickly analyzed and matched to the extensive library of more than 5,000 plants on the EasyBloom.com website. On EasyBloom.com, view a personalized, easy-to read report of the best vegetables, herbs, trees, shrubs and flowers that best suit that particular location. If you already have a plant, EasyBloom.com gives a \u0093thumbs up\u0094 or \u0093thumbs down\u0094 on whether your plant is getting the right amount of water and sunlight, and the right temperature.\r\n\r\nWhile EasyBloom is easy enough for a child to use, the science behind its readings is very advanced. Its soil sampling technology was used by NASA on Mars, and AccuWeather conditions from the date and location of every test are considered before making recommendations. These weather readings are currently specific to U.S. ZIP codes only.\r\n\r\nPlantSense EasyBloom Plant Sensor\r\n\r\nIntroducing EasyBloom. Used in your home or yard, the EasyBloom Plant Sensor automatically gathers and analyzes environmental data such as sunlight, ambient temperature, soil moisture content and humidity.  Every home contains a number of micro environments. The reusable EasyBloom Plant Sensor recommends plants that will grow well at any location, indoors or out.  With a detailed database containing over five thousand species, EasyBloom provides you with a list of plants that are perfectly suited to their particular location. By cross-referencing environmental data with an advanced plant database, EasyBloom can even help diagnose an ailing plant and tell you what it needs to be healthier.  Soon you'll be spending a lot more time enjoying your plants.  EasyBloom- how your garden grows.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/26\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2760.6477,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

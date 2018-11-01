@@ -1,0 +1,119 @@
+{
+    "title": "Waterpik Water Flossing",
+    "description": "",
+    "referenceId": "26012",
+    "date_created": "1502924014",
+    "date_modified": "1517252199",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180164",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "waterpik-water-flossing",
+    "category": "",
+    "duration": "39",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "39",
+            "width": 320,
+            "height": 240
+        },
+        "mediaDuration": "39",
+        "prettyDuration": "00:00:39",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/324383148-031320210.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180164\/e1059\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180164\/e1059\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180164\/cc\/vtt\/en_1517252195.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180164\/e1059\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180164\/e1059\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180164\/e1059\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180164\/e1059\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180164\/e1059\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Don't like to floss? Now there's an easier and more effective alternative than string floss. The Waterpik Water Flosser.\r\n\r\nMale voice: To me, there are only two tools that you need to have immaculate oral hygiene. A toothbrush and a Waterpik Water Flosser.\r\n\r\nAnd the research is clear. Multiple studies clearly show that the Waterpik Water Flosser is an effective alternative to string floss. And it's easy. The water flosser takes only about a minute a day and will leave you with a clean, fresh sensation.\r\n\r\nThe Waterpik Water Flosser. The easier and more effective solution for those who don't like to floss.",
+    "VV_VI": 1784,
+    "CVV_VI": 29,
+    "engagement_score": 3,
+    "conversion_score": 1,
+    "metrics_statistics": "{\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/5\/2011",
+    "created_date": "4\/6\/2011",
+    "tvp_profiles": [
+        "25",
+        "18",
+        "12"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 630.6407,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,115 @@
+{
+    "title": "Graco Jetsetter Stroller in Finch",
+    "description": "Super light yet boasting full-size features, Graco's Jetsetter Stroller is ideal for families constantly on the go. Weighs less than 4 lb. and allows a 1-hand, compact fold for easy traveling and transport. Comes with a tote-style carry bag.",
+    "referenceId": "1f1dfd885a1d471c35d63eac28eabc80",
+    "date_created": "1526913734",
+    "date_modified": "1526917573",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "strollers",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "163984128",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "0047406148714",
+    "category": "",
+    "duration": "81",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "81",
+            "width": 720,
+            "height": 484
+        },
+        "mediaDuration": "81",
+        "prettyDuration": "00:01:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/163984128\/baeab\/thumb-1f1dfd885a1d471c35d63eac28eabc80-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/163984128\/baeab\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/163984128\/baeab\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163984128\/baeab\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 484
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163984128\/baeab\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 484
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163984128\/baeab\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 714,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163984128\/baeab\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 536,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/163984128\/baeab\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 216
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 49,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "delete": "",
+    "notes": "no spoken",
+    "uploader": "Franz Aquino",
+    "modified_date": "",
+    "created_date": "05\/21\/2018",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": ""
+}

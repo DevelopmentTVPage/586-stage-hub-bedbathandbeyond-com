@@ -1,0 +1,119 @@
+{
+    "title": "Puj&reg; Nubs Clever Grippy Hooks in White, Grey, Yellow",
+    "description": "",
+    "referenceId": "1034437297",
+    "date_created": "1502517264",
+    "date_modified": "1516729226",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "109960377",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "puj-nubs-clever-grippy-hooks-in-white-grey-yellow",
+    "category": "",
+    "duration": "59",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "59",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "59",
+        "prettyDuration": "00:00:59",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1280\/717\/524525512-021280719.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109960377\/bcc21\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109960377\/bcc21\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960377\/bcc21\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960377\/bcc21\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960377\/bcc21\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960377\/bcc21\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109960377\/bcc21\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109960377\/cc\/vtt\/en_1516729225.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "All of the Puj products are designed to hang up out of your way.\r\n\r\n So I wanted to come up with a hook that was fun and playful but at the core had brilliant functionality.\r\n\r\n The Puj Nub is made from a grippy material that's slightly flexible with a solid inner core you can easily hang towels, brooms, hats, and bags.\r\n\r\nThe flexibility is the secret to its strength.  When a kid pulls on a towel that's hanging from a Nub, the hook just bends rather than breaks like a plastic hook would.\r\n\r\n And because it's a kid friendly hook you can hang it at their height so they can hang their own towel.\r\n\r\n Our peel and stick adhesive is extremely strong and can hold a large number of items all over the house.\r\n\r\n It's an all around fabulous experience with the Puj Nub.\r\n\r\n You will find yourself walking around the house thinking, \"where else can I use this thing!\"",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "Douglas.French",
+    "modified_date": "4\/9\/2015",
+    "created_date": "4\/9\/2015",
+    "tvp_profiles": [
+        "9",
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1930.7861,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

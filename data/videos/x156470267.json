@@ -1,0 +1,113 @@
+{
+    "id": "156470267",
+    "loginId": "1758166",
+    "user_id": "0",
+    "referenceId": "00c992b99b50fd5aa3b501f17dbc98f1",
+    "entityType": "1",
+    "date_created": "1521834516",
+    "date_modified": "1521835762",
+    "title": "SLEEP-N-PACK SLEEPING BAG BACKPACK",
+    "description": "",
+    "tags": "",
+    "status": "pending",
+    "visibility": "1",
+    "sortOrder": "822",
+    "entityIdParent": "114661406",
+    "titleTextEncoded": "694394118405-as-mp4",
+    "category": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "7",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "7",
+            "width": 1620,
+            "height": 1080
+        },
+        "mediaDuration": "7",
+        "prettyDuration": "00:00:07",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/156470267\/5c27d\/thumb-00c992b99b50fd5aa3b501f17dbc98f1-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/156470267\/5c27d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/156470267\/5c27d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/156470267\/5c27d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1620,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/156470267\/5c27d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/156470267\/5c27d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/156470267\/5c27d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/156470267\/5c27d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ]
+    },
+    "transcripts": "",
+    "video_type": "gear_and_travel",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "VV_VI": 2,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "Concept": "BBB_US_and_BBB_CA",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "notes": "",
+    "uploader": "Christopher Dowling",
+    "modified_date": "3\/23\/18",
+    "created_date": "3\/23\/18",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

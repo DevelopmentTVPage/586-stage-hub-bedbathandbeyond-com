@@ -1,0 +1,121 @@
+{
+    "title": "Point N Paint",
+    "description": "",
+    "referenceId": "11870",
+    "date_created": "1502518524",
+    "date_modified": "1516298543",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "109967844",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "point-n-paint",
+    "category": "",
+    "duration": "63",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "63",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "63",
+        "prettyDuration": "00:01:03",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109967844\/5a6bd\/thumb-17102a69feb22def1fb7d3d9c75435fe-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109967844\/5a6bd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109967844\/5a6bd\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109967844\/cc\/vtt\/en_1516298521.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967844\/5a6bd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967844\/5a6bd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967844\/5a6bd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967844\/5a6bd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109967844\/5a6bd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": "Hate paint prepping, dragging out ladders and nasty splatters?\n\nHi, Anthony Sullivan here for Point 'N Paint. You literally point and paint. Paint and entire room in less than an hour. Tired of painting? The Point 'N Paint is the best edger ever, perfect results every time.\n\nNo more running up and down ladders. Underneath the handle is the swivel pole adapter. Just attach any pole and painting the ceiling is easier than ever. Here's how it works. Pour your paint into the no-spill tray. Run the Point 'N Paint's reusable applicator pad over the wheel. It holds five times the paint of a roller and has eight times the painting surface of a brush. The very same pad works on both smooth surfaces and rough surfaces. And the best part, it doesn't drip.\n\nPaint ceilings with no ladders and no splatters. Glide along molding, zip around corners, even paint circles around fixtures and fittings. Its set-back design keeps paint on the wall and nowhere else. Stain the door while it's still on the hinge. No runs. No brushstrokes. Just look at that.",
+    "VV_VI": 1,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-03"
+        }
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/25\/2010",
+    "tvp_profiles": [
+        "7"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 208.743,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

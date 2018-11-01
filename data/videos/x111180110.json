@@ -1,0 +1,117 @@
+{
+    "title": "Calphalon Brushed Stainless Steel 4 Slice Toaster",
+    "description": "",
+    "referenceId": "19948",
+    "date_created": "1502923884",
+    "date_modified": "1516655193",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180110",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "calphalon-brushed-stainless-steel-4-slice-toaster",
+    "category": "",
+    "duration": "88",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "88",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "88",
+        "prettyDuration": "00:01:28",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180110\/27b52\/thumb-19948-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180110\/27b52\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180110\/27b52\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180110\/cc\/vtt\/en_1516655189.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180110\/27b52\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180110\/27b52\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180110\/27b52\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180110\/27b52\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180110\/27b52\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Presenting the 4 slot toaster from the Calphalon Kitchen Electrics Collection featuring variable shade selection control plus Bagel, Defrost and Reheat settings.\r\n\r\nThe four slot toaster has two sets of extra-wide slots to accommodate bagels, English muffins and even thick slices of artisan breads.\r\n\r\nThe toaster has dual controls so you can use separate shade selection settings for each side.\r\n\r\nUse the toast setting on one side and the defrost setting for frozen waffles or toaster pastries on the other.\r\n\r\nThe unique bagel setting toasts only the cut side for perfectly toasted bagels.\r\n\r\nThe convenient reheat setting lets you warm toast without over browning.\r\n\r\nThe extra-lift levers make it easy to remove toast. And the removable crumb trays are easy to clean.\r\n\r\nAnd the Calphalon 4 slot toaster has a cord wrap so it looks beautiful on your countertop and is easy to store.\r\n\r\nCalphalon",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/26\/2013",
+    "created_date": "1\/7\/2011",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1299.9498,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,117 @@
+{
+    "title": "Scooba Large Full",
+    "description": "",
+    "referenceId": "4257",
+    "date_created": "1502924575",
+    "date_modified": "1516738218",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180416",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "scooba-large-full",
+    "category": "",
+    "duration": "101",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "101",
+            "width": 960,
+            "height": 720
+        },
+        "mediaDuration": "101",
+        "prettyDuration": "00:01:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180416\/43372\/thumb-4257-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180416\/43372\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180416\/43372\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180416\/cc\/vtt\/en_1516738214.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180416\/43372\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180416\/43372\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180416\/43372\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180416\/43372\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180416\/43372\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "iRobot\u00ae Scooba Floor Washing Robot\r\n\r\nCheck mopping off your to-do list, because this little robot is happy to gently scrub your floors clean, getting under cabinets and around  iRobot Scooba Floor Washing Robotcarpets while avoiding steps and drops. Powered by the iRobot\u00ae AWARE\u0099 Robot Intelligence System, robot uses a 4 stage process to leave your floors shining. It preps by picking up loose crumbs, sand and dirt. It washes, putting down fresh cleaning solution. It then gently scrubs the floor, removing dirt, grime and spills. And finally, it dries while picking up the dirty solution. And it's so easy to operate. Simply fill tank, press 'clean' and then empty tank when robot is finished. For use with hardwood, tile, and linoleum floors. Includes a battery, power supply, measuring cup, and an 8-ounce cleaning solution. Model #5800.\r\n\r\niRobot Scooba Floor Washing Robot\r\n\r\nWith a touch of a button, iRobot Scooba removes up to 98 percent of common household bacteria from hard floors. Scooba automatically adjusts its cleaning pattern using spiraling, room-crossing, wall following and edge cleaning behaviors to cover every area of the floor up to five times.\r\n\r\nScooba is safe to use on tile, linoleum and sealed hardwood floors.\r\n\r\nScooba uses a powerful four-stage cleaning process to get floors reliably clean every time.\r\n\r\nFirst,  Scooba preps the floor by sweeping up dirt, crumbs and debris. Then, Scooba washes by laying down clean solution and water. Next, Scooba's brushes gently scrub floors to remove dirt, spills and stuck on messes. Finally, the specially designed squidgy lifts water from your floor leaving it virtually dry enough to walk on.\r\n\r\nScooba preps, washes, scrubs and squidgies tile, linoleum and sealed hardwood floors. It even cleans under furniture, along baseboards and under cabinet edges, removing up to 98 percent of bacteria from your floors and those hard to reach places. \r\n\r\nScooba automatically avoids carpets, rugs, stairs and drop-offs. Use Scooba virtual walls to create invisible barriers so Scooba cleans only where you want it. With the touch of a button, Scooba scrubs floors clean on its own any time you want.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "6\/23\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2118.617,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

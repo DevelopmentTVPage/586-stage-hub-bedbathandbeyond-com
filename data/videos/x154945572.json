@@ -1,0 +1,111 @@
+{
+    "title": "Make an Easter Basket from Christmas Tree Shops andThat!",
+    "description": "your eggs can fit in one basket -- and your jelly beans, chocolate bunnies and a few fun toys, too -- hop on in for all your basket essentials!",
+    "referenceId": "5c6c097a97bc16d39597117453573777",
+    "date_created": "1521234674",
+    "date_modified": "1521238989",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Gifting",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": "in_house",
+    "video_classification1": "inspirational_video",
+    "user_id": "0",
+    "id": "154945572",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Facebook-Easter-Basket-mp4",
+    "category": "",
+    "duration": "22",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "22",
+            "width": 1440,
+            "height": 1080
+        },
+        "mediaDuration": "22",
+        "prettyDuration": "00:00:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/154945572\/1388f\/thumb-5c6c097a97bc16d39597117453573777-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/154945572\/1388f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/154945572\/1388f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/154945572\/1388f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1440,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/154945572\/1388f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/154945572\/1388f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/154945572\/1388f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/154945572\/1388f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "CHRISTMAS TREE SHOPS ONLY",
+    "uploader": "Cory",
+    "modified_date": "3\/18\/18",
+    "created_date": "3\/9\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

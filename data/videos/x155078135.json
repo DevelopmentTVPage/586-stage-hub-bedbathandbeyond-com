@@ -1,0 +1,123 @@
+{
+    "title": "Madison Park Essentials Adrien Bath Towels",
+    "description": "",
+    "referenceId": "40da90632939e18684626fc03237c8f1",
+    "date_created": "1521560978",
+    "date_modified": "1521733981",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "bedding",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "155078135",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "AdrienSuperSoftTowel-mp4",
+    "category": "",
+    "duration": "61",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "61",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "61",
+        "prettyDuration": "00:01:01",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/155078135\/e418a\/thumb-40da90632939e18684626fc03237c8f1-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/155078135\/e418a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/155078135\/e418a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/155078135\/cc\/vtt\/en_1521733940.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/155078135\/e418a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/155078135\/e418a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/155078135\/e418a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/155078135\/e418a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/155078135\/e418a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "MADISON PARK ESSENTIALS INTRODUCES OUR 6 PIECE SUPER SOFT TOWEL SET\n\nOUR SUPER SOFT TOWELS ARE MADE WITH ONLY PREMIUM QUALITY 100 PERCENT COTTON. USING PREMIUM QUALITY COTTON FIBER GIVES YOU A TOWEL THAT\u2019S NATURALLY SOFT WHILE ALSO MAKING IT NATURALLY STRONG.\n\nMOST TOWELS NEED TO TWIST THEIR YARNS TO CREATE EXTRA STRENGTH. OUR ZERO TWIST TOWELS ARE MADE WITH LUXURIOUS COTTON YARNS THAT GIVE YOU MORE DURABILITY   WITHOUT THE ADDED WEIGHT CREATED BY TWISTING MULTIPLE YARNS. ZERO TWIST TOWELS ARE ALSO QUITE ABSORBENT, YET THEY NEVER FEEL LIKE THEY\u2019RE WEIGHED DOWN WITH EXCESS MOISTURE.\n\nTHIS LUXURIOUS SET INCLUDES 2 WASH CLOTHS, 2 HAND TOWELS AND 2 BATH TOWELS.\n\nOUR SET IS AVAIALBLE IN MULTIPLE COLORS THAT WILL MATCH ALMOST ANY D\u00c9COR.\n\nOUR TOWELS ARE MACHINE WASHABLE AND THE ZERO TWIST CONSTRUCTION MEANS LESS TIME IN THE DRYER. \n\nTHE MADISON PARK ESSENTIALS 6 PIECE SUPER SOFT TOWEL SET IS THE ULTIMATE IN LUXURY AND COMFORT.",
+    "VV_VI": 61,
+    "CVV_VI": 4,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-15"
+        }
+    },
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript for reference.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "3\/20\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

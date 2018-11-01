@@ -1,0 +1,117 @@
+{
+    "title": "Speed Prep Mandoline Slicer",
+    "description": "",
+    "referenceId": "11493",
+    "date_created": "1502923271",
+    "date_modified": "1516391770",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111179832",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "speed-prep-mandoline-slicer",
+    "category": "",
+    "duration": "105",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "105",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "105",
+        "prettyDuration": "00:01:45",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179832\/83b8f\/thumb-11493-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179832\/83b8f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179832\/83b8f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179832\/cc\/vtt\/en_1516391765.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179832\/83b8f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179832\/83b8f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179832\/83b8f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179832\/83b8f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179832\/83b8f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": "Make food prep easier and get professional looking results with Speed Prep, the one-handed mandolin slicer that slices, grates and juliennes, making cooking fun and fast. Perfect sliced cucumbers for salads? Simple. Easy grated cheese for pasta? A snap. Matchstick zucchini for stir-fry? No problem. The breakthrough one-handed design of Speed Prep makes slicing and grating so easy you'll be able to enjoy the true art of cooking and create professional looking dishes like these right in your own kitchen.\r\n\r\nSpeed Prep is safe and easy to use. Simply select one of the three stainless steel blades for your cutting task, slide it into the Speed Prep and place the food in the chamber. That's it. The precision cutting blades do the work. You enjoy the results and get the compliments. You can even cut bunches of vegetables for soups or casseroles and put them directly into the pot. What could be simpler than that?\r\n\r\nNo problem with cleanup either, all parts of the Speed Prep are dishwasher safe. It can be stored as a self-contained unit or conveniently tucked into a drawer.\r\n\r\nReplace your box grater and complicated mandolin with Speed Prep, the one-handed mandolin slicer that makes fast and safe work of routine cutting so you can create great meals without the fuss. Less time prepping, more time enjoying with Speed Prep.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/6\/2010",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1737.0806,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

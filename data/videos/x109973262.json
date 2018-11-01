@@ -1,0 +1,118 @@
+{
+    "title": "Instyler&reg; Wet to Dry Rotating Styling Iron",
+    "description": "",
+    "referenceId": "1336740842",
+    "date_created": "1502519727",
+    "date_modified": "1516299299",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "109973262",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "instyler-wet-to-dry-rotating-styling-iron",
+    "category": "",
+    "duration": "161",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "161",
+            "width": 834,
+            "height": 480
+        },
+        "mediaDuration": "161",
+        "prettyDuration": "00:02:41",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973262\/3c0ca\/thumb-d656546e87dc3430ac6af323ddd03074-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109973262\/3c0ca\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973262\/3c0ca\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109973262\/cc\/vtt\/en_1516299286.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973262\/3c0ca\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 834,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973262\/3c0ca\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 834,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973262\/3c0ca\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 834,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973262\/3c0ca\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 626,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973262\/3c0ca\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 184
+            }
+        ]
+    },
+    "transcripts": "The only thing better than having a team of professionals style your hair, is getting the same results at home. The Instylers polishing barrel adds volume and shine as it styles, so in minutes your hair will look as fabulous as if you spend hours in a salon. You'll create spectacular volume, shimmering shine, and gorgeous texture. Your hair is instantly transformed from straw into silk. Straighten, flip, create springy curls, or loose waves. One tool does it all. Also available, the 3\/4 inch barrel for shorter hair and tighter curls. Your hair will look like a team of stylists worked on it for hours, in just a few minutes. The remarkable Instyler rotating iron, the world is your runway. Introducing the Topstyler. The amazing new Topstyler. Ready for the hottest hairstyler you've seen yet? Introducing the next generation Instyler Wet 2 Dry. Now you can dry and style your hair at the same time. You love the original Instyler with over 9 million sold and it just got better. The amazing Instyler is now the Wet 2 Dry. Style your hair right out of the shower for amazing, silky, beautiful hair. Create lasting curls that hold all day. Add bounce and body and create sexy styles, just like the pros, all without ever touching a blow dryer. While styling your wet hair, the Wet 2 Dry removes excess water out of your hair strands up the rotating barrel, and vented safely away. The results, faster, more convenient styling for us on the go. And the Instyler Wet 2 Dry is gentle on your hair and needs less heat than ordinary flat irons, turning frizzy, damaged hair into silky, smooth, beautiful strands. One tool does it all.",
+    "VV_VI": 1183,
+    "CVV_VI": 13,
+    "engagement_score": 1,
+    "conversion_score": 1,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "FTP",
+    "modified_date": "10\/29\/2013",
+    "created_date": "10\/29\/2013",
+    "tvp_profiles": [
+        "18",
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 155.06375,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

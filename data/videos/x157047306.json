@@ -1,0 +1,119 @@
+{
+    "title": "AAFA - Asthma and Allergy Certification Program",
+    "description": "",
+    "referenceId": "df3f81edd2d5114fa0d748e53585a1b1",
+    "date_created": "1522269659",
+    "date_modified": "1522683855",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "other",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "custom_video",
+    "user_id": "0",
+    "id": "157047306",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "AAAFCP-Video",
+    "category": "",
+    "duration": "125",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "125",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "125",
+        "prettyDuration": "00:02:05",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/157047306\/cf3f7\/thumb-df3f81edd2d5114fa0d748e53585a1b1-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/157047306\/cf3f7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/157047306\/cf3f7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/157047306\/cc\/vtt\/en_1522434764.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/157047306\/cf3f7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/157047306\/cf3f7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/157047306\/cf3f7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/157047306\/cf3f7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/157047306\/cf3f7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "The Asthma & Allergy Foundation of America and Allergy Standards Limited present the asthma & allergy friendly\u00ae Certification Program. \n\nWhile many products claim to help control allergens, not all of them work as promised. And that can make it tough for consumers trying to make smart decisions. \n\nSo AAFA partnered with Allergy Standards Limited to create asthma & allergy friendly\u00ae   Certification Program \u2013 the trusted way of knowing that the household products claiming to be asthma and allergy friendly truly are. \n\nWhen you see the Certification Mark on a product, you\u2019ll instantly know that it has passed through a series of rigorous scientific tests to meet our highest standards \u2013 so you can make informed choices when shopping for products and services to help loved ones avoid or manage exposure to the allergens that may trigger symptoms. \n\nIn order to pass testing, a product must demonstrate the ability to: Control triggers at their source, contribute to whole home environmental control and withstand necessary cleaning recommendations \n\nAs people with asthma and allergies continue to seek products that are safer for them to use, more and more companies are seeking to achieve recognition for their products through the asthma & allergy friendly\u00ae Certification Program. \n\nWhen you\u2019re shopping for a product or service to help your family reduce the threat of exposure to allergens in your home, look for the mark. It means you can have confidence that the product you\u2019re looking at has met rigorous scientific standards to help make it healthier choice for you and your loved ones. \n\nFor more than 60 years, the Asthma and Allergy Foundation of America has served Americans with asthma and allergies. \n\nTogether, with our globally-recognized science partner, Allergy Standards Limited, we\u2019re working hard to give you the power to make smart, informed decisions about the products and services that affect your life.",
+    "VV_VI": 13,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript. This video is for a brand page.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "3\/28\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

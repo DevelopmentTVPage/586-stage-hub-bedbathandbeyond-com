@@ -1,0 +1,1098 @@
+{
+    "pageNumber": 121,
+    "data": [
+        {
+            "id": "109994661",
+            "title": "Angry Mama Microwave Cleaner",
+            "date_created": "1502523600",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "32",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "32",
+                "prettyDuration": "00:00:32",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/583683711-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109994661\/e68a8\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109994661\/e68a8\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109994661\/cc\/vtt\/en_1506356329.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994661\/e68a8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994661\/e68a8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994661\/e68a8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994661\/e68a8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109994661\/e68a8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/angry-mama-microwave-cleaner\/114661406-109994661"
+        },
+        {
+            "id": "109980679",
+            "title": "BroadCity",
+            "date_created": "1502520898",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "112",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "112",
+                "prettyDuration": "00:01:52",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109980679\/502b9\/thumb-e901e122bb47f1a3813c00ff9645a581-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109980679\/502b9\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109980679\/502b9\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109980679\/cc\/vtt\/en_1506356215.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980679\/502b9\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980679\/502b9\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980679\/502b9\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980679\/502b9\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980679\/502b9\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/broadcity\/114661406-109980679"
+        },
+        {
+            "id": "119657078",
+            "title": "Magnolia Home by Joanna Gaines Rugs, Pillows & Throws",
+            "date_created": "1506352013",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "30",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "30",
+                "prettyDuration": "00:00:30",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/469\/218\/900485751-01469219.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/119657078\/8d8a4\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/119657078\/8d8a4\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/119657078\/cc\/vtt\/en_1506615369.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657078\/8d8a4\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657078\/8d8a4\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657078\/8d8a4\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657078\/8d8a4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657078\/8d8a4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/loloi-presents-magnolia-home-by-joanna-gaines-rugs-pillows-throws-mp4\/114661406-119657078"
+        },
+        {
+            "id": "119657071",
+            "title": "Therapedic GelMAX Contour Pillow",
+            "date_created": "1506351180",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Enjoy a peaceful night's sleep with the Therapedic MemoryLOFT gel-Infused Pillow. Featuring cooling gel-infused iCOOL technology and pressure-relieving memory foam, this pillow is designed to keep you cool and comfortable all night long.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "37",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "37",
+                "prettyDuration": "00:00:37",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119657071\/385df\/thumb-4261a01db22fba44fd59d38e83cc51cc-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/119657071\/385df\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/119657071\/385df\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/119657071\/cc\/vtt\/en_1507133763.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657071\/385df\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657071\/385df\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657071\/385df\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657071\/385df\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657071\/385df\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/gelmaxpillow-61660571-mp4\/114661406-119657071"
+        },
+        {
+            "id": "119657061",
+            "title": "Glove Dryer",
+            "date_created": "1506347416",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "From gloves and mittens, to hats and accessories, the Glove Dryer is the ideal winter and cold-weather companion for outdoor enthusiasts. Conveniently fitting up to six articles of clothing, this practical tool dries items from the inside out.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "32",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "32",
+                "prettyDuration": "00:00:32",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119657061\/89ad1\/thumb-8e35a2c4ab4ba6e14dfce9f65d434eb0-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/119657061\/89ad1\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/119657061\/89ad1\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657061\/89ad1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657061\/89ad1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657061\/89ad1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657061\/89ad1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657061\/89ad1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/119657061\/cc\/vtt\/en_1516743627.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/glovedryer-45389191-mp4\/114661406-119657061"
+        },
+        {
+            "id": "109995764",
+            "title": "Butter Boy Corn Butterer",
+            "date_created": "1502523839",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "31",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "31",
+                "prettyDuration": "00:00:31",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/230770329-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109995764\/cae8d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109995764\/cae8d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109995764\/cc\/vtt\/en_1506123041.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995764\/cae8d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995764\/cae8d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995764\/cae8d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995764\/cae8d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995764\/cae8d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/butter-boy-corn-butterer\/114661406-109995764"
+        },
+        {
+            "id": "85652314",
+            "title": "Vinturi Reserve Essential Wine Aerator featuring Tenley Molzhan",
+            "date_created": "1488493498",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Speed up the aeration process with the Vinturi Reserve Red Wine Aerator, a premium version of the classic, award-winning aerator that's elegant enough for the most formal dinners and parties.  Molded of clear acrylic, the aerator opens and develops red wines in the time it takes to pour a glass, giving them the same enhanced bouquet, fuller flavor and smoother finish you'd achieve from extended decanting.",
+            "asset": {
+                "type": "youtube",
+                "author": "VinturiStaff",
+                "hdvFlag": 1,
+                "description": "Speed up the aeration process with the Vinturi Reserve Red Wine Aerator, a premium version of the classic, award-winning aerator that's elegant enough for the most formal dinners and parties.  Molded of clear acrylic, the aerator opens and develops red wines in the time it takes to pour a glass, giving them the same enhanced bouquet, fuller flavor and smoother finish you'd achieve from extended decanting.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/7yCweYCA1Vo\/hqdefault.jpg",
+                "videoId": "7yCweYCA1Vo",
+                "mediaDuration": 81,
+                "prettyDuration": "00:01:21",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/vinturi-reserve-essential-wine-aerator-featuring-tenley-molzhan\/114661406-85652314"
+        },
+        {
+            "id": "85230090",
+            "title": "Picnic Time Highlander Picnic Basket at Bed Bath & Beyond",
+            "date_created": "1485908910",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "http:\/\/www.bedbathandbeyond.com\/product.asp?SKU=18905019\nCreate the perfect picnic experience with the Picnic Time Highlander Picnic Basket. Thanks for watching. Make sure to subscribe to the Bed Bath & Beyond YouTube Channel.",
+            "asset": {
+                "type": "youtube",
+                "author": "Bed Bath & Beyond",
+                "hdvFlag": 0,
+                "description": "http:\/\/www.bedbathandbeyond.com\/product.asp?SKU=18905019\nCreate the perfect picnic experience with the Picnic Time Highlander Picnic Basket. Thanks for watching. Make sure to subscribe to the Bed Bath & Beyond YouTube Channel.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/pHgKkMr2AuM\/hqdefault.jpg",
+                "videoId": "pHgKkMr2AuM",
+                "mediaDuration": 88,
+                "prettyDuration": "00:01:28",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/picnic-time-highlander-picnic-basket-at-bed-bath-beyond\/114661406-85230090"
+        },
+        {
+            "id": "6468525",
+            "title": "Conair Curl Secret Hair Styler at Bed Bath & Beyond",
+            "date_created": "1383242771",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "http:\/\/www.bedbathandbeyond.com\/store\/product\/conair-curl-secret-hair-styler\/1041720547 \nHave beautiful, bouncy, shiny curls, anytime you want, with the revolutionary Curl Secret by Conair. The patent-pending design features 2 heat levels and 3 timer settings that make it easy to create loose, medium, and tight curls. Thanks for watching. Make sure to subscribe to the Bed Bath & Beyond YouTube Channel.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Yb5ppAOqbfA\/hqdefault.jpg",
+                "uploadDate": 1383242771,
+                "videoId": "Yb5ppAOqbfA",
+                "title": "Conair Curl Secret Hair Styler at Bed Bath & Beyond",
+                "description": "http:\/\/www.bedbathandbeyond.com\/store\/product\/conair-curl-secret-hair-styler\/1041720547 Have beautiful, bouncy, shiny curls, anytime you want, with the ...",
+                "author": "Bedbathandbeyond",
+                "mediaDuration": "30",
+                "prettyDuration": "00:00:30",
+                "views": "1144",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/conair-curl-secret-hair-styler-at-bed-bath-beyond\/114661406-6468525"
+        },
+        {
+            "id": "87555855",
+            "title": "Mediflow Waterbase Elite Pillow at Bed Bath & Beyond",
+            "date_created": "1491264143",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Don't just have a good night's sleep, have the best night's sleep with the Mediflow Waterbase Elite Pillow. With outstanding comfort and responsive support for your head and neck, the pillow will instantly improve your quality of sleep. Thanks for watching. Make sure to subscribe to the Bed Bath & Beyond YouTube Channel.",
+            "asset": {
+                "type": "youtube",
+                "author": "Bed Bath & Beyond",
+                "hdvFlag": 1,
+                "description": "http:\/\/www.bedbathandbeyond.com\/store\/product\/mediflow-reg-waterbase-reg-elite-pillow\/1041751046?Keyword=mediflow\nDon't just have a good night's sleep, have the best night's sleep with the Mediflow Waterbase Elite Pillow. With outstanding comfort and responsive support for your head and neck, the pillow will instantly improve your quality of sleep. Thanks for watching. Make sure to subscribe to the Bed Bath & Beyond YouTube Channel.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ZuHAsRlCF1Q\/hqdefault.jpg",
+                "videoId": "ZuHAsRlCF1Q",
+                "mediaDuration": 40,
+                "prettyDuration": "00:00:40",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/mediflow-waterbase-elite-pillow-at-bed-bath-beyond\/114661406-87555855"
+        },
+        {
+            "id": "110007499",
+            "title": "GelPro Gel Filled Comfort Floor Mats @ Bed Bath &amp; Beyond",
+            "date_created": "1502525618",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "81",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "81",
+                "prettyDuration": "00:01:21",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110007499\/c4a96\/thumb-ff5f2c703b87d10e75509b9eafbc859d-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110007499\/c4a96\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110007499\/c4a96\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110007499\/c4a96\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110007499\/c4a96\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110007499\/c4a96\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110007499\/c4a96\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110007499\/c4a96\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/110007499\/cc\/vtt\/en_1510602253.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/gelpro-gel-filled-comfort-floor-mats-bed-bath-beyond\/114661406-110007499"
+        },
+        {
+            "id": "111180449",
+            "title": "EuroPro VX3",
+            "date_created": "1502924625",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "136",
+                    "width": 320,
+                    "height": 240
+                },
+                "mediaDuration": "136",
+                "prettyDuration": "00:02:16",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180449\/c9a41\/thumb-4862-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180449\/c9a41\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180449\/c9a41\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111180449\/cc\/vtt\/en_1516737744.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180449\/c9a41\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180449\/c9a41\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180449\/c9a41\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180449\/c9a41\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180449\/c9a41\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/europro-vx3\/114661406-111180449"
+        },
+        {
+            "id": "111180201",
+            "title": "iLuv Vibe Plus Dual Alarm Clock with Bed Speaker Shaker for iPhone Model iMM178 - Black",
+            "date_created": "1502924095",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "52",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "52",
+                "prettyDuration": "00:00:52",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/215562521-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180201\/98b4d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180201\/98b4d\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111180201\/cc\/vtt\/en_1504284163.vtt",
+                        "default": true
+                    }
+                ],
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180201\/98b4d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180201\/98b4d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180201\/98b4d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180201\/98b4d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180201\/98b4d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/iluv-vibe-plus-dual-alarm-clock-with-bed-speaker-shaker-for-iphone-model-imm178-black\/114661406-111180201"
+        },
+        {
+            "id": "111180561",
+            "title": "Waring Pro PC100 Wine Chiller Warmer",
+            "date_created": "1502924759",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "76",
+                    "width": 480,
+                    "height": 270
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180561\/f788e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180561\/f788e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180561\/f788e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180561\/f788e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180561\/f788e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "76",
+                "prettyDuration": "00:01:16",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180561\/f788e\/thumb-5781-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180561\/f788e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180561\/f788e\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111180561\/cc\/vtt\/en_1504133375.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/waring-pro-pc100-wine-chiller-warmer\/114661406-111180561"
+        },
+        {
+            "id": "111180346",
+            "title": "Waterpik EcoFlow ShowerHead",
+            "date_created": "1502924461",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "60",
+                    "width": 600,
+                    "height": 336
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180346\/d2dbc\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 600,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180346\/d2dbc\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 600,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180346\/d2dbc\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 600,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180346\/d2dbc\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 600,
+                        "height": 336
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180346\/d2dbc\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180346\/d2dbc\/thumb-3714-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180346\/d2dbc\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180346\/d2dbc\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111180346\/cc\/vtt\/en_1504156381.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/waterpik-ecoflow-showerhead\/114661406-111180346"
+        },
+        {
+            "id": "67495565",
+            "title": "Cuisinart 7 Quart Stand Mixer (SM-70BC) Demo Video",
+            "date_created": "1334688990",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Learn more: http:\/\/www.cuisinart.com\/products\/stand_mixers\/sm-70bc.html\n\nThis is the mixer that does it all! Your new extra-large Cuisinart\u2122 7 Quart Stand Mixer has the power, capacity and precision to handle any job your recipes require. With three accessories, you can mix, whip or even knead dough. With 12 speeds, you'll always do it just right. And with the auto shutoff Countdown Timer you'll always do it for just the right amount of time! Results will be perfect.\n\nJoin us:\nhttp:\/\/www.facebook.com\/cuisinart\nhttp:\/\/twitter.com\/#!\/MyCuisinart",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/yJs2_vysG_Q\/hqdefault.jpg",
+                "uploadDate": 1334688990,
+                "videoId": "yJs2_vysG_Q",
+                "title": "Cuisinart 7 Quart Stand Mixer (SM-70BC) Demo Video",
+                "description": "Learn more: http:\/\/www.cuisinart.com\/products\/stand_mixers\/sm-70bc.html\n\nThis is the mixer that does it all! Your new extra-large Cuisinart\u2122 7 Quart Stand Mixer has the power, capacity and precision to handle any job your recipes require. With three accessories, you can mix, whip or even knead dough. With 12 speeds, you'll always do it just right. And with the auto shutoff Countdown Timer you'll always do it for just the right amount of time! Results will be perfect.\n\nJoin us:\nhttp:\/\/www.facebook.com\/cuisinart\nhttp:\/\/twitter.com\/#!\/MyCuisinart",
+                "author": "Cuisinart",
+                "mediaDuration": 345,
+                "prettyDuration": "00:05:45",
+                "views": "6462",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/cuisinart-7-quart-stand-mixer-sm-70bc-demo-video\/114661406-67495565"
+        },
+        {
+            "id": "6468441",
+            "title": "Cuisinart Stand Mixer Blender Attachment at Bed Bath & Beyond",
+            "date_created": "1375207852",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "http:\/\/www.bedbathandbeyond.com\/product.asp?SKU=14649620. The Cuisinart Stand Mixer becomes even more versatile with the 40-ounce glass Blender ...",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/u3dEtp4mN2M\/hqdefault.jpg",
+                "uploadDate": 1375207852,
+                "videoId": "u3dEtp4mN2M",
+                "title": "Cuisinart Stand Mixer Blender Attachment at Bed Bath & Beyond",
+                "description": "http:\/\/www.bedbathandbeyond.com\/product.asp?SKU=14649620. The Cuisinart Stand Mixer becomes even more versatile with the 40-ounce glass Blender ...",
+                "author": "Bedbathandbeyond",
+                "mediaDuration": "51",
+                "prettyDuration": "00:00:51",
+                "views": "134",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/cuisinart-stand-mixer-blender-attachment-at-bed-bath-beyond\/114661406-6468441"
+        },
+        {
+            "id": "109979516",
+            "title": "Cordless Swivel Sweeper G2",
+            "date_created": "1502520442",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "65",
+                    "width": 960,
+                    "height": 544
+                },
+                "mediaDuration": "65",
+                "prettyDuration": "00:01:05",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109979516\/e0e2c\/thumb-4f49d57d3ed8dc3b6f97a3a6ac0e22dc-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109979516\/e0e2c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109979516\/e0e2c\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109979516\/e0e2c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109979516\/e0e2c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109979516\/e0e2c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109979516\/e0e2c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109979516\/e0e2c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109979516\/cc\/vtt\/en_1510101168.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/cordless-swivel-sweeper-g2\/114661406-109979516"
+        },
+        {
+            "id": "111180586",
+            "title": "Magic Bullet Express Blender and Mixer System",
+            "date_created": "1502924806",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "135",
+                    "width": 640,
+                    "height": 480
+                },
+                "mediaDuration": "135",
+                "prettyDuration": "00:02:15",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180586\/6728b\/thumb-6074-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180586\/6728b\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180586\/6728b\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111180586\/cc\/vtt\/en_1516664263.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180586\/6728b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180586\/6728b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180586\/6728b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180586\/6728b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180586\/6728b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/magic-bullet-express-blender-and-mixer-system\/114661406-111180586"
+        },
+        {
+            "id": "6286078",
+            "title": "Slicer & Shredder Attachment | KitchenAid",
+            "date_created": "1438302301",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Easy to use on Stand Mixers. Four slicer and shredder cones let you control the thickness and texture of fruits, vegetables and cheese.",
+            "asset": {
+                "type": "youtube",
+                "author": "KitchenAid",
+                "hdvFlag": 0,
+                "hookText": "Easy to use on Stand Mixers. Four slicer and shredder cones let you control the thickness and texture of fruits, vegetables and cheese.\n\nGo to http:\/\/www.kitchenaid.com\/countertop-appliances\/ for more countertop appliance information and culinary inspiration.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/utZniGZced8\/hqdefault.jpg",
+                "videoId": "utZniGZced8",
+                "mediaDuration": "47",
+                "prettyDuration": "00:00:47"
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/slicer-shredder-attachment-kitchenaid\/114661406-6286078"
+        }
+    ]
+}

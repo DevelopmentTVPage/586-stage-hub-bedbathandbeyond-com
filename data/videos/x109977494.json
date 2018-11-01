@@ -1,0 +1,119 @@
+{
+    "title": "Aquascale Digital Scale &amp; Thermometer 3-in-1 Infant Tub",
+    "description": "",
+    "referenceId": "1423746474",
+    "date_created": "1502520405",
+    "date_modified": "1516395642",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "109977494",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "aquascale-digital-scale-thermometer-3-in-1-infant-tub",
+    "category": "",
+    "duration": "112",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "112",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "112",
+        "prettyDuration": "00:01:52",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109977494\/1c4ec\/thumb-642ad16f583a3f1320bb5cdd350a0f89-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109977494\/1c4ec\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109977494\/1c4ec\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109977494\/cc\/vtt\/en_1516395636.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977494\/1c4ec\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977494\/1c4ec\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977494\/1c4ec\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977494\/1c4ec\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977494\/1c4ec\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "The AquaScale, the most innovative baby bathtub and scale in the world. The AquaScale helps monitor your baby's development by tracking his or her weight, and is a true 3-in-1 product.\r\n\r\nNumber one, a digital scale. Place the tub on a flat platform or its own stand. Press On. Fill the tub with the desired amount of water. Press the \"Zero Scale\" button briefly, and wait 2 seconds for calibration.\r\n\r\nLay your baby in the tub and their exact weight will appear on the LCD. The software is calculating your baby's net weight, compensating for movements, to achieve an extremely precise measurement. The digital scale function works with or without water, and the tub can be used just as a standard digital baby scale.\r\n\r\nNumber two, a digital water thermometer. This extra feature ensures water is not too hot or too cold, by continuously monitoring and displaying water temperature on LCD. To convert pounds to kilograms, or Celsius to Fahrenheit, simply press the \"Menu\" button briefly. To set the baby\u0092s net weight reading, simply press the \"Weight\"' button briefly. To save a reading in memory, press the \u0093Menu\u0094 button for 3 seconds\r\n\r\nNumber three, a two positions baby bath. The central ergonomic structure is designed to hold babies up to 6 months in a safe position. Once your baby can sit by himself, simply remove the central ergonomic support and place your baby in the opposite side to enjoy a full bath of water.\r\n\r\n\r\n\r\nThis innovation provides a calm, comfortable and cozy environment to weigh your baby while enjoying the warm water. The AquaScale will safely grow with your baby from birth and through 24 months.",
+    "VV_VI": 33,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "Douglas.French",
+    "modified_date": "11\/9\/2015",
+    "created_date": "11\/9\/2015",
+    "tvp_profiles": [
+        "25",
+        "18",
+        "26"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 260.49344,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

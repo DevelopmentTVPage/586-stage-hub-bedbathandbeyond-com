@@ -1,0 +1,117 @@
+{
+    "title": "PizzaDome 4-Person Portable Italian Brick Oven",
+    "description": "",
+    "referenceId": "13509",
+    "date_created": "1502923445",
+    "date_modified": "1516394981",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111179922",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "pizzadome-4-person-portable-italian-brick-oven",
+    "category": "",
+    "duration": "85",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "85",
+            "width": 480,
+            "height": 272
+        },
+        "mediaDuration": "85",
+        "prettyDuration": "00:01:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179922\/67e84\/thumb-13509-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179922\/67e84\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179922\/67e84\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179922\/cc\/vtt\/en_1516394973.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179922\/67e84\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179922\/67e84\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179922\/67e84\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179922\/67e84\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179922\/67e84\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": "Introducing Pizza Dome, delicious brick oven pizza fun for everyone. With Pizza Dome, you can enjoy individual sized brick oven pizza in the comfort and convenience of your own dining room. Up to six people can customize their pizza with whatever toppings they choose. It?s a party around your dinner table. First, prepare the homemade or store bought pizza dough. With Pizza Dome?s dough cutter, each pizza will cut to the perfect shape and size for baking every time. Chop up your favorite ingredients into bowls and place them around the dinner table. Now, sit down and prepare your own creations. Take the precut dough, place it on your individual Pizza Dome spatula, and sprinkle on your favorite toppings. Be as creative as you want to be. Then slide your spatula into the Pizza Dome for that pizza chef experience. Each pizza takes just a few minutes. Just enough time to think about your next creation. The possibilities are endless and fun. And clean up is a snap. Just wipe off the spatulas and cooking plate, and you?re done. \r\n\r\nYour Pizza Dome package includes the electric Pizza Dome, four individual spatulas, the Pizza Dome dough cutter, and the instruction manual. Party round the table with your friends and family. Be your own personal pizza chef making pizza your way. Experience pizza party fun for everyone with Pizza Dome.\r\n\r\nCategories: pizza dome, pizza oven",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "10\/7\/2013",
+    "created_date": "6\/21\/2010",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1592.2413,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

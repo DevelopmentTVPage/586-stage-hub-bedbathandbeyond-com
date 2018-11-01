@@ -1,0 +1,117 @@
+{
+    "title": "EZ Combs",
+    "description": "",
+    "referenceId": "11963",
+    "date_created": "1502518626",
+    "date_modified": "1516298973",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "109968889",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "ez-combs",
+    "category": "",
+    "duration": "82",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "82",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "82",
+        "prettyDuration": "00:01:22",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109968889\/ddeaf\/thumb-972cad8f8b01f6ef05acd22c5f8b9a17-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109968889\/ddeaf\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109968889\/ddeaf\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109968889\/cc\/vtt\/en_1516298963.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109968889\/ddeaf\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109968889\/ddeaf\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109968889\/ddeaf\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109968889\/ddeaf\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109968889\/ddeaf\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "As Seen on TV EZ Combs\u0099 Stretchable Double Combs\n\nThese stretchable double hair combs will give you salon results without having to step out of your own home. Create classic ponytails, EZ Combsbutterfly twists, French twists and more with these easy-to-use combs that work on any hair type. EZ Combs\u0099 have a comfortable, secure fit. Set includes two combs. One in each color.\n\nEZ Combs \u0096 As Seen on TV\n\nOh no! That tired old style's been around for a while.   But now there's EZ Combs- the easy, new way to create dozens of dazzling new hairstyles instantly.  Simply slide in one end of the Easy Comb then stretch it around your hair and slide in on the other side for an up-do that is brand new. Or pull hair up and fluff it out for a fantastic fountain effect.  Look again- just slide in the contoured combs. The bungee bands stretch and release for a relaxed, custom fit every time.  With the EZ Combs, you can liven up a pony-tail in just seconds. Or create this amazing butterfly twist. With the easy-to-follow beauty guide you can create fabulous new hairstyles in no time.  Even short hair looks amazing; sophisticated yet sexy. EZ Combs are perfect for any occasion like weddings, proms or any formal affair. They're ideal for the office; stylish yet professional. Look out, those claw clips can give you brain pain. But with EZ Combs, go ahead, put your head back. They're so soft and comfortable you can even sleep in them.  They work on short hair; they work on thin hair; they even work on thick, curly hair. Best of all, EZ Combs won't pull out, even during a brisk workout.  It's so easy to use, kids love EZ Combs too.   Take yours home today.",
+    "VV_VI": 2,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "7\/16\/2010",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 15.903152,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

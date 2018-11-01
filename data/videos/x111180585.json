@@ -1,0 +1,117 @@
+{
+    "title": "Magic Bullet Express Meal Machine",
+    "description": "",
+    "referenceId": "6065",
+    "date_created": "1502924801",
+    "date_modified": "1516664212",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180585",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "magic-bullet-express-meal-machine",
+    "category": "",
+    "duration": "122",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "122",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "122",
+        "prettyDuration": "00:02:02",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180585\/b597e\/thumb-6065-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180585\/b597e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180585\/b597e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180585\/cc\/vtt\/en_1516664207.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180585\/b597e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180585\/b597e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180585\/b597e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180585\/b597e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180585\/b597e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Magic Bullet Express\u0099 Meal Machine\r\n\r\nThe Bullet Express\u0099 is the 8 minute meal machine. In just 8 minutes or less, your food will be ready to heat or eat. The meal maker attachment is perfect for slicing and shredding a variety of vegetables, Magic Bullet Expressfruits, meats and cheeses in just seconds. Use the meal mixer attachment for mixing, blending, chopping, mincing and ice crushing at high speeds. The juicer attachment juices all types of fruits and vegetables, while the pulp container automatically removes pulp and places it in the container. Bullet express includes motor base, meal maker attachment, meal mixer attachment, juicer attachment, juicer pulp container and cookbook. Attachments are dishwasher safe. 500 watts. One-year warranty. UL listed. Model # BER-0601.\r\n\r\nSlicing and chopping vegetables for a stir-fry can be a kitchen nightmare.\r\n\r\nWell, in less time than it takes to find a sharp knife, you can have a perfectly chopped chicken and vegetable stir-fry all prepared directly into the pan and ready to cook in just 45 seconds.\r\n\r\nWe all love apple pie. But, getting out your big, bulky processor and expensive stand mixer can be a real chore. Well now, you can slice those apples directly into the pie dish for a fresh, homemade apple pie made from scratch and oven ready in just 60 seconds.\r\n\r\nEveryone loves pizza. But, why pay for delivery or settle for frozen when you can have your favorite pizza fresh, made from scratch and oven ready in just 90 seconds?\r\n\r\nNow, from the makers of the original Magic Bullet comes the all new Bullet Express - the ultimate eight minute meal machine.\r\n\r\nThat's right! Now, you can make any full family meal ready to heat or eat in just eight minutes or less.\r\n\r\nYour Bullet Express comes with a revolutionary Meal Maker Express designed to chop, slice and shred all your favorite food whether it's vegetables, meat, or fruit. And the best part is they all go right into the pan, pot, or dish you're cooking with.\r\n\r\nSo now, you can have a fresh beef and vegetable casserole oven ready in just 45 seconds. Easily slice potatoes and onion right into the dish. Then simply pop off the top, flip the blade and now your Bullet Express is ready to shred.\r\n\r\nBullet Express features a powerful 400 watt motor tough enough for any kitchen job, but takes up no more space on your counter than a two slice toaster. And clean up is easy. Just rinse under the tap or place the parts right in the dishwasher.\r\n\r\nYour Bullet Express is built to last and backed by a full one year manufacturer's warranty.\r\n\r\nFrom the makers of the original Magic Bullet comes the all new Bullet Express - the ultimate eight minute meal machine.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "12\/10\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 3371.229,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

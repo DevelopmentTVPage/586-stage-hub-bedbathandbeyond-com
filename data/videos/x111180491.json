@@ -1,0 +1,117 @@
+{
+    "title": "Cuisinart CVR 1000 Vertical Rotisserie Oven",
+    "description": "",
+    "referenceId": "5541",
+    "date_created": "1502924670",
+    "date_modified": "1516664930",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180491",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "cuisinart-cvr-1000-vertical-rotisserie-oven",
+    "category": "",
+    "duration": "144",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "144",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "144",
+        "prettyDuration": "00:02:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180491\/bf005\/thumb-5541-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180491\/bf005\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180491\/bf005\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180491\/cc\/vtt\/en_1516664926.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180491\/bf005\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180491\/bf005\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180491\/bf005\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180491\/bf005\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180491\/bf005\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi, I'm Mary Rogers, Director of Marketing Communications for Cuisinart. This is Cuisinart's brand new Vertical Rotisserie. It does lots of great things for you. All you have to do is program it by choosing the time, up to three hours. When your food is done, it'll automatically shut off. Then you choose your temperature. It has five pre-sets from 325 to 450. Those are 325, 350, 400, 425, and 450. Then you can put the interior light on if you choose. All you do is hit start. When your food is done cooking, the machine will turn off and beep five times to let you know it's done. You can do so much more than just chicken in this vertical rotisserie.\r\n\r\nWe give you lots of great accessories with it. First is the roasting rack. The roasting rack is great for things like pork loin or a beef roast. All you do is slide it over the rack, and then you put it in the oven in the drip tray, and you start cooking. The other thing that's really great about this is that you can put up to an eight-pound piece of meat on the roasting rack, or you can do the same with the poultry tower. This is our roasting basket. This is great for items like salmon or halibut. You can put spare ribs in here or the other thing I like to do is put chicken parts in here, like legs and thighs. Then you just basically close the basket, and you use the roasting rack and you put this right on the roasting rack, and it goes right in the machine, and then this turns.\r\n\r\nIn addition to that, we also give you the shish kabob setup, which is the roasting rack turned upside down just so you know. That goes on top of the poultry tower like so. All you have to do is set up your shish kebobs and put them on here. They're really simple and easy to do. They just hook on. You put it in your drip pan, and then you put that in the oven. Like I said, this is what your poultry tower looks like before the chicken is on there. It's all stainless steel. It's beautifully designed. It's so easy to use. You can make a fabulous, nutritious meal, quickly and easily using the Cuisinart Rotisserie.",
+    "VV_VI": 3,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-03-26\"}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "jason",
+    "modified_date": "11\/27\/2013",
+    "created_date": "10\/29\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2559.113,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

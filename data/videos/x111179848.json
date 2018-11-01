@@ -1,0 +1,118 @@
+{
+    "title": "Kwikset SmartCode Keyless Single Cylinder Deadbolt",
+    "description": "",
+    "referenceId": "11588",
+    "date_created": "1502923297",
+    "date_modified": "1516651930",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111179848",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "kwikset-smartcode-keyless-single-cylinder-deadbolt",
+    "category": "",
+    "duration": "137",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "137",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "137",
+        "prettyDuration": "00:02:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179848\/578cd\/thumb-11588-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179848\/578cd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179848\/578cd\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179848\/cc\/vtt\/en_1516651925.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179848\/578cd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179848\/578cd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179848\/578cd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179848\/578cd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179848\/578cd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Kwikset, America's number one selling lock set, revolutionized keyless entry more than 10 years ago with PowerBolt. Now Kwikset is introducing the next generation keyless entry, SmartCode. Kwikset's SmartCode provides the convenience of keyless access for today's active lifestyle while no longer forcing you to compromise style.\r\n\r\nSmartCode has a new stylish design with a sleek, arched shape exterior and a new backlit keypad. Inside, you get the same arched shape and a finish that will match any home d\u00e9cor.\r\n\r\nThe reengineered SmartCode is easy to install, easy to program, and easy to use.\r\n\r\nTo unlock your SmartCode deadbolt, enter your personal code. That's it. To lock, simply press the \"Lock\" button, and a full one-inch projection bolt protracts and secures your home. It's that simple.\r\n\r\nYou can choose any four- to eight-digit personal code, and you can change the code as often as you like.\r\n\r\nSmartCode also offers a second code you can give to neighbors or workers, giving them temporary access.\r\n\r\nThink of the benefits of keyless entry. You no longer have to hide a key under the mat. You'll never have to worry about your kids losing their house key. And accidental lockouts are a thing of the past.\r\n\r\nKwikset SmartCode easily replaces existing door hardware and fits standard doors. The deadbolt complements any Kwikset knob, lever, or handle set.\r\n\r\nThe latest in electronic technology, it's a stand-alone system with no wiring necessary. Rather, it operates on just four AA batteries.\r\n\r\nSmartCode also features an indicator light that warns of a low battery condition and an auto locking feature that can be turned on or off.\r\n\r\nSmartCode comes with a SmartKey keyway for increased convenience, security, and peace of mind. SmartKey provides the flexibility of rekeying your lock in three simple steps.\r\n\r\nSo get smarter about securing your home with SmartCode and give yourself the convenience of keyless entry. SmartCode. Only from Kwikset.",
+    "VV_VI": 2,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-03-08\"}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "12\/8\/2011",
+    "created_date": "5\/26\/2010",
+    "tvp_profiles": [
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2181.6995,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

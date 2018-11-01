@@ -1,0 +1,1154 @@
+{
+    "pageNumber": 116,
+    "data": [
+        {
+            "id": "110009684",
+            "title": "Iceless Wine Chiller",
+            "date_created": "1502526126",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "51",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "51",
+                "prettyDuration": "00:00:51",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/552415993-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110009684\/f81e8\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110009684\/f81e8\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/110009684\/cc\/vtt\/en_1504138483.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110009684\/f81e8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110009684\/f81e8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110009684\/f81e8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110009684\/f81e8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110009684\/f81e8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/iceless-wine-chiller\/114661406-110009684"
+        },
+        {
+            "id": "116033872",
+            "title": "My Offers Baby",
+            "date_created": "1504595075",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "92",
+                    "width": 960,
+                    "height": 540
+                },
+                "mediaDuration": "92",
+                "prettyDuration": "00:01:32",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/116033872\/df6e3\/thumb-7c3da89b56894767f58c1116e55a776f-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/116033872\/df6e3\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/116033872\/df6e3\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/116033872\/df6e3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/116033872\/df6e3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/116033872\/df6e3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/116033872\/df6e3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/116033872\/df6e3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/116033872\/cc\/vtt\/en_1509147546.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/media-24-mp4\/114661406-116033872"
+        },
+        {
+            "id": "110008655",
+            "title": "Tiny Love Soothe and Groove Mobile",
+            "date_created": "1502526072",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "65",
+                    "width": 768,
+                    "height": 576
+                },
+                "mediaDuration": "65",
+                "prettyDuration": "00:01:05",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110008655\/53c3a\/thumb-befbe45688797f2a6c8915f615a5160f-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110008655\/53c3a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110008655\/53c3a\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008655\/53c3a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 768,
+                        "height": 576
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008655\/53c3a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 768,
+                        "height": 576
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008655\/53c3a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008655\/53c3a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008655\/53c3a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/110008655\/cc\/vtt\/en_1504137384.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/tiny-love-soothe-and-groove-mobile\/114661406-110008655"
+        },
+        {
+            "id": "111180078",
+            "title": "SousVide Supreme Vacuum Sealer and Food Grade Vacuum Pouches",
+            "date_created": "1502923820",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "118",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "118",
+                "prettyDuration": "00:01:58",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180078\/c9883\/thumb-18946-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180078\/c9883\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180078\/c9883\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111180078\/cc\/vtt\/en_1516655827.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180078\/c9883\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180078\/c9883\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180078\/c9883\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180078\/c9883\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180078\/c9883\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/sousvide-supreme-vacuum-sealer-and-food-grade-vacuum-pouches\/114661406-111180078"
+        },
+        {
+            "id": "111180559",
+            "title": "Waring Pro PC50 Professional Cordless Wine Chiller",
+            "date_created": "1502924757",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "84",
+                    "width": 480,
+                    "height": 270
+                },
+                "mediaDuration": "84",
+                "prettyDuration": "00:01:24",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180559\/f87c0\/thumb-5779-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180559\/f87c0\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180559\/f87c0\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111180559\/cc\/vtt\/en_1516664172.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180559\/f87c0\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180559\/f87c0\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180559\/f87c0\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180559\/f87c0\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 270
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180559\/f87c0\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/waring-pro-pc50-professional-cordless-wine-chiller\/114661406-111180559"
+        },
+        {
+            "id": "109997881",
+            "title": "Oxo Good Grips&reg; Corn Stripper",
+            "date_created": "1502524149",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "52",
+                    "width": 864,
+                    "height": 486
+                },
+                "mediaDuration": "52",
+                "prettyDuration": "00:00:52",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109997881\/43bd8\/thumb-1ee9fc692ce7d93ad867ab3a37c8e504-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109997881\/43bd8\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109997881\/43bd8\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109997881\/43bd8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109997881\/43bd8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109997881\/43bd8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109997881\/43bd8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109997881\/43bd8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109997881\/cc\/vtt\/en_1504810683.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/oxo-good-grips-corn-stripper\/114661406-109997881"
+        },
+        {
+            "id": "111179740",
+            "title": "Forma Stainless Steel Bath Ensemble",
+            "date_created": "1502923052",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "30",
+                    "width": 640,
+                    "height": 360
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179740\/9ebd2\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179740\/9ebd2\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179740\/9ebd2\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179740\/9ebd2\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179740\/9ebd2\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "30",
+                "prettyDuration": "00:00:30",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179740\/9ebd2\/thumb-1034486212-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179740\/9ebd2\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179740\/9ebd2\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111179740\/cc\/vtt\/en_1504210301.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/forma-stainless-steel-bath-ensemble\/114661406-111179740"
+        },
+        {
+            "id": "110007614",
+            "title": "Libbey Color Collection",
+            "date_created": "1502525945",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "102",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "102",
+                "prettyDuration": "00:01:42",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110007614\/596d3\/thumb-3daf0d71bb9ca5e974e35329cedbbae4-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110007614\/596d3\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110007614\/596d3\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110007614\/596d3\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110007614\/596d3\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110007614\/596d3\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110007614\/596d3\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110007614\/596d3\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/110007614\/cc\/vtt\/en_1504136842.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/libbey-color-collection\/114661406-110007614"
+        },
+        {
+            "id": "109982919",
+            "title": "OXO Good Grips&reg; Coffee And Tea POP Container",
+            "date_created": "1502521589",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "48",
+                    "width": 864,
+                    "height": 486
+                },
+                "mediaDuration": "48",
+                "prettyDuration": "00:00:48",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109982919\/12c8d\/thumb-4bff2a0a7e641aa8bb5307ae096b583f-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109982919\/12c8d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109982919\/12c8d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982919\/12c8d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982919\/12c8d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982919\/12c8d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982919\/12c8d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982919\/12c8d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109982919\/cc\/vtt\/en_1504287847.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/oxo-good-grips-coffee-and-tea-pop-container\/114661406-109982919"
+        },
+        {
+            "id": "111180329",
+            "title": "simplehuman Sensor Pump Touch-Free Soap Dispenser",
+            "date_created": "1502924434",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "64",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "64",
+                "prettyDuration": "00:01:04",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180329\/bb30c\/thumb-35549-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180329\/bb30c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180329\/bb30c\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111180329\/cc\/vtt\/en_1516733911.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180329\/bb30c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180329\/bb30c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180329\/bb30c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180329\/bb30c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180329\/bb30c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/simplehuman-sensor-pump-touch-free-soap-dispenser\/114661406-111180329"
+        },
+        {
+            "id": "110010846",
+            "title": "iLP Turntable Conversion System",
+            "date_created": "1502526371",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "49",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "49",
+                "prettyDuration": "00:00:49",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/134055786-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110010846\/bdecf\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110010846\/bdecf\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110010846\/bdecf\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110010846\/bdecf\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110010846\/bdecf\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110010846\/bdecf\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110010846\/bdecf\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/ilp-turntable-conversion-system\/114661406-110010846"
+        },
+        {
+            "id": "111179851",
+            "title": "Waterpik AquaScape Ultra Showerhead",
+            "date_created": "1502923302",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "34",
+                    "width": 960,
+                    "height": 544
+                },
+                "mediaDuration": "34",
+                "prettyDuration": "00:00:34",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/376362674-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179851\/f5cb1\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179851\/f5cb1\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111179851\/cc\/vtt\/en_1516394004.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179851\/f5cb1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179851\/f5cb1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 544
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179851\/f5cb1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 848,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179851\/f5cb1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 636,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179851\/f5cb1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 182
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/waterpik-aquascape-ultra-showerhead\/114661406-111179851"
+        },
+        {
+            "id": "109997872",
+            "title": "Chefman My Barista Coffee Maker",
+            "date_created": "1502524129",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "110",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "110",
+                "prettyDuration": "00:01:50",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109997872\/fc737\/thumb-fe13256ff1c040645abae305a14b5920-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109997872\/fc737\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109997872\/fc737\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109997872\/fc737\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109997872\/fc737\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109997872\/fc737\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109997872\/fc737\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109997872\/fc737\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/chefman-my-barista-coffee-maker\/114661406-109997872"
+        },
+        {
+            "id": "6468542",
+            "title": "Brands of Bed Bath & Beyond: Dransfield & Ross",
+            "date_created": "1383841682",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "http:\/\/www.bedbathandbeyond.com\/store\/brand\/upstairs-dransfield-and-ross\/1837 Thanks for watching. Make sure to subscribe to the Bed Bath & Beyond ...",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Z84TZ4d7MOI\/hqdefault.jpg",
+                "uploadDate": 1383841682,
+                "videoId": "Z84TZ4d7MOI",
+                "title": "Brands of Bed Bath & Beyond: Dransfield & Ross",
+                "description": "http:\/\/www.bedbathandbeyond.com\/store\/brand\/upstairs-dransfield-and-ross\/1837 Thanks for watching. Make sure to subscribe to the Bed Bath & Beyond ...",
+                "author": "Bedbathandbeyond",
+                "mediaDuration": "120",
+                "prettyDuration": "00:02:00",
+                "views": "168"
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/brands-of-bed-bath-beyond-dransfield-ross\/114661406-6468542"
+        },
+        {
+            "id": "6468281",
+            "title": "Bugaboo Cup Holder at Bed Bath & Beyond",
+            "date_created": "1371044486",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "http:\/\/www.bedbathandbeyond.com\/product.asp?SKU=14968636 The Bugaboo Cup Holder attaches to the handle of your Bugaboo baby stroller, and stays ...",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/K1jatIWGZdk\/hqdefault.jpg",
+                "uploadDate": 1371044486,
+                "videoId": "K1jatIWGZdk",
+                "title": "Bugaboo Cup Holder at Bed Bath & Beyond",
+                "description": "http:\/\/www.bedbathandbeyond.com\/product.asp?SKU=14968636 The Bugaboo Cup Holder attaches to the handle of your Bugaboo baby stroller, and stays ...",
+                "author": "Bedbathandbeyond",
+                "mediaDuration": "49",
+                "prettyDuration": "00:00:49",
+                "views": "193"
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/bugaboo-cup-holder-at-bed-bath-beyond\/114661406-6468281"
+        },
+        {
+            "id": "6287550",
+            "title": "Kenneth Cole Reaction Home Hotel Neutral Comforter Set at Bed Bath & Beyond",
+            "date_created": "1438387155",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "The clean smart lines of the Hotel Neutral comforter bring a touch of modern class to any bedroom. Thanks for watching.",
+            "asset": {
+                "type": "youtube",
+                "author": "Bed Bath & Beyond",
+                "hdvFlag": 1,
+                "hookText": "http:\/\/www.bedbathandbeyond.com\/store\/product\/Kenneth-Cole-Reaction-Home-Hotel-Neutral-Comforter-Set\/206993?\nThe clean smart lines of the Hotel Neutral comforter bring a touch of modern class to any bedroom. Thanks for watching. Make sure to subscribe to the Bed Bath & Beyond YouTube Channel.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CbQSwfm5h3A\/hqdefault.jpg",
+                "videoId": "CbQSwfm5h3A",
+                "mediaDuration": "85",
+                "prettyDuration": "00:01:25",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/kenneth-cole-reaction-home-hotel-neutral-comforter-set-at-bed-bath-beyond\/114661406-6287550"
+        },
+        {
+            "id": "66785349",
+            "title": "Breville -- Tips and Tricks: The Die-Cast 2-Slice and 4-Slice Smart Toasters BTA820XL BTA840XL",
+            "date_created": "1260384478",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Breville's Adele Schober demonstrates the features and functionality of the Die-Cast 2-Slice and 4-Slice Smart Toasters.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/lau-DNv2_Rw\/hqdefault.jpg",
+                "uploadDate": 1260384478,
+                "videoId": "lau-DNv2_Rw",
+                "title": "Breville -- Tips and Tricks: The Die-Cast 2-Slice and 4-Slice Smart Toasters BTA820XL BTA840XL",
+                "description": "For more about Breville products visit: www.brevilleusa.com\n\nBreville's Adele Schober demonstrates the features and functionality of the Die-Cast 2-Slice and 4-Slice Smart Toasters.\n\nSubscribe to our YouTube Channel:\nhttp:\/\/www.youtube.com\/subscription_center?add_user=breville\n\nLike us on Facebook:\nhttps:\/\/www.facebook.com\/brevilleusa\n\nPin us on Pinterest:\nhttp:\/\/pinterest.com\/brevilleusa\/\n\nFollow us on Twitter:\nhttps:\/\/twitter.com\/brevilleusa",
+                "author": "breville",
+                "mediaDuration": 65,
+                "prettyDuration": "00:01:05",
+                "views": "43997",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/breville-tips-and-tricks-the-die-cast-2-slice-and-4-slice-smart-toasters-bta820xl-bta840xl\/114661406-66785349"
+        },
+        {
+            "id": "6468423",
+            "title": "Wamsutta Ashby Bedding Collection at Bed Bath & Beyond",
+            "date_created": "1391202496",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "http:\/\/www.bedbathandbeyond.com\/store\/product\/Wamsutta-reg-Ashby-Duvet-Cover\/210689?Keyword=ashby+duvet+cover Update your bed in timeless style ...",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Szzou7oXOVk\/hqdefault.jpg",
+                "uploadDate": 1391202496,
+                "videoId": "Szzou7oXOVk",
+                "title": "Wamsutta Ashby Bedding Collection at Bed Bath & Beyond",
+                "description": "http:\/\/www.bedbathandbeyond.com\/store\/product\/Wamsutta-reg-Ashby-Duvet-Cover\/210689?Keyword=ashby+duvet+cover Update your bed in timeless style ...",
+                "author": "Bedbathandbeyond",
+                "mediaDuration": "85",
+                "prettyDuration": "00:01:25",
+                "views": "284"
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/wamsutta-ashby-bedding-collection-at-bed-bath-beyond\/114661406-6468423"
+        },
+        {
+            "id": "110008668",
+            "title": "Pure Beech Jersey Knit Sheet Set",
+            "date_created": "1502526096",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "58",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "58",
+                "prettyDuration": "00:00:58",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/696894225-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110008668\/23a2b\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110008668\/23a2b\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008668\/23a2b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008668\/23a2b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008668\/23a2b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008668\/23a2b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110008668\/23a2b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/beech-jersey-5-15-12-ca-mp4\/114661406-110008668"
+        },
+        {
+            "id": "110002055",
+            "title": "Plaza Swirl Bath Ensemble",
+            "date_created": "1502524668",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "32",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "32",
+                "prettyDuration": "00:00:32",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110002055\/b36fb\/thumb-74575cb087555b4162ebfc98e0ba96ac-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110002055\/b36fb\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110002055\/b36fb\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110002055\/b36fb\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110002055\/b36fb\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110002055\/b36fb\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110002055\/b36fb\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110002055\/b36fb\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/plaza-swirl-bath-ensemble\/114661406-110002055"
+        }
+    ]
+}

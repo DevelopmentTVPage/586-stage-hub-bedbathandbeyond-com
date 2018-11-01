@@ -1,0 +1,113 @@
+{
+    "id": "109997878",
+    "loginId": "1758166",
+    "user_id": "0",
+    "referenceId": "1913472355",
+    "entityType": "1",
+    "date_created": "1502524143",
+    "date_modified": "1510695352",
+    "title": "Puj&reg; Flyte&trade;Compact Infant Bath",
+    "description": "",
+    "tags": "",
+    "status": "pending",
+    "visibility": "1",
+    "sortOrder": "3214",
+    "entityIdParent": "114661406",
+    "titleTextEncoded": "puj-flyte-compact-infant-bath",
+    "category": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "50",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "50",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "50",
+        "prettyDuration": "00:00:50",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/418872893-01320180.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109997878\/382e6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109997878\/382e6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109997878\/382e6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109997878\/382e6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109997878\/382e6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109997878\/382e6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109997878\/382e6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "After the Puj Tub was available on the market, I started to notice that people were taking their tubs with them on vacation or to Grandma's house.\r\n\r\n I looked at the design and I thought, I can rework this and make it more travel-friendly, something that you could throw into your roll-on suitcase or even into your diaper bag.\r\n\r\n The Puj Flyte is made from a more durable material which is great for travel. It hangs flat and it's still non-slip, soft, and warm against your baby's skin.\r\n\r\n And like the Puj Tub, it's a quick, easy bath solution that works in your sink.\r\n\r\n It dries very quickly and it creates a comforting bath experience for both you and for your baby.",
+    "video_type": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "VV_VI": 9,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "notes": "",
+    "uploader": "Douglas.French",
+    "modified_date": "4\/9\/2015",
+    "created_date": "4\/9\/2015",
+    "creator": null,
+    "video_classification1": null,
+    "tvp_profiles": [
+        "18",
+        "9",
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1474.2098,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

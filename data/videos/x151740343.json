@@ -1,0 +1,119 @@
+{
+    "title": "Graco RoadMaster Jogging Stroller in Oakley Grey",
+    "description": "Graco's RoadMaster Jogging Stroller is designed for avid joggers. Featuring FastAction one-second fold, movable parent cup holder, arm bar with cup holder for easy entry and convertible harness that grows with your child, perfect for parents on-the-move.",
+    "referenceId": "477084d3c91ce2cd539a918b97336a4b",
+    "date_created": "1519764968",
+    "date_modified": "1520354998",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "strollers",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_Baby",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "151740343",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "0047406147458-wmv",
+    "category": "",
+    "duration": "70",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "70",
+            "width": 720,
+            "height": 484
+        },
+        "mediaDuration": "70",
+        "prettyDuration": "00:01:10",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/716\/403\/482113884-040716443.JPG",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/151740343\/f4883\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/151740343\/f4883\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/151740343\/cc\/vtt\/en_1519769111.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/151740343\/f4883\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 484
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/151740343\/f4883\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 484
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/151740343\/f4883\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 714,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/151740343\/f4883\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 536,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/151740343\/f4883\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 216
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 262,
+    "CVV_VI": 2,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "with spoken words",
+    "uploader": "Franz Aquino",
+    "modified_date": "",
+    "created_date": "02\/27\/2018",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

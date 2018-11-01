@@ -1,0 +1,113 @@
+{
+    "id": "150989130",
+    "loginId": "1758166",
+    "user_id": "0",
+    "referenceId": "9d9f0cc8c78db613e3235a518e951361",
+    "entityType": "1",
+    "date_created": "1519054635",
+    "date_modified": "1519056641",
+    "title": "FirsTime 72-Inch Grandfather Clock in Espresso.mp4",
+    "description": "Add a classically elegant timepiece to your wall space with the striking FirsTime Grandfather Clock. Boasting an impressive six feet tall design, this grandfather clock features a swinging pendulum and a bold dark espresso finish.",
+    "tags": "",
+    "status": "pending",
+    "visibility": "1",
+    "sortOrder": "1172",
+    "entityIdParent": "114661406",
+    "titleTextEncoded": "083934310179-chime-video-mp4",
+    "category": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "33",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "33",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "33",
+        "prettyDuration": "00:00:33",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1264\/710\/952262636-021264712.png",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/150989130\/845d7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/150989130\/845d7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/150989130\/845d7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/150989130\/845d7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/150989130\/845d7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/150989130\/845d7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/150989130\/845d7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "video_type": "home_decor",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "VV_VI": 72,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "notes": "",
+    "uploader": "Michele Ibanibo",
+    "modified_date": "02\/19\/2018",
+    "created_date": "02\/19\/2018",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

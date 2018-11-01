@@ -1,0 +1,123 @@
+{
+    "title": "Gen7Pets Promenade Pet Stroller",
+    "description": "",
+    "referenceId": "b20e6df19da275c7cd8ab95d3b7ab7de",
+    "date_created": "1528903425",
+    "date_modified": "1529337401",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "other",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "164874610",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "PromenadeStroller-44337278-44337254-60768797",
+    "category": "",
+    "duration": "102",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "102",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "102",
+        "prettyDuration": "00:01:42",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1920\/1080\/851956394-1528904374.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/164874610\/99aa9\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/164874610\/99aa9\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/164874610\/cc\/vtt\/en_1529337365.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164874610\/99aa9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164874610\/99aa9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164874610\/99aa9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164874610\/99aa9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164874610\/99aa9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Welcome to the Gen7 Family of products. Your Promenade Stroller provides both a stylish and secure ride for pets up to 50 pounds. The Promenade is easy to put together, with no additional tools required.\nFirst, assemble the rear wheel axel with black cogs on the inside. Place a wheel on the end of the axel assembly. Add a lock washer. Secure the wheel with a push cotter pin. Snap the black cap into place. Repeat with the second wheel.\nWith the stroller frame upside down, point the brake towards you. Simply push the black plastic sleeves of the axel to the frame until it locks into place.\nNext, Attach the front wheel assembly by sliding the assembly on the front wheel post. Make sure the end with the locking tab goes on 1st. Simply push until you hear a click. Release the tab and pull gently to confirm you\u2019ve locked the wheel. We\u2019re almost ready to roll!\nThe parent tray easily clips to the handle. Align the holes on the sides of the tray to the pins on the frame.\nTo fold your stroller, make sure the storage basket is empty. Push the thumb lock button to the left. Squeeze and rotate the handle. Push forward to allow the stroller to collapse.  Lock the black plastic latch to the side of the frame.\nFor more information about The Promenade, or any of our Gen7 Pet products, visit gen7pets.com.",
+    "VV_VI": 2,
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript for reference.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "6\/13\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "",
+    "tvp_enhanced_transcript": ""
+}

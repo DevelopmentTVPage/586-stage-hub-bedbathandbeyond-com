@@ -1,0 +1,117 @@
+{
+    "title": "Cuisinart HM 70 Power Advantage 7 Speed Hand Mixer",
+    "description": "",
+    "referenceId": "5623",
+    "date_created": "1502924734",
+    "date_modified": "1516395251",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180532",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "cuisinart-hm-70-power-advantage-7-speed-hand-mixer",
+    "category": "",
+    "duration": "93",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "93",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "93",
+        "prettyDuration": "00:01:33",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180532\/957c4\/thumb-5623-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180532\/957c4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180532\/957c4\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180532\/cc\/vtt\/en_1516395243.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180532\/957c4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180532\/957c4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180532\/957c4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180532\/957c4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180532\/957c4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Cuisinart\u00ae 7-Speed Chrome-Plated Hand Mixer\r\n\r\nThis attractive, fully chrome-plated hand mixer looks fantastic in any kitchen setting, and most importantly, flawlessly and easily mixes  Cuisinart 7 Speed Chome Plated Hand Mixereven the heaviest ingredients. From dense cookie dough to whipped cream, the powerful 220-watt motor with automatic feedback can perform any mixing task, and three low mixing speeds help eliminate splattering. The precision touchpad with digital display shifts speeds with just one touch, the swivel cord delivers versatility for both left-handed and right-handed use, and the beater eject lever is conveniently located. Extra-long self cleaning beaters have no center posts. Recipe book included. 3-year limited warranty. Model #HM-70.\r\n\r\nHi, I\u0092m Mary Rogers, director of marketing communications for Cuisinart.  This is our Power Advantage Hand Mixer.  This is a great product.  It has 220 watts of power.  It has seven speeds.  It has an easy on off switch that turns the product on or off.  It has a slow start feature.  You notice how it starts really slow so you don\u0092t get spatters or splatters.  You press the plus button to go up.  You go all the way up to 7.  You press the minus button to go down.  Then you just put the power switch back off to turn the mixer off.  It has really nicely shaped, long beaters that help you mix very efficiently.  It has a cord that locks to the left if you\u0092re right-handed, or to the right if you\u0092re left-handed.  \r\n\r\nThat keeps the cord out of the way.  That\u0092s really great.  It has a beautiful design.  It has a nice chrome plating to it.  It\u0092s very efficient.  It can do everything up to really dry cookie doughs.  It also has an eject button here.  You pull this out, and the beaters will be removed.  Then you can insert your whisk attachment.  The whisk attachment is really great where you can do anything that you want to add lots of air to.  It has very fine, stainless steel tines and a very large balloon shape that adds a lot of air when you\u0092re mixing.  You can get so much use out of the hand mixture.  You can have fun making brownies, or you can even make lots of different types of cookies.  It\u0092s a great product to have in your home kitchen, and you\u0092ll get lots of fun and use out of it.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "jason",
+    "modified_date": "8\/30\/2012",
+    "created_date": "11\/10\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 3329.668,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,117 @@
+{
+    "title": "Brookstone Maximum Percussion Massager",
+    "description": "",
+    "referenceId": "55998",
+    "date_created": "1502526122",
+    "date_modified": "1516645861",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110008680",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "brookstone-maximum-percussion-massager",
+    "category": "",
+    "duration": "44",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "44",
+            "width": 960,
+            "height": 540
+        },
+        "mediaDuration": "44",
+        "prettyDuration": "00:00:44",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110008680\/25e09\/thumb-f07179afd5a32f6a9170b30356e8cf9f-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110008680\/25e09\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110008680\/25e09\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008680\/25e09\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008680\/25e09\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008680\/25e09\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008680\/25e09\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110008680\/25e09\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110008680\/cc\/vtt\/en_1516645861.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "Hey. Have I got something great to show you. You\u009dre going to love this. You know how sometimes you get a knot in your back, like right here and it just won\u009dt budge?\r\n\r\nHave I got something great to show you. You\u009dre going to love this. You know Well Brookstone has an incredible solution, the Max 2 Massager gets the job done with dual acupressure nodes and ache relieving percussive power.\r\n\r\nHave I got something great to show you. You\u009dre going to love this. You know The two handles, one here at the base and another up at the massage head, allows you to get a great grip so that you can focus in on the right spots when you\u009dre giving or getting a massage.\r\n\r\nHave I got something great to show you. You\u009dre going to love this. You know It\u009ds perfectly balanced and easy to hold so you can get those hard-to-reach areas like the small of your back or in between your shoulder blades.\r\n\r\nHave I got something great to show you. You\u009dre going to love this. You know The Max 2 Massager, only from Brookstone.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "FTP",
+    "modified_date": "7\/19\/2012",
+    "created_date": "7\/18\/2012",
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 19.542004,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

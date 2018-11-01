@@ -1,0 +1,1081 @@
+{
+    "pageNumber": 112,
+    "data": [
+        {
+            "id": "109980675",
+            "title": "SilverStone 3.4 Qt. Microwave Pressure Cooker",
+            "date_created": "1502520889",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "78",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "78",
+                "prettyDuration": "00:01:18",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109980675\/02c0c\/thumb-a4a6761ff4d456b9f29c06cd599d5cbc-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109980675\/02c0c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109980675\/02c0c\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980675\/02c0c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980675\/02c0c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980675\/02c0c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980675\/02c0c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980675\/02c0c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109980675\/cc\/vtt\/en_1516669393.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/silverstone-3-4-qt-microwave-pressure-cooker\/114661406-109980675"
+        },
+        {
+            "id": "109980719",
+            "title": "Gripper Window Tension Rod",
+            "date_created": "1502521021",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "37",
+                    "width": 512,
+                    "height": 288
+                },
+                "mediaDuration": "37",
+                "prettyDuration": "00:00:37",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/546287360-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109980719\/feb62\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109980719\/feb62\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109980719\/cc\/vtt\/en_1504213049.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980719\/feb62\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980719\/feb62\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980719\/feb62\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980719\/feb62\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109980719\/feb62\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/gripper-window-tension-rod\/114661406-109980719"
+        },
+        {
+            "id": "109984975",
+            "title": "OXO Good Grips&reg; Wine Stopper and Pourer Combination",
+            "date_created": "1502521766",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "49",
+                    "width": 864,
+                    "height": 486
+                },
+                "mediaDuration": "49",
+                "prettyDuration": "00:00:49",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109984975\/e9b22\/thumb-b544562d719dfb2a45f8c46c59ee21aa-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109984975\/e9b22\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109984975\/e9b22\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109984975\/e9b22\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109984975\/e9b22\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109984975\/e9b22\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109984975\/e9b22\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109984975\/e9b22\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109984975\/cc\/vtt\/en_1504813734.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/oxo-good-grips-wine-stopper-and-pourer-combination\/114661406-109984975"
+        },
+        {
+            "id": "109990288",
+            "title": "Bacon Boss Microwave Bacon Cooker",
+            "date_created": "1502522624",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "82",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "82",
+                "prettyDuration": "00:01:22",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109990288\/45a14\/thumb-5a4f5d27b72384ca926ad5a04d48cf4f-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109990288\/45a14\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109990288\/45a14\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109990288\/45a14\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109990288\/45a14\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109990288\/45a14\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109990288\/45a14\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109990288\/45a14\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109990288\/cc\/vtt\/en_1504286372.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/bacon-boss-microwave-bacon-cooker\/114661406-109990288"
+        },
+        {
+            "id": "109991353",
+            "title": "The Original Master Slicer&trade;",
+            "date_created": "1502522819",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "123",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "123",
+                "prettyDuration": "00:02:03",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109991353\/6577f\/thumb-5ae8535825bea78d2e60c2f1a410d406-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109991353\/6577f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109991353\/6577f\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109991353\/6577f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109991353\/6577f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109991353\/6577f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109991353\/6577f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109991353\/6577f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109991353\/cc\/vtt\/en_1504293266.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/the-original-master-slicer\/114661406-109991353"
+        },
+        {
+            "id": "111180085",
+            "title": "Mastrad TopChips Chips Maker",
+            "date_created": "1502923839",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "93",
+                    "width": 320,
+                    "height": 240
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180085\/24a1e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180085\/24a1e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180085\/24a1e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180085\/24a1e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180085\/24a1e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "93",
+                "prettyDuration": "00:01:33",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180085\/24a1e\/thumb-1933494035-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180085\/24a1e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180085\/24a1e\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111180085\/cc\/vtt\/en_1504201981.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/mastrad-topchips-chips-maker\/114661406-111180085"
+        },
+        {
+            "id": "109995823",
+            "title": "Leifheit Gourmet Garlic Slicer",
+            "date_created": "1502523992",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "33",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "33",
+                "prettyDuration": "00:00:33",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109995823\/c769e\/thumb-0c9275209e68c764a51585f0d83c5640-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109995823\/c769e\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109995823\/c769e\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995823\/c769e\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995823\/c769e\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995823\/c769e\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995823\/c769e\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109995823\/c769e\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109995823\/cc\/vtt\/en_1504292324.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/leifheit-gourmet-garlic-slicer\/114661406-109995823"
+        },
+        {
+            "id": "109989170",
+            "title": "Wamsutta PimaCott",
+            "date_created": "1502522336",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "37",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "37",
+                "prettyDuration": "00:00:37",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109989170\/917a5\/thumb-e83271b0fef819a5016a39922a1d684f-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109989170\/917a5\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109989170\/917a5\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109989170\/cc\/vtt\/en_1504813187.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989170\/917a5\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989170\/917a5\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989170\/917a5\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989170\/917a5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989170\/917a5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/wamsutta-pimacott\/114661406-109989170"
+        },
+        {
+            "id": "119838992",
+            "title": "Amazon Echo",
+            "date_created": "1506629339",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "112",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "112",
+                "prettyDuration": "00:01:52",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1261\/692\/317069742-021261694.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/119838992\/b8659\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/119838992\/b8659\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/119838992\/cc\/vtt\/en_1506699336.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119838992\/b8659\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119838992\/b8659\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119838992\/b8659\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119838992\/b8659\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119838992\/b8659\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/river-us-master-a-082117-mp4-echo-mp4\/114661406-119838992"
+        },
+        {
+            "id": "119838991",
+            "title": "Amazon Echo Plus",
+            "date_created": "1506629289",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "144",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "144",
+                "prettyDuration": "00:02:24",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1254\/704\/861431751-021254706.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/119838991\/23366\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/119838991\/23366\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/119838991\/cc\/vtt\/en_1506699381.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119838991\/23366\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119838991\/23366\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119838991\/23366\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119838991\/23366\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119838991\/23366\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/signal-us-mp4-master-echo-plus-mp4\/114661406-119838991"
+        },
+        {
+            "id": "111180192",
+            "title": "Meadow 3D Wall Art",
+            "date_created": "1502924079",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "12",
+                    "width": 584,
+                    "height": 380
+                },
+                "mediaDuration": "12",
+                "prettyDuration": "00:00:12",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180192\/76796\/thumb-27973-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180192\/76796\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180192\/76796\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180192\/76796\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 584,
+                        "height": 380
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180192\/76796\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 584,
+                        "height": 380
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180192\/76796\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 584,
+                        "height": 380
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180192\/76796\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 554,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180192\/76796\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 208
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/meadow-3d-wall-art\/114661406-111180192"
+        },
+        {
+            "id": "6287512",
+            "title": "Kenneth Cole Reaction Shade Comforter Bedding Ensemble at Bed Bath & Beyond",
+            "date_created": "1438385971",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Transform your bedroom into a soothing sanctuary with the Kenneth Cole Reaction Home Shade Comforter. Adorned with a beautiful botanical print upon a rich plum background, the plush bedding instantly adds a lavish look to your bed. Thanks for watching.",
+            "asset": {
+                "type": "youtube",
+                "author": "Bed Bath & Beyond",
+                "hdvFlag": 1,
+                "hookText": "http:\/\/www.bedbathandbeyond.com\/store\/product\/kenneth-cole-reaction-home-shade-comforter-in-plum\/211719?Keyword=kenneth+cole+reaction+home&view=list\nTransform your bedroom into a soothing sanctuary with the Kenneth Cole Reaction Home Shade Comforter. Adorned with a beautiful botanical print upon a rich plum background, the plush bedding instantly adds a lavish look to your bed. Thanks for watching. Make sure to subscribe to the Bed Bath & Beyond YouTube Channel.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ADdqb1bnBtE\/hqdefault.jpg",
+                "videoId": "ADdqb1bnBtE",
+                "mediaDuration": "69",
+                "prettyDuration": "00:01:09"
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/kenneth-cole-reaction-shade-comforter-bedding-ensemble-at-bed-bath-beyond\/114661406-6287512"
+        },
+        {
+            "id": "6287528",
+            "title": "Kenneth Cole Reaction Home Mosaic Tile Area Rug at Bed Bath & Beyond",
+            "date_created": "1438386579",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "From Kenneth Cole Reaction Home, this sculpted multicolored area rug in acrylic\/polypropylene has a textured, geometric look reminiscent of fine tile work. Thanks for watching.",
+            "asset": {
+                "type": "youtube",
+                "author": "Bed Bath & Beyond",
+                "hdvFlag": 1,
+                "hookText": "http:\/\/www.bedbathandbeyond.com\/product.asp?SKU=208057\nFrom Kenneth Cole Reaction Home, this sculpted multicolored area rug in acrylic\/polypropylene has a textured, geometric look reminiscent of fine tile work. Thanks for watching. Make sure to subscribe to the Bed Bath & Beyond YouTube Channel.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/0A78IXgKNH8\/hqdefault.jpg",
+                "videoId": "0A78IXgKNH8",
+                "mediaDuration": "51",
+                "prettyDuration": "00:00:51",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/kenneth-cole-reaction-home-mosaic-tile-area-rug-at-bed-bath-beyond\/114661406-6287528"
+        },
+        {
+            "id": "110005263",
+            "title": "Quirky Thor Collapsible Double-Blade Ice Scraper",
+            "date_created": "1502525213",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "35",
+                    "width": 640,
+                    "height": 360
+                },
+                "mediaDuration": "35",
+                "prettyDuration": "00:00:35",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/461812718-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110005263\/0aace\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110005263\/0aace\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/110005263\/cc\/vtt\/en_1516734513.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110005263\/0aace\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110005263\/0aace\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110005263\/0aace\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110005263\/0aace\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110005263\/0aace\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/quirky-thor-collapsible-double-blade-ice-scraper\/114661406-110005263"
+        },
+        {
+            "id": "6468398",
+            "title": "CucinaPro Flatbread Maker at Bed Bath & Beyond",
+            "date_created": "1391802673",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "http:\/\/www.bedbathandbeyond.com\/store\/product\/CucinaPro-trade-Flatbread-Maker\/1018827808 Flatbread maker flattens and bakes one 10\" bread or tortilla.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/rqWwOFUGz-c\/hqdefault.jpg",
+                "uploadDate": 1391802673,
+                "videoId": "rqWwOFUGz-c",
+                "title": "CucinaPro Flatbread Maker at Bed Bath & Beyond",
+                "description": "http:\/\/www.bedbathandbeyond.com\/store\/product\/CucinaPro-trade-Flatbread-Maker\/1018827808 Flatbread maker flattens and bakes one 10\" bread or tortilla.",
+                "author": "Bedbathandbeyond",
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "views": "1234",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/cucinapro-flatbread-maker-at-bed-bath-beyond\/114661406-6468398"
+        },
+        {
+            "id": "67495590",
+            "title": "Cuisinart Frozen Yogurt - Ice Cream & Sorbet Maker (ICE-21) Demo Maker",
+            "date_created": "1334688182",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Learn more: http:\/\/www.cuisinart.com\/products\/ice_cream\/ice-21.html\n\nNow you can enjoy the finest homemade frozen treats -- at home! The fully automatic Cuisinart\u00ae Frozen Yogurt -- Ice Cream & Sorbet Maker lets you make your favorites in 20 minutes or less, with no fuss and no mess. Just add ingredients to the bowl, press ON and the machine does the rest!\n\nJoin us:\nhttp:\/\/www.facebook.com\/cuisinart\nhttp:\/\/twitter.com\/#!\/mycuisinart",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/7iJ70kvEGoQ\/hqdefault.jpg",
+                "uploadDate": 1334688182,
+                "videoId": "7iJ70kvEGoQ",
+                "title": "Cuisinart Frozen Yogurt - Ice Cream & Sorbet Maker (ICE-21) Demo Maker",
+                "description": "Learn more: http:\/\/www.cuisinart.com\/products\/ice_cream\/ice-21.html\n\nNow you can enjoy the finest homemade frozen treats -- at home! The fully automatic Cuisinart\u00ae Frozen Yogurt -- Ice Cream & Sorbet Maker lets you make your favorites in 20 minutes or less, with no fuss and no mess. Just add ingredients to the bowl, press ON and the machine does the rest!\n\nJoin us:\nhttp:\/\/www.facebook.com\/cuisinart\nhttp:\/\/twitter.com\/#!\/mycuisinart",
+                "author": "Cuisinart",
+                "mediaDuration": 74,
+                "prettyDuration": "00:01:14",
+                "views": "70188"
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/cuisinart-frozen-yogurt-ice-cream-sorbet-maker-ice-21-demo-maker\/114661406-67495590"
+        },
+        {
+            "id": "66102424",
+            "title": "Shark Sonic Duo for Carpets & Hard Floors: Carpet Cleaning",
+            "date_created": "1365169628",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "There is no such thing as cleaning your carpets too often as long as the method you are using is safe for the surface but keep in mind removing dirt and soil slows down the carpet's wear process. The Shark\u00ae Sonic Duo\u2122 cleaning system is a fun, easy, safe and gentle way to regularly clean and maintain your carpets helping them to look cleaner and brighter over time.\n\nTo learn more and purchase the product, visit www.SharkSonicDuo.com.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/3dq8UHVDj7k\/hqdefault.jpg",
+                "uploadDate": 1365169628,
+                "videoId": "3dq8UHVDj7k",
+                "title": "Shark Sonic Duo for Carpets & Hard Floors: Carpet Cleaning",
+                "description": "There is no such thing as cleaning your carpets too often as long as the method you are using is safe for the surface but keep in mind removing dirt and soil slows down the carpet's wear process. The Shark\u00ae Sonic Duo\u2122 cleaning system is a fun, easy, safe and gentle way to regularly clean and maintain your carpets helping them to look cleaner and brighter over time.\n\nTo learn more and purchase the product, visit www.SharkSonicDuo.com.",
+                "author": "Shark Cleaning",
+                "mediaDuration": 54,
+                "prettyDuration": "00:00:54",
+                "views": "778"
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/shark-sonic-duo-for-carpets-hard-floors-carpet-cleaning\/114661406-66102424"
+        },
+        {
+            "id": "111179953",
+            "title": "Simplehuman Triple Wall Mount Pumps",
+            "date_created": "1502923537",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "24",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "24",
+                "prettyDuration": "00:00:24",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179953\/c0006\/thumb-1496189417-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179953\/c0006\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179953\/c0006\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111179953\/cc\/vtt\/en_1516733579.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179953\/c0006\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179953\/c0006\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179953\/c0006\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179953\/c0006\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179953\/c0006\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/simplehuman-triple-wall-mount-pumps\/114661406-111179953"
+        },
+        {
+            "id": "106044022",
+            "title": "Breville -- Breville's Ad\u00e8le Schober Presents \u2014 Juicing Recipe: Cotton Candy",
+            "date_created": "1295450618",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "For more about Breville products visit: www.brevilleusa.com\n\nEnjoy your Breville juicer with the delicious Cotton Candy, a juicing recipe with blueberries, grapefruit, and guava.\n\nSubscribe to our YouTube Channel:\nhttp:\/\/www.youtube.com\/subscription_center?add_user=breville\n\nLike us on Facebook:\nhttps:\/\/www.facebook.com\/brevilleusa\n\nPin us on Pinterest:\nhttp:\/\/pinterest.com\/brevilleusa\/\n\nFollow us on Twitter:\nhttps:\/\/twitter.com\/brevilleusa",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/r63xCFuXRp4\/hqdefault.jpg",
+                "uploadDate": 1295450618,
+                "videoId": "r63xCFuXRp4",
+                "title": "Breville -- Breville's Ad\u00e8le Schober Presents \u2014 Juicing Recipe: Cotton Candy",
+                "description": "For more about Breville products visit: www.brevilleusa.com\n\nEnjoy your Breville juicer with the delicious Cotton Candy, a juicing recipe with blueberries, grapefruit, and guava.\n\nSubscribe to our YouTube Channel:\nhttp:\/\/www.youtube.com\/subscription_center?add_user=breville\n\nLike us on Facebook:\nhttps:\/\/www.facebook.com\/brevilleusa\n\nPin us on Pinterest:\nhttp:\/\/pinterest.com\/brevilleusa\/\n\nFollow us on Twitter:\nhttps:\/\/twitter.com\/brevilleusa",
+                "author": "breville",
+                "mediaDuration": 105,
+                "prettyDuration": "00:01:45",
+                "views": "10653"
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/breville-breville-s-ad\u00e8le-schober-presents-juicing-recipe-cotton-candy\/114661406-106044022"
+        },
+        {
+            "id": "6410454",
+            "title": "Real Simple- How To Choose Your Window Treatments",
+            "date_created": "1442449046",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Real Simple- How To Choose Your Window Treatments",
+            "asset": {
+                "type": "youtube",
+                "author": "Bedbathandbeyond",
+                "hdvFlag": 0,
+                "hookText": "",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/MyCS9AF6Q4k\/hqdefault.jpg",
+                "videoId": "MyCS9AF6Q4k",
+                "mediaDuration": "81",
+                "prettyDuration": "00:01:21"
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/real-simple-how-to-choose-your-window-treatments\/114661406-6410454"
+        }
+    ]
+}

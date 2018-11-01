@@ -1,0 +1,118 @@
+{
+    "title": "Real Simple Slimline Hangers with Built-in Hooks",
+    "description": "",
+    "referenceId": "9962",
+    "date_created": "1502924839",
+    "date_modified": "1516395136",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180601",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "real-simple-slimline-hangers-with-built-in-hooks",
+    "category": "",
+    "duration": "95",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "95",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "95",
+        "prettyDuration": "00:01:35",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180601\/4ff4e\/thumb-9962-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180601\/4ff4e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180601\/4ff4e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180601\/cc\/vtt\/en_1516395126.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180601\/4ff4e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180601\/4ff4e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180601\/4ff4e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180601\/4ff4e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180601\/4ff4e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Want to fit more in your closet? Guess what? All it takes are the right hangers. I'm Chris from Real Simple, and these slim line hangers from the Real Simple Solutions line, available exclusively at Bed Bath and Beyond, will more than double your closet space.\r\n\r\nHere's how it works. An ordinary set of 10 wooden hangers takes up five inches of closet space. These slim line hangers, 10 of those take up just two and a quarter, giving you almost three inches of extra space.\r\n\r\nPlus every hanger has a built in hook, allowing you to cascade your clothes, giving you a little extra space if you need it. They all have an accessory bar for scarves or belts or ties. This is also a great way to put an outfit together the night before, saving you a little time in the morning.\r\n\r\nThe hangers are flocked, which keeps clothes from slipping off, and they come in five different colors in sets of 12. Value packs of 50 are also available.\r\n\r\nNow if you want to convert your slim line hangers into pant or skirt hangers, all you have to do is pick up a pair of our hanger clips. They snap on really easily, and they hold pants or skirts.\r\n\r\nAlso slim line pant hangers with swing out arms are available. These hold five pairs of pants. How great. Look at how little room that would take up in your closet.\r\n\r\nNow, a great creative use for this would be to turn it into a gift wrap station - paper at the bottom, ribbon across the top, ready to wrap a gift whenever you need it.\r\n\r\nThe Real Simple Solutions line is available at Bed Bath and Beyond stores and bedbathandbeyond.com. For more Real Simple Solutions, check out realsimple.com.",
+    "VV_VI": 7,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "12\/8\/2011",
+    "created_date": "3\/3\/2010",
+    "tvp_profiles": [
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2105.6184,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

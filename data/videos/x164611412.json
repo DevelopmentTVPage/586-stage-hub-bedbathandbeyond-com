@@ -1,0 +1,118 @@
+{
+    "title": "College EP 2018_Bedroom_v10_FINAL",
+    "description": "",
+    "referenceId": "a10a560f5fc2efabb98a59bcd3ea4009",
+    "date_created": "1527782406",
+    "date_modified": "1527783490",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "college",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "n_a2",
+    "creator": "in_house",
+    "video_classification1": "college_video",
+    "user_id": "0",
+    "id": "164611412",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "College-EP-2018-Bedroom-v10-FINAL",
+    "category": "",
+    "duration": "24",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "24",
+            "width": 1620,
+            "height": 1080
+        },
+        "mediaDuration": "24",
+        "prettyDuration": "00:00:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/164611412\/76121\/thumb-a10a560f5fc2efabb98a59bcd3ea4009-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/164611412\/76121\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/164611412\/76121\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164611412\/76121\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1620,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164611412\/76121\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164611412\/76121\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164611412\/76121\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/164611412\/76121\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 98,
+    "CVV_VI": 1,
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "delete": "",
+    "notes": "no spoken words",
+    "uploader": "Erica Zavolas",
+    "modified_date": "",
+    "created_date": "05\/31\/2018",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": "",
+    "tvp_enhanced_anti": "",
+    "tvp_enhanced_brand": "",
+    "tvp_enhanced_video_images": "Mercury Filmworks",
+    "tvp_enhanced_transcript": ""
+}

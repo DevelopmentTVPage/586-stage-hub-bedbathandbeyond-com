@@ -1,0 +1,117 @@
+{
+    "title": "Calphalon Removable Plate Grill",
+    "description": "",
+    "referenceId": "11279",
+    "date_created": "1502923143",
+    "date_modified": "1516899884",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111179788",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "calphalon-removable-plate-grill",
+    "category": "",
+    "duration": "90",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "90",
+            "width": 960,
+            "height": 720
+        },
+        "mediaDuration": "90",
+        "prettyDuration": "00:01:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179788\/2296c\/thumb-11279-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179788\/2296c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179788\/2296c\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179788\/cc\/vtt\/en_1516899862.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179788\/2296c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179788\/2296c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179788\/2296c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179788\/2296c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179788\/2296c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Presenting the Removable Plate Grill from the Calphalon Kitchen Electrics Collection. Perfect for easy, year round grilling. Calphalon's exclusive Opti-heat system ensures even heating. Temperature and timer are easy to set. The grill shuts off automatically.\r\n\r\nThe Calphalon Removable Plate Grill features extra large, high performance, bronze, nonstick grill plates ideal for steaks and Panini sandwiches. The adjustable top grill plate can be set to fit your favorite foods, even six thick burgers. The high performance, bronze nonstick means food cooks beautifully without sticking. Delicious, low fat cooking is even easier to clean up.\r\n\r\nThe removable plates are dishwasher safe. The Calphalon Removable Plate Grill stores as beautifully as it cooks. It locks easily to store flat or upright. The Removable Plate Grill from Calphalon. Style, performance, simplicity.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "12\/9\/2011",
+    "created_date": "4\/30\/2010",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1095.3549,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

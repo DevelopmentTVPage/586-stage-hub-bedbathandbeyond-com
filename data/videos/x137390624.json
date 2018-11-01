@@ -1,0 +1,123 @@
+{
+    "title": "Heys Luggage - Business Case Portal",
+    "description": "Established in 1986, in the suburbs of Toronto, Heys\u00ae International Ltd. has since become a global leader in luggage design and is synonymous with luxurious, fashionable lightweight luggage with high standard for excellence in workmanship and quality.",
+    "referenceId": "5f87d939ada9d525db7b2d11f3c996f4",
+    "date_created": "1515776454",
+    "date_modified": "1515795360",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "137390624",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Heys-Luggage-Business-Case-Portal-mp4",
+    "category": "",
+    "duration": "62",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "62",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "62",
+        "prettyDuration": "00:01:02",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390624\/b09aa\/thumb-5f87d939ada9d525db7b2d11f3c996f4-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390624\/b09aa\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390624\/b09aa\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390624\/b09aa\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390624\/b09aa\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390624\/b09aa\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390624\/b09aa\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390624\/b09aa\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390624\/cc\/vtt\/en_1515795360.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "[MUSIC PLAYING] Heys International is proud to introduce the smart business case. A functional, yet stylish case, for the business traveler. A convenient front panel opens to a laptop and tablet compartment. The accessories organizer is perfect for mobile phones, pens, business cards, and other small accessories. \n\nThe interior is fully lined with a satin finish, featuring a removable divider that transforms the case into a carry-on luggage. Its design makes it incredibly lightweight and scratch resistant. The spinner wheels allow for effortless handling in any environment. \n\nThe smart business case comes with a fixed TSA lock. These are special locks that will allow TSA security personnel to open, inspect, and re-lock your luggage without having to damage your lock. The smart business case will stand out among business travelers, not only for its honeycomb textured finish, but also with lightweight, functional use and effortless spinner wheels. The smart business case by Heys.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": "",
+    "tvp_profiles": [
+        "31",
+        "11",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 20.929697,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

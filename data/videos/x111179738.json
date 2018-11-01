@@ -1,0 +1,119 @@
+{
+    "title": "10-26-12 Neato XV 21-Email-5MB.mov",
+    "description": "",
+    "referenceId": "1014838997",
+    "date_created": "1502923048",
+    "date_modified": "1516736820",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111179738",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "10-26-12-neato-xv-21-email-5mb-mov",
+    "category": "",
+    "duration": "92",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "92",
+            "width": 710,
+            "height": 400
+        },
+        "mediaDuration": "92",
+        "prettyDuration": "00:01:32",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179738\/40873\/thumb-1014838997-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179738\/40873\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179738\/40873\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179738\/cc\/vtt\/en_1516736767.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179738\/40873\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 710,
+                "height": 400
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179738\/40873\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 710,
+                "height": 400
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179738\/40873\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 710,
+                "height": 400
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179738\/40873\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179738\/40873\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Pet lovers rejoice. There is a robot vacuum just for you. The Neato XV-21 is specially designed for pet owners and allergy sufferers.\r\n\r\nIt\u009ds the most powerful robot vacuum you can buy. Its suction is strong enough to pick up dirt, pet hair, dander and even cereal. Just like an upright. And its special filter removes three times the amount of dust particles as standard filters.\r\n\r\nThe Neato XV-21 is as smart as it is strong. It scans a room, identifying walls and obstacles, then uses this map as it cleans the floor.\r\n\r\nOther robots navigate by bumping into things so they move about randomly. But the Neato cleans in a methodical back-and-forth pattern that guarantees complete coverage. And Neato goes where upright vacuums can\u009dt, places where pet hair loves to hang out.\r\n\r\nThe Neato XV-21 is easy to use. Just hit the start button and the Neato does the rest. You can even schedule the Neato to clean when you\u009dre out so you\u009dll always come home to a clean house.\r\n\r\nThere are no bags to buy or throw away. When the Neato is full just empty the dirt bin.\r\n\r\nPet owners can spend over 100 hours a year vacuuming. But with Neato you can spend zero. The Neato XV-21 -powerful, smart, easy and perfect for pet owners.\r\n\r\nGet your XV-21 today and let Neato do the dirty work for you.",
+    "VV_VI": 1,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "FTP",
+    "modified_date": "12\/8\/2012",
+    "created_date": "12\/7\/2012",
+    "tvp_profiles": [
+        "2",
+        "11",
+        "26"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 27.528158,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,121 @@
+{
+    "title": "Breville Juice Fountain Elite 800JEXL",
+    "description": "",
+    "referenceId": "616d2a96066bd99ae64388ea451cd801",
+    "date_created": "1505322448",
+    "date_modified": "1516391383",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "117565272",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "11548-1-mp4",
+    "category": "",
+    "duration": "64",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "64",
+            "width": 960,
+            "height": 544
+        },
+        "mediaDuration": "64",
+        "prettyDuration": "00:01:04",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/117565272\/4624a\/thumb-616d2a96066bd99ae64388ea451cd801-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/117565272\/4624a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/117565272\/4624a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/117565272\/cc\/vtt\/en_1516391377.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117565272\/4624a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117565272\/4624a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 544
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117565272\/4624a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 848,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117565272\/4624a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 636,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/117565272\/4624a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 182
+            }
+        ]
+    },
+    "transcripts": "This is the Breville Juice Fountain Elite, and Breville was the first to introduce the 3 inch feed tube, so you can actually juice whole fruits without having to cut them down to size. And it's so powerful that you can juice fruit with the rind on. So let's get going. So we just turn it on, and that powerful motor gets going. Juicing whole fruit and fruit with the rind on. Look at that. Another great thing, a little tip is to put a plastic bag in the pulp container because it's so easy to clean like that. Or you can put your pulp into the compost or even in baking. So there's 100 percent use, and everything is dishwasher safe. So you just unsnap it, and then put all parts in the dishwasher. Another great renovation by Breville.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/12",
+    "created_date": "",
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 192.19916,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

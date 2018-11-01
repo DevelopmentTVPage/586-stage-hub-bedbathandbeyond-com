@@ -1,0 +1,117 @@
+{
+    "title": "Tuscan Expandable Wine Bar",
+    "description": "",
+    "referenceId": "1310795236",
+    "date_created": "1502519596",
+    "date_modified": "1516299591",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "109973204",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "tuscan-expandable-wine-bar",
+    "category": "",
+    "duration": "45",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "45",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "45",
+        "prettyDuration": "00:00:45",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/672151694-01320180.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109973204\/e6651\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973204\/e6651\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973204\/e6651\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973204\/e6651\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973204\/e6651\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973204\/e6651\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109973204\/e6651\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109973204\/cc\/vtt\/en_1516299591.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "This is the Tuscan Expandable Wine Bar \u009dfrom Bed Bath & Beyond.\r\n\r\nBoasting twelve convenient wine storage compartment this wine bar is a perfect addition to any home. Two shelves and closed-door cabinets provide ample space for dishes, bottles and accessories and the handy draweris perfect for storing wine bottle openers and bottle stoppers.\r\n\r\nThe expandable top opens wide when it\u009ds time to serve your guests and includes a convenient cutting board.\r\n\r\nThe wine bar comes in a rich espresso finish and is easy to assemble.\r\n\r\nThe Tuscan Expandable Wine Bar\u009davailable online or at a Bed Bath & Beyond near you.",
+    "VV_VI": 7291,
+    "CVV_VI": 31,
+    "engagement_score": 10,
+    "conversion_score": 2,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "christina.steel",
+    "modified_date": "10\/18\/2013",
+    "created_date": "10\/18\/2013",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 3859.7334,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

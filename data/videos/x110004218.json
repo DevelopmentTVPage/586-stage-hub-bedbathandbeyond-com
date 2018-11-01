@@ -1,0 +1,117 @@
+{
+    "title": "6 in 1 Footed Cake Dome",
+    "description": "",
+    "referenceId": "42206",
+    "date_created": "1502525073",
+    "date_modified": "1516736212",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110004218",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "6-in-1-footed-cake-dome",
+    "category": "",
+    "duration": "76",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "76",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "76",
+        "prettyDuration": "00:01:16",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004218\/b7152\/thumb-a85371b9467a0ca1fa26434e1efe528e-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110004218\/b7152\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004218\/b7152\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110004218\/cc\/vtt\/en_1516736208.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004218\/b7152\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004218\/b7152\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004218\/b7152\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004218\/b7152\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110004218\/b7152\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi. I'm Michelle from Bed Bath & Beyond and I'm here to tell you about the Six in One Footed Cake Dome. This glassware is the perfect combination of function and design. Composed of two unique pieces, this versatile serve ware is designed to be used in a variety of ways. By simply rearranging the pieces, it will not only look elegant on your table, but will fill your serving and entertaining needs. Let me show you the six ways you can arrange these beautiful pieces. First, it can be used as a classic footed cake plate, the perfect way to serve that special dessert. Secondly, add the dome and your dessert is covered until you're ready to serve. Or, simply put the plate on the bottom with the bowl side up. Turn the dome over and you have a beautiful punch bowl and platter to display some delicious fruit. Looking for an elegant way to serve salad? Using the same arrangement, fill the dome with salad greens and surround with your favorite salad crudit\u00e9s. Your guests will be very impressed with this salad bar. Looking for an attractive way to serve crudit\u00e9s? Turn the cake plate over and you have an elegant chip and dip server. Lastly, add the dome to keep veggies fresh until your guests arrive. No matter which way you arrange your cake platter and dome, you'll appreciate the function, style and elegance it adds to your table and parties. The Six in One Footed Cake Dome is available online and at a Bed Bath & Beyond store near you.",
+    "VV_VI": 48,
+    "CVV_VI": 6,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "amy.gibbons",
+    "modified_date": "1\/6\/2014",
+    "created_date": "12\/23\/2011",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 235.07352,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

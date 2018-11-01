@@ -1,0 +1,121 @@
+{
+    "title": "Cuisinart BRK 100 Brick Oven",
+    "description": "",
+    "referenceId": "5504",
+    "date_created": "1502924666",
+    "date_modified": "1516664991",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180486",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "cuisinart-brk-100-brick-oven",
+    "category": "",
+    "duration": "112",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "112",
+            "width": 480,
+            "height": 270
+        },
+        "mediaDuration": "112",
+        "prettyDuration": "00:01:52",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180486\/17cb6\/thumb-5504-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180486\/17cb6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180486\/17cb6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180486\/cc\/vtt\/en_1516664981.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180486\/17cb6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180486\/17cb6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180486\/17cb6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180486\/17cb6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 270
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180486\/17cb6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Cuisinart\u00ae Brick Oven Classic\r\n\r\nWith 0.9 cubic foot capacity and 1700 watts of power, this brick oven delivers restaurant-quality cooking. Two brick inserts plus baking  Cuisinart Brick Ovenstone help to retain heat for optimal baking performance. Features a fully functional toaster oven\/broiler that offers bake, broil and toast. Two wire racks allow for two level baking. Brick oven is a handsome addition to your counter with industrial-style stainless steel housing and tinted glass oven door. Limited three-year warranty. UL Listed. Model # BRK-100.\r\n\r\nCuisinart Brick Oven Classic  Video Transcript\r\n\r\nHi.  I\u0092m Mary Rogers, director of marketing communications at Cuisinart.  This is the Cuisinart Classic Brick Oven Toaster Oven.  This is a great product.  It goes up to 1,700 watts of power.  That\u0092s what it uses.  It\u0092s lined with bricks.  One is removable.  Two are permanently mounted on the side.  The bricks actually help radiate heat around the oven so you get really, really consistent cooking.  It\u0092s also great when you\u0092re doing any type of pizza or bread.  It gives it a really, really great crust on the outside.\r\n\r\nIt has two cooking racks.  When you pull them out, there\u0092s a little stop there that keeps them from falling out.  It has a really nice large tray and broiling rack.  The broiling rack; one side is lower than the other.  So you turn it on this side, it\u0092s deeper in the pan so it\u0092s further away from the element.  This side makes it closer to the element.  So when you\u0092re broiling and you put this in your oven, one of the things we always tell people is to make sure you leave it cracked a little bit.  That helps circulate the hot air around the oven.  That\u0092s really important to do.\r\n\r\nIt\u0092s all stainless steel.  It\u0092s beautifully designed.  In the front, we have our function buttons.  We also can do toast in here.  We have light, medium, and dark for toast, and then we have broil, bake, and toast on the function button.  On the left here, this is your temperature button that you\u0092ll use when you\u0092re cooking things like chicken or maybe an apple pie or even brownies.\r\n\r\nAdditionally, in the back, the crumb tray pulls all the way out from the back, so it\u0092s really easy to clean.  You just dump it out, wash it, and insert it right back in your toaster oven broiler.  You couldn\u0092t get better-tasting baked goods and home-cooked food using the Classic Cuisinart Brick Oven.",
+    "VV_VI": 8,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-06-18"
+        }
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "jason",
+    "modified_date": "8\/30\/2012",
+    "created_date": "11\/4\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 3276.0564,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

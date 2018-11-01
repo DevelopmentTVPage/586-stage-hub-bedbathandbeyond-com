@@ -1,0 +1,123 @@
+{
+    "title": "OXO POP Containers",
+    "description": "http:\/\/www.oxo.com\/p-877-10-piece-pop-container-set.aspx\n\nThe OXO POP Containers are airtight, stackable and space-efficient, making it easy to keep your dry foods fresh and your kitchen organized. The Containers have a unique push-button mechanism that creates an airtight seal with just one touch. The button also serves as a handle to lift off the lid. The Containers are designed for modular stacking so that you can efficiently organize your countertop and pantry. In addition, with their square and rectangular shapes, the POP Containers make the most of any storage space, while their corners allow for easy pouring. This set contains 10 POP Containers that are ideal for storing a variety of dry foods including flours, sugars, pasta, coffee, snack mix, nuts, candy and spices. They are also great for use in the home office, sewing room, play room and more; in fact, the Containers can be used in so many places that you'll want them POPping up everywhere. The Container lids come apart for thorough cleaning. All POP Containers are BPA free.",
+    "referenceId": "940a9e294e3384ed25a46cfe1aa91626",
+    "date_created": "1515718438",
+    "date_modified": "1516411131",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "137334458",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "videoplayback-1-mp4",
+    "category": "",
+    "duration": "79",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "79",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "79",
+        "prettyDuration": "00:01:19",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/638\/359\/657447448-061638420.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137334458\/fd191\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137334458\/fd191\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334458\/fd191\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334458\/fd191\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334458\/fd191\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334458\/fd191\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334458\/fd191\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137334458\/cc\/vtt\/en_1516411131.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "Hi i'm Laura from OXO and today i'll be demonstrating our handy pop containers pop containers are air tight so they're perfect for storing dry foods like flour sugar and nuts they're square and rectangular shapes make them stackable and space-efficient so they are great for keeping your pantry or countertop organized a simple press on the button creates an airtight seal with just one touch to open just press the button again and use it as a handle to lift the lid this is great for when you're in the middle of a recipe and have just one free hand larger pop containers have a wide lid so you can get a measuring cup inside all pop containers have a slightly angled corner so it's easy to pour cereal or coffee flat lids let you stack items one on top of another and square and rectangular shapes fit neatly together to make the most of any storage space pop containers are also really easy to clean to get inside the little nooks and crannies just turn the lid over and twist pop out the insert to get a deep down clean. The inner gasket comes off easily and can be placed in the dishwasher all other parts should be hand washed pop containers also come with countertop friendly stainless steel lids.",
+    "VV_VI": 48,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": "",
+    "tvp_profiles": [
+        "18",
+        "2",
+        "9"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 4.0057683,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

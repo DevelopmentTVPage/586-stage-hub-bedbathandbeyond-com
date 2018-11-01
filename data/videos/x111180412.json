@@ -1,0 +1,117 @@
+{
+    "title": "Steam Mop",
+    "description": "",
+    "referenceId": "4223",
+    "date_created": "1502924566",
+    "date_modified": "1516653062",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180412",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "steam-mop",
+    "category": "",
+    "duration": "121",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "121",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "121",
+        "prettyDuration": "00:02:01",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180412\/e5737\/thumb-4223-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180412\/e5737\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180412\/e5737\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180412\/cc\/vtt\/en_1516653057.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180412\/e5737\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180412\/e5737\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180412\/e5737\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180412\/e5737\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180412\/e5737\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "The H2O Steam Mop and Replacement Pads\r\n\r\nThe H2O Mop is designed to thoroughly clean floor surfaces such as marble, ceramic, stone, linoleum, sealed hardwood floors and  The H2O Steam Mopparquet, offering cleaning convenience no matter what type of sealed floor you have. It achieves a high degree of hygienic and increasing cleansing power by converting water into steam, using a microfiber floor cloth to enhance absorbency. When contact is made with floor surfaces, dirt and grime are eliminated almost immediately. Since the H2O Mop uses the active power of steam without the use of detergents or soap, it is also environmentally sound. The 1500 watt motor offers up to 30-minutes of powerful, continuous steam, while the lightweight mop weighs only 9-pounds. H2O Mop includes 17' cord, 2 microfiber cloth pads, measuring cup and carpet glider. UL listed. Model #TR-220-002\r\n\r\nH2O Steam Mop\r\n\r\nWe all know how our floors get dirty. The spills, the food, the dirt, the pets. But how do we get them clean?\r\n\r\nWe use a dirty mop with dirty water. No wonder our floors never get clean. We could scrub on our hands and knees but that's back-braking work and those spray mops need expensive pads and leave strong chemicals on the floor. There's got to be a better way.\r\n\r\nWell, now there is. Introducing the all new H2O Mop. The world's ultimate cleaning solution that harnesses the dirt-devouring and super-sanitizing power of steam to finally get your floors clean. Really clean, with almost no effort at all.\r\n\r\nNo more dirty mops, no more sloppy buckets, no more scrubbing and scouring, no more costly chemicals and most important, no more dirty floors.\r\n\r\nFinally blast away dirt with the power of steam and clean floors dry with the amazing absorbent microfiber. Just add water and watch how the H2O Mop steams away caked on greasy grime, demolishes dried-on dirt, disintegrates stubborn stains- all while it sanitizes and deodorizes at the same time.\r\n\r\nRemember, with any other mop, even it looks clean it's not. \r\n\r\nIt's fast and it's easy and I just love how it cleans.\r\nI don't have to scrub or bend or do anything.\r\n\r\nIt lifts up every speck of dirt. It's just amazing.\r\nThe H2O Mop is the super lightweight, super maneuverable, go anywhere, clean anything marvel that gives you cleaner floors quicker and easier than you ever thought possible.\r\n\r\nIt also works with your favorite detergent. But the H2O is even more. It converts into the world's greatest carpet steamer. That's right. Now you can erase stains and spills and deodorize and freshen all of your carpets, rugs, mats and high traffic areas all with one convenience lean, mean cleaning machine.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "dvd",
+    "modified_date": "8\/30\/2012",
+    "created_date": "6\/19\/2009",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2744.5657,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

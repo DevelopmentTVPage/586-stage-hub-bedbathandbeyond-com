@@ -1,0 +1,119 @@
+{
+    "title": "Mohawk Home Tufted Rug Collection",
+    "description": "",
+    "referenceId": "ec40b2919b13bd467ff4878db65905fb",
+    "date_created": "1518804021",
+    "date_modified": "1519231474",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "home_decor",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "150461494",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "TuftedRugCollection-CC-mp4",
+    "category": "",
+    "duration": "74",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "74",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "74",
+        "prettyDuration": "00:01:14",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/150461494\/586f7\/thumb-ec40b2919b13bd467ff4878db65905fb-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/150461494\/586f7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/150461494\/586f7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/150461494\/cc\/vtt\/en_1519231464.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/150461494\/586f7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/150461494\/586f7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/150461494\/586f7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/150461494\/586f7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/150461494\/586f7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Mohawk Home\u2019s tufted rug collection adds warmth and flare to your d\u00e9cor at great value prices that make them one of our best-selling assortments. These affordable rugs are durable and stain resistant, so they are very low-maintenance. Perfect for high-traffic areas, these sturdy rugs are a workhorse in any busy home, whether contemporary, traditional or transitional. \n\nMade in the USA, Mohawk Home\u2019s tufted rug collection comes in a wide variety of sizes and styles, primarily two-color geometric designs in a mix of loop, cut-pile and combination textures. The rug featured here is a quarter to half-inch pile height and action backing. A rug pad is recommended with any area rug to add cushioning and prevent wrinkles, helping extend the life of the rug. \n\nMohawk rugs are the perfect complement to Mohawk flooring, with options in hardwood, laminate, vinyl and tile. Affordably priced and designed for long-lasting quality, they are an exceptional value for any room in any home.",
+    "VV_VI": 95,
+    "CVV_VI": 7,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript for reference.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "2\/16\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

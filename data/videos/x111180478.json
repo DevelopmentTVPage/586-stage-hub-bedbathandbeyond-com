@@ -1,0 +1,119 @@
+{
+    "title": "Shiatsu Massage Cushion",
+    "description": "",
+    "referenceId": "5457",
+    "date_created": "1502924655",
+    "date_modified": "1516652614",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180478",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "shiatsu-massage-cushion",
+    "category": "",
+    "duration": "48",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "48",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "48",
+        "prettyDuration": "00:00:48",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1279\/710\/235950954-021279712.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180478\/9409f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180478\/9409f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180478\/9409f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180478\/9409f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180478\/9409f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180478\/9409f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180478\/9409f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180478\/cc\/vtt\/en_1516652614.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "Homedics\u00ae Shiatsu Massage Cushion\r\n\r\nMassage cushion has a state-of-the-art moving massage mechanism to melt away tension and fatigue. Shiatsu massage and  Homedics Shiatsu Massage Cushionsoothing heat travels up and down your back turning any chair into a relaxing seat. Quick heat provides relief in under a minute. Programmable control features three programs. Two-year limited warranty. UL listed. Model # SBM-200H.\r\n\r\nHomedics\u00ae Shiatsu Massage Cushion\r\nHomedics - the number one brand in massage.\r\n\r\nThese are the hands of a skilled masseuse. At Homemedics, we've captured these skills in our range of shiatsu massagers.\r\n\r\nThe secret is Homedics patented shiatsu massage system with soothing heat for the most relaxing massage imaginable.\r\n\r\nUnwind with the Homedics Shiatsu Massage Cushion. This comfortable cushion features deep kneading shiatsu plus soothing heat. And not just any heat, but instant heat in the moving hands that travel up and down the back for a more relaxing massage.\r\n\r\nThe power is in your hands with an easy to use remote control. Choose from three specialized programs; full, upper and lower back.  The Homedics Shiatsu Massage Cushion with heat.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "10\/20\/2009",
+    "tvp_profiles": [
+        "18",
+        "4",
+        "16"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1520.695,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

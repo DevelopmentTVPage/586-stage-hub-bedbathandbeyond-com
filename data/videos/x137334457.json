@@ -1,0 +1,121 @@
+{
+    "title": "All Clad 10' Skillet",
+    "description": "My thoughts on the All Clad 10\" Skillet",
+    "referenceId": "dd204a795f8f4489c8603bd236850c81",
+    "date_created": "1515718428",
+    "date_modified": "1516411126",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "137334457",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "All-Clad-10-Skillet-mp4",
+    "category": "",
+    "duration": "145",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "145",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "145",
+        "prettyDuration": "00:02:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137334457\/85b28\/thumb-dd204a795f8f4489c8603bd236850c81-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137334457\/85b28\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137334457\/85b28\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334457\/85b28\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334457\/85b28\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334457\/85b28\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334457\/85b28\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334457\/85b28\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137334457\/cc\/vtt\/en_1516411126.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "Hey guys what's happening Ryan with high tech here today and today I'm taking another look at another cooking item on the list here today I'm checking out the 10 inch all clad stainless steel skillet spin this guy around so we can set them back down here so I can pan it a little bit we got focus got two rivets right there kind of like a nice long thin handle overall this guy's really lightweight compared to the last couple pans I was taking a look at including the lodge carbon steel and then the traditional cast iron as well - I've done a couple steaks with this guy my wife has cooked some burgers inside here with no issues at all really like it also being stainless steels not reactive so we cook any type of you know sauces or anything else that maybe has any acidic food it won't eat off anything off the pan like it would off my cast iron or even my carbon steel pan even though they're seasoned really well one thing I did like to know that I was talking to a couple other people about is keeping this guy clean or you know keeping it shiny essentially is quite hard in comparison to the two others actually I used my carbon steel pans for the first time and literally cleanup was a breeze couple minutes in pan look like new I added some oil - it was nice and shiny again this guy was able to get clean but overall getting it even somewhat shiny with no bar keeper's friend was quite hard so if there's any tricks out there you guys know definitely leave some comments down for feedback other than that I've been really happy with it you know all clad came highly recommended so we ended up getting two of the 10 inch skillets which worked really good for our small family overall though if I were to rate it out of 10 I'd probably give it like an 8 after using the carbon steel skillets that I've been playing with for the last couple days I really think just the versatility they have and then as far as how easy cleanup was that's kind of going to be my go-to but overall these all clad pans are extremely nice the biggest thing that they have going for them is how lightweight they are and their build quality I think these also will last a lifetime as well - but yeah if you guys have any feedback or maybe some recommendations or if you think there's something even better than the all-clad for the stainless steel throw it down below for me and I'll take a look at that but yeah thanks for watching guys have a good one.",
+    "VV_VI": 24,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 142.8051,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

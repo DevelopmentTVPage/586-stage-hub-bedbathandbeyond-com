@@ -1,0 +1,127 @@
+{
+    "title": "Sommerfly Sleep Tight Weighted Blankets",
+    "description": "",
+    "referenceId": "c88898f6c67eb98e8b8cf2391452ade1",
+    "date_created": "1518194907",
+    "date_modified": "1518455487",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "bedding",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "140820153",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Sommerfly-WeightedBlankets-mp4",
+    "category": "",
+    "duration": "99",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "99",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "99",
+        "prettyDuration": "00:01:39",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/140820153\/aca6f\/thumb-c88898f6c67eb98e8b8cf2391452ade1-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/140820153\/aca6f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/140820153\/aca6f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/140820153\/cc\/vtt\/en_1518455478.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/140820153\/aca6f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/140820153\/aca6f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/140820153\/aca6f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/140820153\/aca6f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/140820153\/aca6f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "There are many things that make it hard to get the sleep a body needs\nbut a better night\u2019s rest is in your hands, with Sommerfly\u2019s Sleep Tight weighted blanket.\n\nMy name is Kris Langslet and I\u2019m an occupational therapist.\n30 years of experience working with people with conditions like Attention Deficit Disorder, Autism, Sensory Processing Disorder, Anxiety and Post Traumatic Stress Disorder drove me to search for a way to help my clients calm down enough to get to sleep. \n\nCurrent research shows the simple addition of a blanket that is 15-25% of the individual\u2019s body weight is extremely effective in helping both children and adults fall asleep and stay asleep, providing the rest they need to perform their best. \n\nAlthough when I started this project, I was targeting people suffering from disorders, \nit turned out that Sommerfly Weighted Blankets are also improving sleep quality for those who just have difficulty sleeping or have stress in their daily life. \n\nSommerfly\u2019s innovative neck cut-out contours to your body and our easy to understand sizing chart helps you find the correct blanket weight for you. \n\nDon\u2019t put off a better night\u2019s sleep any longer. Choose your favorite color and order today. \nSommerfly Sleep Tight Weighted Blankets are worth their weight.",
+    "VV_VI": 466,
+    "CVV_VI": 6,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": {
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-06-15"
+        }
+    },
+    "delete": "",
+    "notes": "Requested SRT file from TVP for CC. Added transcript for reference.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "2\/9\/18",
+    "tvp_profiles": [
+        "9",
+        "25",
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 2142.843,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

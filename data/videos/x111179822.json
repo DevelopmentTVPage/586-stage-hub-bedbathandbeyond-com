@@ -1,0 +1,117 @@
+{
+    "title": "Slap Chop",
+    "description": "",
+    "referenceId": "11478",
+    "date_created": "1502923254",
+    "date_modified": "1517251235",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111179822",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "slap-chop",
+    "category": "",
+    "duration": "81",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "81",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "81",
+        "prettyDuration": "00:01:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179822\/287f5\/thumb-11478-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111179822\/287f5\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179822\/287f5\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111179822\/cc\/vtt\/en_1517251232.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179822\/287f5\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179822\/287f5\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179822\/287f5\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179822\/287f5\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111179822\/287f5\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi. It's Vince with Slap Chop. You're going to be in a great mood all day because you're going to be slapping your troubles away with the Slap Chop. Now look, here's a potato. One slap, you got big chunks for stews. Two slaps, home fries in a second. If you add a mushroom, the more you do it, the finer it gets, and you don't have to switch any blades. You love salad. You hate making it. Take the stringy celery, take the carrots, salad. I love pizza, too. But once in a while, get the veggies in, at least to go on top of the pizza. This tuna looks boring. Stop having a boring tuna. Stop having a boring life.\r\n\r\nHere's a hardboiled egg. One chop, you add the pickle, you add the green onion. And then what you can do, you can mix things together. Add the ham. You don't have time to make breakfast. You're going to have an exciting life now. Breakfast to go. You're going to love my nuts. Watch this. You can do everything in the cover. It's so easy, one finger, kids can do it. They're going to charge you a $1.00 for toppings at the ice cream stores. What about fruit? Look at that. Isn't that beautiful on your ice cream? They're so easy to clean. One, two, and pops open like that like a butterfly to clean. Now these other ones that you've seen in the store, you can't clean it. It doesn't open up. Bacteria gets in the food.\r\n\r\nYou don't want bacteria in your food, right guys? Forget about that. Take this Slap Chop. All right, here's the garlic with the skin. There you go, de-skins the garlic. The onions with the skin. All right, this is making you cry, you're making me cry. Life's hard enough as it is, you don't want to cry anymore. The skin's at the bottom. Hey, look at this. You want a little bit of onions. You don't want to drag out the food processor. The skin comes right off. We're going to make America skinny again one slap at a time.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/30\/2012",
+    "created_date": "5\/6\/2010",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 1900.3685,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

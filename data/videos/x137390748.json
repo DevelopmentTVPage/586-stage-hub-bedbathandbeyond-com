@@ -1,0 +1,123 @@
+{
+    "title": "OXO StrongHold Suction Line",
+    "description": "http:\/\/www.oxo.com\/p-1123-strongholdtrade-suction-corner-basket.aspx\n\nThe OXO StrongHold Suction line features PVC-free suction cups for a secure hold on smooth, non-porous surfaces. The suction cups click when they're activated so you know when your accessory is locked into place. Each suction cup has an easy-release tab that allows for repositioning or removal. The Corner Basket, Large Basket, and Soap Dish have angled drainage slots in the base to prevent water from pooling. The Fogless Mirror has a bottom notch for attached razor storage. The Hook Set is perfect for hanging loofahs, body brushes, wash cloths and more.",
+    "referenceId": "d3c597efbb44cc694e5a9489102af2cd",
+    "date_created": "1515783996",
+    "date_modified": "1515801593",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "137390748",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "videoplayback-10-mp4",
+    "category": "",
+    "duration": "66",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "66",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "66",
+        "prettyDuration": "00:01:06",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137390748\/407e3\/thumb-d3c597efbb44cc694e5a9489102af2cd-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137390748\/407e3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137390748\/407e3\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390748\/407e3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390748\/407e3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390748\/407e3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390748\/407e3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137390748\/407e3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137390748\/cc\/vtt\/en_1515801593.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "At OXO, we love solving pet peeves. But we really put our skills to the test and we set out to create the most secure tub and shower suction items on the market. The OXO StrongHold Suction line features PVC-free suction cups for a secure hold on smooth, non-porous surfaces. \n\nThe suction cups click when they're activated so you know when your accessory is locked into place. Each suction cup has an easy release tab that allows for repositioning or removal. The corner basket and large basket have adjustable suction cups that allow you to position them away from grout lines for a secure hold every time. The corner basket, large basket, and soap dish have angled drainage slots in the base to prevent water from pooling. \n\nThe fogless mirror has a bottom notch for attached razor storage. The hook set is perfect for hanging loofahs, body brushes, washcloths, and more. Here's a good tip. To ensure secure suction, give the suction cups an extra press periodically to make sure they're safe and secure.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": "",
+    "tvp_profiles": [
+        "9",
+        "8",
+        "30"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 4.146852,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

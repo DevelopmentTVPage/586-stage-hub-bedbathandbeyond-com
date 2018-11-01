@@ -1,0 +1,119 @@
+{
+    "title": "Astonish 25.4 oz. Mold Remover and Mildew Stain Blaster Spray",
+    "description": "",
+    "referenceId": "ab21bf60160069ee6b5448f7b7331e15",
+    "date_created": "1523974964",
+    "date_modified": "1524498675",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "storage_and_cleaning",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "vendor",
+    "video_classification1": "product_video",
+    "user_id": "0",
+    "id": "160477542",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Astonish-MoldRemoverMildewStainBlasterSpray-63637656",
+    "category": "",
+    "duration": "135",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "135",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "135",
+        "prettyDuration": "00:02:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/160477542\/63ef7\/thumb-ab21bf60160069ee6b5448f7b7331e15-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/160477542\/63ef7\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/160477542\/63ef7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/160477542\/cc\/vtt\/en_1524498664.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/160477542\/63ef7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/160477542\/63ef7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/160477542\/63ef7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/160477542\/63ef7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/160477542\/63ef7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Astonish mold & mildew stain blaster effectively removes mold & mildew in minutes.\nKeep your Mold and Mildew Stain Blaster handy for repeated applications. It\u2019s quick and easy to use on all areas of the bathroom where mold & mildew stain can appear.\nSimply spray onto areas directly where there\u2019s mold. Leave for 3 to 4 minutes for the solution to absorb into the mold affected areas. Next damp the area gently with a cloth and then all it takes is a wipe clean.\nNo mess and no stress. \nIt\u2019s great for showers too, try it around the tray area. Mold and mildew often grows in those damp areas that are often tricky to clean but with the Astonish Mold & Mildew Stain Blaster there is no scrubbing required. Just leave it to work its magic for 3 to 4 minutes then simply dab and wipe. It\u2019s that easy.\nDon\u2019t be afraid to use it on walls and ceiling. This time spray into the cloth so that you can apply the solution without it running or dripping. Then gentle apply to the areas you need clean. Again wait a few minutes, then you\u2019ll find the Mold & Mildew stains will wipe off with ease. \nThat\u2019s really all there is to it. \nTry it on your shower door for Astonish results.\nOr on bathroom and kitchen sinks. Regular use prevents the return of mold giving you a quick, easy and long lasting cleaning solution. In other words that\u2019s less time cleaning which sounds good to us!\nAnd you can us it all around your house.\nWe\u2019re proud to say our products are endorsed by the Vegan Society and are not tested on animals.\nSo don\u2019t delay, put pay to mold and mildew stains today with Astonish Mold & Mildew Stain Blaster. Astonish, the pinnacle of cleaning.",
+    "VV_VI": 35,
+    "CVV_VI": 2,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "Requested SRT file from TVPage for CC. Added transcript for reference.",
+    "uploader": "Doug French",
+    "modified_date": "",
+    "created_date": "4\/17\/18",
+    "tvp_profiles": [],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

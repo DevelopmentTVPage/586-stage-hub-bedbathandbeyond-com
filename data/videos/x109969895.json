@@ -1,0 +1,119 @@
+{
+    "title": "Strap Perfect",
+    "description": "",
+    "referenceId": "11978",
+    "date_created": "1502518649",
+    "date_modified": "1516299554",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "109969895",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "strap-perfect",
+    "category": "",
+    "duration": "85",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "85",
+            "width": 640,
+            "height": 480
+        },
+        "mediaDuration": "85",
+        "prettyDuration": "00:01:25",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109969895\/def7d\/thumb-b5a64d386fd2180ac139dd4edf1b6aa1-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109969895\/def7d\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109969895\/def7d\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109969895\/cc\/vtt\/en_1516299542.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969895\/def7d\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969895\/def7d\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969895\/def7d\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969895\/def7d\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109969895\/def7d\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "Sorry, girls, I know this look is hot, but showing your bra straps is not. Hi. I'm Taylor Baldwin, and you're gonna love this. It's Strap Perfect, the ultimate bra strap solution. Now you can finally stop wrestling those stubborn bra straps. It works with virtually any bra or cup size, while giving your cleavage a firm and youthful lift. Just look at the transformation. Strap Perfect is so easy to use. Just place, slide, and your bra straps instantly hide. Slide it up for slim cut shoulders, or slide it down for criss-cross tops. You get a custom fit that flatters you in any outfit.\n\nStrap Perfect also gives a beautiful instant boost to your silhouette by gently pulling back your straps. Strap perfect redistributes the weight from your chest and guides your shoulders back for more perfect posture. With a lift like this, you'll look at least one cup size bigger. Strap Perfect helps you fill out even the sexiest look naturally. And the difference is measureable. Amazing. Wear Strap Perfect under dresses, sweaters, blouses, or t-shirts for secret support, front to back. Is that sports bra squishing and squeezing you flat? Forget that. Strap Perfect makes any bra more comfortable and supportive, even when working out. Girls, never risk another fashion faux pas with any bra, and get a gorgeous lift with Strap Perfect.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "8\/30\/2012",
+    "created_date": "7\/7\/2010",
+    "tvp_profiles": [
+        "21",
+        "28",
+        "34"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 8.479868,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

@@ -1,0 +1,118 @@
+{
+    "title": "Perfect Touch Sheet Set",
+    "description": "",
+    "referenceId": "59745",
+    "date_created": "1502526337",
+    "date_modified": "1516731079",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "110010831",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "perfect-touch-sheet-set",
+    "category": "",
+    "duration": "67",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "67",
+            "width": 512,
+            "height": 288
+        },
+        "mediaDuration": "67",
+        "prettyDuration": "00:01:07",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110010831\/ace52\/thumb-a938dfb0ce9c2c5ddada9c6fac926c75-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/110010831\/ace52\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/110010831\/ace52\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/110010831\/cc\/vtt\/en_1516731073.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010831\/ace52\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010831\/ace52\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010831\/ace52\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010831\/ace52\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 512,
+                "height": 288
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/110010831\/ace52\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "We\u009dve all had this happen before, your sister just called. She and her family are coming for an unexpected weekend stay and you\u009dve got to prepare. All the beds need fresh linens but each mattress has a different depth. There\u009ds no need to panic.\r\n\r\nWhat could be a nightmare is a dream come true with WelSpun\u009ds Perfect Touch Sheets. Perfect Touch Deep Pocket Sheets with Flexi-Fit technology always give you a snug fit. They\u009dre guaranteed to work on mattresses from 10 to 20 inches deep, even thick Pillow Tops.\r\n\r\nAvailable in 10 beautiful designer colors, their ease of care will have you smiling with confidence too. Made of incredibly soft Egyptian cotton, a luxurious sateen weave for silky smooth feel, these sheets are what dreams are made of.\r\n\r\nThey\u009dre quick drying and have lifetime wrinkle free protection for pristine looking sheets wash after wash.\r\n\r\nIf you want easy to care for, perfectly made beds with the ultimate in cozy comfort for you and your unexpected guest get WelSpun\u009ds Perfect Touch Sheets sold exclusively at Bed Bath & Beyond.",
+    "VV_VI": 4,
+    "CVV_VI": 2,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-04-10\"},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "FTP",
+    "modified_date": "8\/14\/2012",
+    "created_date": "8\/13\/2012",
+    "tvp_profiles": [
+        "9",
+        "2"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 141.61499,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

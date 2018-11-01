@@ -1,0 +1,1135 @@
+{
+    "pageNumber": 118,
+    "data": [
+        {
+            "id": "111179821",
+            "title": "Bagel Biter",
+            "date_created": "1502923252",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "46",
+                    "width": 960,
+                    "height": 720
+                },
+                "mediaDuration": "46",
+                "prettyDuration": "00:00:46",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/858528194-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179821\/0f0f2\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179821\/0f0f2\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111179821\/cc\/vtt\/en_1504134872.vtt",
+                        "default": true
+                    }
+                ],
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179821\/0f0f2\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179821\/0f0f2\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179821\/0f0f2\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179821\/0f0f2\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179821\/0f0f2\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/bagel-biter\/114661406-111179821"
+        },
+        {
+            "id": "109992431",
+            "title": "Breville&reg; Quick Touch&trade; Microwave",
+            "date_created": "1502523099",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "86",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "86",
+                "prettyDuration": "00:01:26",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109992431\/e06c2\/thumb-424fcd32da25797e2fdd5bcd33fe3d07-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109992431\/e06c2\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109992431\/e06c2\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109992431\/cc\/vtt\/en_1516666652.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992431\/e06c2\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992431\/e06c2\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992431\/e06c2\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992431\/e06c2\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109992431\/e06c2\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/breville-quick-touch-microwave\/114661406-109992431"
+        },
+        {
+            "id": "67190160",
+            "title": "Progressive Over-the-Sink Collapsible Colander",
+            "date_created": "1350947508",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Quickly and easily wash fruits and vegetables, drain pasta and more. Inventive colander lets liquids drain rapidly and adjusts to fit most sinks. Expands to 24\". Six-quart capacity.\n\nThe featured product can be purchased at: http:\/\/www.surlatable.com\/product\/PRO-679340\/Over-the-Sink-Collapsible-Colander",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/lxnopbO0318\/hqdefault.jpg",
+                "uploadDate": 1350947508,
+                "videoId": "lxnopbO0318",
+                "title": "Progressive Over-the-Sink Collapsible Colander",
+                "description": "Quickly and easily wash fruits and vegetables, drain pasta and more. Inventive colander lets liquids drain rapidly and adjusts to fit most sinks. Expands to 24\". Six-quart capacity.\n\nThe featured product can be purchased at: http:\/\/www.surlatable.com\/product\/PRO-679340\/Over-the-Sink-Collapsible-Colander",
+                "author": "SurLaTableCorp",
+                "mediaDuration": 62,
+                "prettyDuration": "00:01:02",
+                "views": "763"
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/progressive-over-the-sink-collapsible-colander\/114661406-67190160"
+        },
+        {
+            "id": "109973295",
+            "title": "OXO Good Grips&reg; Clean Cut Stainless Steel Pizza Wheel",
+            "date_created": "1502519816",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "41",
+                    "width": 864,
+                    "height": 486
+                },
+                "mediaDuration": "41",
+                "prettyDuration": "00:00:41",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109973295\/84934\/thumb-175bd612fd903b962650d7fafbb7ffa0-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109973295\/84934\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109973295\/84934\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973295\/84934\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973295\/84934\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 864,
+                        "height": 486
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973295\/84934\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973295\/84934\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109973295\/84934\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109973295\/cc\/vtt\/en_1504287928.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/oxo-good-grips-clean-cut-stainless-steel-pizza-wheel\/114661406-109973295"
+        },
+        {
+            "id": "110004222",
+            "title": "Oxygenics PowerMassage Shower System",
+            "date_created": "1502525081",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "60",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "60",
+                "prettyDuration": "00:01:00",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/141929951-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110004222\/a5d4c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004222\/a5d4c\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/110004222\/cc\/vtt\/en_1504283713.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004222\/a5d4c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004222\/a5d4c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004222\/a5d4c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004222\/a5d4c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004222\/a5d4c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/oxygenics-powermassage-shower-system\/114661406-110004222"
+        },
+        {
+            "id": "6468294",
+            "title": "Chefs Planet\u2122 Nonstick Oven Liner at Bed Bath & Beyond",
+            "date_created": "1407449243",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "http:\/\/www.bedbathandbeyond.com\/store\/product\/chef-39-s-planet-trade-nonstick-oven-liner\/1013037604? Burnt and baked on foods wipe away easily from this ...",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/KLD5d_8Wvlk\/hqdefault.jpg",
+                "uploadDate": 1407449243,
+                "videoId": "KLD5d_8Wvlk",
+                "title": "Chefs Planet\u2122 Nonstick Oven Liner at Bed Bath & Beyond",
+                "description": "http:\/\/www.bedbathandbeyond.com\/store\/product\/chef-39-s-planet-trade-nonstick-oven-liner\/1013037604? Burnt and baked on foods wipe away easily from this ...",
+                "author": "Bedbathandbeyond",
+                "mediaDuration": "52",
+                "prettyDuration": "00:00:52",
+                "views": "253",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/chefs-planet-nonstick-oven-liner-at-bed-bath-beyond\/114661406-6468294"
+        },
+        {
+            "id": "119766488",
+            "title": "Top Ramen Microwaveable Cooker",
+            "date_created": "1506526589",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "The perfect gift for any college student, busy parent, or anyone looking for a quick meal on the go, the Top Ramen Microwaveable Cooker allows you to easily and quickly prepare delicious ramen noodles in your microwave.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "75",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "75",
+                "prettyDuration": "00:01:15",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119766488\/ef203\/thumb-5835888c8e52684f65a7ab8822fd3807-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/119766488\/ef203\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/119766488\/ef203\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119766488\/ef203\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119766488\/ef203\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119766488\/ef203\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119766488\/ef203\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119766488\/ef203\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/119766488\/cc\/vtt\/en_1516743874.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/topramencooker-60513168-mp4\/114661406-119766488"
+        },
+        {
+            "id": "119766487",
+            "title": "Minute Ricer Cooker",
+            "date_created": "1506526526",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Whether enjoying lunch at work, or making a hearty meal for your family, the Minute Rice Cooker makes rice in just 3 minutes. The microwaveable bowl cooks 6 ounces of rice, and can be used as a serving bowl.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "55",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "55",
+                "prettyDuration": "00:00:55",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119766487\/9a33a\/thumb-e6834cdb239411de912d8c13734a844c-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/119766487\/9a33a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/119766487\/9a33a\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119766487\/9a33a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119766487\/9a33a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119766487\/9a33a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119766487\/9a33a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119766487\/9a33a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/119766487\/cc\/vtt\/en_1516744090.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/minutericecooker-60513175-mp4\/114661406-119766487"
+        },
+        {
+            "id": "119704837",
+            "title": "Bell and Howell Tac Glasses",
+            "date_created": "1506458653",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Spend a comfortable time outside by wearing a pair of Tac Glasses from Bell+Howell. These sleek glasses help to reduce glare, enhance colors, and improve your optical clarity so you can enjoy the outdoors without worrying about squinting.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "91",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "91",
+                "prettyDuration": "00:01:31",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119704837\/c6cb8\/thumb-628e6287ad459af0f8f840109eab74d8-00002.jpg",
+                "type": "mp4",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704837\/c6cb8\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704837\/c6cb8\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704837\/c6cb8\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704837\/c6cb8\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704837\/c6cb8\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/tac-glasses-62163538-mp4\/114661406-119704837"
+        },
+        {
+            "id": "119704834",
+            "title": "Cynoculars Virtual Reality Headset and Remote",
+            "date_created": "1506457295",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Get an awesome 3D experience, seeing images, movies and games on your phone in a whole new way, with the Cynoculars Virtual Reality Headset and Remote. The device mounts to your phone to create a 360 degree environment.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "91",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "91",
+                "prettyDuration": "00:01:31",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119704834\/bbd9b\/thumb-2b44679d5443bdba7ba468f7cdc86811-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/119704834\/bbd9b\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/119704834\/bbd9b\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704834\/bbd9b\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704834\/bbd9b\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704834\/bbd9b\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704834\/bbd9b\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704834\/bbd9b\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/cynoculars-47104365-mp4\/114661406-119704834"
+        },
+        {
+            "id": "109989215",
+            "title": "Anthology Melody Reversible Comforter and Bedding Collection",
+            "date_created": "1502522445",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "71",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "71",
+                "prettyDuration": "00:01:11",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109989215\/42d76\/thumb-6fb40de3fbba14758cf95aa7ee29c672-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109989215\/42d76\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109989215\/42d76\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989215\/42d76\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989215\/42d76\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989215\/42d76\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989215\/42d76\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109989215\/42d76\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109989215\/cc\/vtt\/en_1504284794.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/anthology-melody-reversible-comforter-and-bedding-collection\/114661406-109989215"
+        },
+        {
+            "id": "111180064",
+            "title": "Discovery Kids Pottery Wheel Kit",
+            "date_created": "1502923787",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "30",
+                    "width": 512,
+                    "height": 288
+                },
+                "mediaDuration": "30",
+                "prettyDuration": "00:00:30",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/384105602-01320180.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180064\/2c0c0\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180064\/2c0c0\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111180064\/cc\/vtt\/en_1504195998.vtt",
+                        "default": true
+                    }
+                ],
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180064\/2c0c0\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180064\/2c0c0\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180064\/2c0c0\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180064\/2c0c0\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 512,
+                        "height": 288
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180064\/2c0c0\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/discovery-kids-pottery-wheel-kit\/114661406-111180064"
+        },
+        {
+            "id": "111180402",
+            "title": "My Place Workstation - Bed Desk",
+            "date_created": "1502924549",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "86",
+                    "width": 640,
+                    "height": 480
+                },
+                "mediaDuration": "86",
+                "prettyDuration": "00:01:26",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180402\/3d100\/thumb-4202-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111180402\/3d100\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180402\/3d100\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111180402\/cc\/vtt\/en_1516394287.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180402\/3d100\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180402\/3d100\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180402\/3d100\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180402\/3d100\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111180402\/3d100\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/my-place-workstation-bed-desk\/114661406-111180402"
+        },
+        {
+            "id": "66785343",
+            "title": "Breville -- Ad\u00e8le Schober Presents Juice Fountain Plus JE98XL (Juicer in Fat, Sick & Nearly Dead)",
+            "date_created": "1260393965",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Breville's Adele Schober demonstrates the features and functionality of the Juice Fountain Plus.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/UafV0_lFke8\/hqdefault.jpg",
+                "uploadDate": 1260393965,
+                "videoId": "UafV0_lFke8",
+                "title": "Breville -- Ad\u00e8le Schober Presents Juice Fountain Plus JE98XL (Juicer in Fat, Sick & Nearly Dead)",
+                "description": "For more about Breville products visit: www.brevilleusa.com\n\nBreville's Adele Schober demonstrates the features and functionality of the Juice Fountain Plus.\n\nhttp:\/\/www.brevilleusa.com\/beverages\/juicers\/juice-fountain-plus-je98xl.html\n\nSubscribe to our YouTube Channel:\nhttp:\/\/www.youtube.com\/subscription_center?add_user=breville\n\nLike us on Facebook:\nhttps:\/\/www.facebook.com\/brevilleusa\n\nPin us on Pinterest:\nhttp:\/\/pinterest.com\/brevilleusa\/\n\nFollow us on Twitter:\nhttps:\/\/twitter.com\/brevilleusa",
+                "author": "breville",
+                "mediaDuration": 97,
+                "prettyDuration": "00:01:37",
+                "views": "188037",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/breville-ad\u00e8le-schober-presents-juice-fountain-plus-je98xl-juicer-in-fat-sick-nearly-dead\/114661406-66785343"
+        },
+        {
+            "id": "66754484",
+            "title": "Nautica Home | Spring 2016 |",
+            "date_created": "1468358328",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Nautica Spring 2016 Home Collection",
+            "asset": {
+                "type": "youtube",
+                "author": "Nautica",
+                "hdvFlag": 1,
+                "hookText": "Nautica Spring 2016 Home Collection\n\nwww.Nautica.com\/Home",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/7eQgEVMMCCU\/hqdefault.jpg",
+                "videoId": "7eQgEVMMCCU",
+                "mediaDuration": 15,
+                "prettyDuration": "00:00:15",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/nautica-home-spring-2016\/114661406-66754484"
+        },
+        {
+            "id": "111179964",
+            "title": "Folex Carpet Spot Remover",
+            "date_created": "1502923569",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "120",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179964\/1b677\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179964\/1b677\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179964\/1b677\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179964\/1b677\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/111179964\/1b677\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "120",
+                "prettyDuration": "00:02:00",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111179964\/1b677\/thumb-1554141315-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/111179964\/1b677\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/111179964\/1b677\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/111179964\/cc\/vtt\/en_1504226064.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/folex-carpet-spot-remover\/114661406-111179964"
+        },
+        {
+            "id": "6468020",
+            "title": "College Eating and New Takes on Ramen Noodles",
+            "date_created": "1401900057",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Many college students survive on Ramen noodles. Check out Sam the Cooking Guy's variations to this simple and quick meal that give it some pizzazz.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/06NMRrtsKk0\/hqdefault.jpg",
+                "uploadDate": 1401900057,
+                "videoId": "06NMRrtsKk0",
+                "title": "College Eating and New Takes on Ramen Noodles",
+                "description": "Many college students survive on Ramen noodles. Check out Sam the Cooking Guy's variations to this simple and quick meal that give it some pizzazz.",
+                "author": "Bedbathandbeyond",
+                "mediaDuration": "70",
+                "prettyDuration": "00:01:10",
+                "views": "1344",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/college-eating-and-new-takes-on-ramen-noodles\/114661406-6468020"
+        },
+        {
+            "id": "109966718",
+            "title": "Real Simple Adjustable Drying Rack",
+            "date_created": "1502518121",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "75",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "75",
+                "prettyDuration": "00:01:15",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109966718\/b2c5d\/thumb-84f7d553d87a2dd506884e47c605c64b-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109966718\/b2c5d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109966718\/b2c5d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966718\/b2c5d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966718\/b2c5d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966718\/b2c5d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966718\/b2c5d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109966718\/b2c5d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109966718\/cc\/vtt\/en_1504202938.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/real-simple-adjustable-drying-rack\/114661406-109966718"
+        },
+        {
+            "id": "85250305",
+            "title": "Nautica At Home | Fall 2016",
+            "date_created": "1486074901",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "The Nautica At Home Fall 2016 Collection.",
+            "asset": {
+                "type": "youtube",
+                "author": "Nautica",
+                "hdvFlag": 1,
+                "description": "The Nautica At Home Fall 2016 Collection. \n\nwww.Nautica.com\/home",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/BxbNe51nFTE\/hqdefault.jpg",
+                "videoId": "BxbNe51nFTE",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/nautica-at-home-fall-2016\/114661406-85250305"
+        },
+        {
+            "id": "110004235",
+            "title": "Rhythm Rocker",
+            "date_created": "1502525131",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "90",
+                    "width": 980,
+                    "height": 720
+                },
+                "mediaDuration": "90",
+                "prettyDuration": "00:01:30",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/110004235\/07060\/thumb-2325eaee746fd7e8813e2dfe96e3bb8f-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/110004235\/07060\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/110004235\/07060\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004235\/07060\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 980,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004235\/07060\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 980,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004235\/07060\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 654,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004235\/07060\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 490,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/110004235\/07060\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 234
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/110004235\/cc\/vtt\/en_1504283599.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "114661406",
+            "url": "\/latest-videos\/rhythm-rocker\/114661406-110004235"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "title": "Meet Team NutriBullet- Raine",
+    "description": "We're gearing up for the LA Marathon and we'd like to introduce some fabulous members of our NutriBullet running team! Meet Raine, a schoolteacher and avid runner.  \nMusic from http:\/\/incompetech.com\n\nFor more information, please visit: http:\/\/po.st\/TeamNutriBullet\n\nFollow us on Social Media @TeamNutriBullet:\nFacebook: http:\/\/www.Facebook.com\/TeamNutriBullet\nTwitter: http:\/\/www.Twitter.com\/TeamNutriBullet\nInstagram: http:\/\/www.Instagram.com\/TeamNutriBullet",
+    "referenceId": "52c32d7a1c9089d400b42188ba78da0c",
+    "date_created": "1515718406",
+    "date_modified": "1516411122",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "137334456",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "Meet-Team-NutriBullet-Raine-mp4",
+    "category": "",
+    "duration": "90",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "90",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "90",
+        "prettyDuration": "00:01:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/137334456\/6e26e\/thumb-52c32d7a1c9089d400b42188ba78da0c-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/137334456\/6e26e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/137334456\/6e26e\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334456\/6e26e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334456\/6e26e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334456\/6e26e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334456\/6e26e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/137334456\/6e26e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/137334456\/cc\/vtt\/en_1516411122.vtt",
+                "default": true
+            }
+        ]
+    },
+    "transcripts": "My name is rainy Mitchell and I teach preschool exercise and nutrition are really important to be like healthy as being you can be but I think nutrition is a priority even more so than exercise because there's immediate results I used to be such a fan of oatmeal before my run I would only be able to eat oatmeal and a banana or something of that nature we're gonna get some kale and my favorite fruit blueberries my super food we flaxseed and of course I'll need some almond milk and I like just a little bit on the better at night, so what do you call I don't have a name for it I don't call it an evening almond delight. I feel like the nutribullet has really helped me my recovery with just really great wholesome foods I haven't used something so much like to its fullest potential like you know like you get clothing and you know you use it and you throw it away after a while you know but this is like it's a solid foundation like you like people use it all the time I don't know anybody who has their nutribullet and doesn't use it. All of my friends are really like either have gotten one or like super jealous so I think it's essential for not only just runners but almost any athlete.",
+    "VV_VI": 3,
+    "CVV_VI": "",
+    "engagement_score": 0,
+    "conversion_score": "",
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "",
+    "modified_date": "",
+    "created_date": "",
+    "tvp_profiles": [
+        "18",
+        "30",
+        "2"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 14.963906,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

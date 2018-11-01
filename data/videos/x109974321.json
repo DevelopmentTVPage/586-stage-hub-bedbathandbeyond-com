@@ -1,0 +1,119 @@
+{
+    "title": "Kenneth Cole Mineral Gunmetal Bedding Collection",
+    "description": "",
+    "referenceId": "1357782995",
+    "date_created": "1502519897",
+    "date_modified": "1516727956",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "109974321",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "kenneth-cole-mineral-gunmetal-bedding-collection",
+    "category": "",
+    "duration": "83",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "83",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "83",
+        "prettyDuration": "00:01:23",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109974321\/0fd9f\/thumb-f19c2da252edc3a1a87fc32f3573184f-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109974321\/0fd9f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109974321\/0fd9f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109974321\/cc\/vtt\/en_1516727943.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974321\/0fd9f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974321\/0fd9f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974321\/0fd9f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974321\/0fd9f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109974321\/0fd9f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "The MINERAL GUNMETAL DUVET and BEDDING COLLECTION by Kenneth Cole Reaction Home was designed exclusively for Bed Bath and Beyond. The first layer of the bed begins with the white sheet set featuring eyelash trim at the hem of the sheet and the pillow sham, adding a relaxed, comfortable feel. The Euro Shams add an ideal backdrop to the bed.  They are 100% cotton in an all over knit pattern. The layering coverlet is also 100% cotton in a waffle weave.The MINERAL GUNMETAL DUVET and pillow shams are a linen cotton blend that has been stonewashed to create a comfortable, soft texture.   The coordinating pillow shams are finished with the same cozy texture. The resulting bed is easy and relaxed.The decorative pillows accenting this bed suite are: - A square, chunky rib knit pillow in white, - An oblong text pillow and - A rectangular 100% cotton pillow with textured fabric with raw edges in gunmetal.The pillows add the key fashion elements to complete this bed look.THE MINERAL GUNMETAL DUVET & BEDDING collection is part of the Kenneth Cole Reaction Home Collection. It is available exclusively online and at select Bed Bath & Beyond stores.",
+    "VV_VI": 1628,
+    "CVV_VI": 57,
+    "engagement_score": 3,
+    "conversion_score": 2,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"}}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "mickey",
+    "modified_date": "4\/14\/2014",
+    "created_date": "4\/14\/2014",
+    "tvp_profiles": [
+        "18",
+        "11",
+        "12"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 26.284758,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

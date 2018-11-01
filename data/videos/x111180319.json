@@ -1,0 +1,117 @@
+{
+    "title": "Cucina Pro Cordless Crepe Maker",
+    "description": "",
+    "referenceId": "34744",
+    "date_created": "1502924403",
+    "date_modified": "1516900002",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180319",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "cucina-pro-cordless-crepe-maker",
+    "category": "",
+    "duration": "92",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "92",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "92",
+        "prettyDuration": "00:01:32",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180319\/a59bd\/thumb-34744-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180319\/a59bd\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180319\/a59bd\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180319\/cc\/vtt\/en_1516899969.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180319\/a59bd\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180319\/a59bd\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180319\/a59bd\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180319\/a59bd\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180319\/a59bd\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Hi, I am Michelle from Bed Bath & Beyond, and I am here to tell you about the Cucina Pro Cordless Crepe Maker. Now you can make gourmet crepes at home in just minutes. There is a 71\/2\" cordless cooking plate with a non-stick coating for easy clean up, and an electric base. The on-off switch has a ready light so you know when the cooking surface is hot enough to begin cooking, and when your crepes are done. A dipping pan and spatula are also included. You'll love how easy it is to use. Simply insert the crepe maker into the base and plug it in. Then, turn the switch and the light will come on. When the light turns off, the crepe maker is ready to use. Pour your batter into the dipping pan, then brush a little melted butter onto the cooking plate. When you are ready, dip the black cooking surface into the batter to coat the cooking surface. Place your crepe maker back onto the cordless base. When the light goes on, and the edges of your crepe are brown, your crepe is done. Simply turn the crepe maker over, and you'll have the perfect crepe. There is no need to brown the other side. Fill the crepes with your favorite fillings and your family and guests will be so impressed with your finished product. The Cucina Pro Cordless Crepe Maker is available online and at a Bed Bath & Beyond store near you.",
+    "VV_VI": 352,
+    "CVV_VI": 2,
+    "engagement_score": 0,
+    "conversion_score": 0,
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-05-22\"},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2018-05-31\"},\"lastUpdatedDate\":\"2018-03-20\"}}",
+    "delete": "",
+    "notes": "",
+    "uploader": "richard.fagan",
+    "modified_date": "10\/21\/2011",
+    "created_date": "10\/20\/2011",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 113.08379,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

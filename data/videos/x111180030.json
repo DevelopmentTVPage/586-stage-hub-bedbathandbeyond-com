@@ -1,0 +1,118 @@
+{
+    "title": "Convertibles Pantyhose",
+    "description": "",
+    "referenceId": "17128",
+    "date_created": "1502923720",
+    "date_modified": "1517331016",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": "done1",
+    "creator": null,
+    "video_classification1": null,
+    "user_id": "0",
+    "id": "111180030",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "convertibles-pantyhose",
+    "category": "",
+    "duration": "29",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "29",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "29",
+        "prettyDuration": "00:00:29",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/111180030\/1f11b\/thumb-17128-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/111180030\/1f11b\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/111180030\/1f11b\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/111180030\/cc\/vtt\/en_1517331000.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180030\/1f11b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180030\/1f11b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180030\/1f11b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180030\/1f11b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/111180030\/1f11b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "Convertibles Pantyhose \r\nControl top pantyhose have a patented toe flap design. There are no toe seams, but invisible seams on the sides of the toe flap. Simply convert the closed toe flap to an open-toe by flipping it over and under the toes. It's even easy to roll to expose toes and feet. The sheer, soft waistband provides a great fit, and with a cool cotton crotch and shape enhancing control top panty, they can replace underwear. The pull-resistant woven 20 Denier yarn always remains resilient for all day fit and comfort, plus the silky smooth yarn lets your skin breathe. Best of all there's no gathering, sagging or unsightly stretching. 86% nylon\/14% Lycra\u00ae Spandex. Hand wash. Made in the USA. Size A fits 4' 10\" to 5' 5\" and 90 to 140 pounds. Size B fits 5' 5\" to 5' 8\" and 115 to 165 pounds. Size C fits 5' 4\" to 6' and 145 to 195 pounds. Size D fits 5' 6\" to 6' and 170 to 230 pounds.",
+    "VV_VI": "",
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": "",
+    "delete": "",
+    "notes": "",
+    "uploader": "n\/a",
+    "modified_date": "8\/5\/2011",
+    "created_date": "10\/22\/2010",
+    "tvp_profiles": [
+        "18",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 835.39905,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}
